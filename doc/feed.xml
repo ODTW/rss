@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+       xmlns:dc="http://purl.org/dc/elements/1.1/"
+       xmlns:atom="http://www.w3.org/2005/Atom"
+       xmlns:content="http://purl.org/rss/1.0/modules/content/">
+       <channel>
+              <title>data.gov.tw - Added Datasets</title>
+              <link>https://www.opendata.tw/rss</link>
+              <description>Feed of Datasets added to daat.gov.tw</description>
+              <language>zh-TW</language>
+              <lastBuildDate>Fri, 03 Jun 2022 14:33:56 +0800</lastBuildDate>
+              <generator>rfeed v1.1.1</generator>
+              <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+              <item>
+                     <title>106年9月底公司登記異動表.csv</title>
+                     <link>https://data.gov.tw/dataset/155493</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供本市各行業公司登記家數統計表供民眾參考使用。&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 桃園市政府經濟發展局&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Thu, 02 Jun 2022 09:57:12 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>106年9月底公司登記異動表.csv</h1>
+            <p><b>資料集說明</b>: 提供本市各行業公司登記家數統計表供民眾參考使用。</p>
+            <p><b>發佈單位</b>: 桃園市政府經濟發展局</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155493</guid>
+              </item>
+              <item>
+                     <title>104年水質檢驗報告九月上旬</title>
+                     <link>https://data.gov.tw/dataset/155494</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 本府衛生局為維護泳池水質衛生，保障本市民眾消費之權利，每月定期抽驗泳池及三溫暖水質，分為上旬及下旬各1次。衛生局水質檢驗項目，包含pH值(標準值6.5-8.0)、自由有效餘氯(1.0-3.0ppm)、生菌數(每毫升低於500CFU)及大腸桿菌數(每100毫升不得檢出大腸桿菌)，如抽驗不合格將要求複查，經複查仍未符規定業者，將依桃園縣營業衛生管理自治條例裁處處新臺幣3千至1萬5千元罰鍰，並得按次處罰至完全改善為止。如對水質檢驗有任何疑問，可撥打衛生局防疫專線0800-033-355或1999市民諮詢服務熱線洽詢。&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Thu, 02 Jun 2022 09:34:41 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>104年水質檢驗報告九月上旬</h1>
+            <p><b>資料集說明</b>: 本府衛生局為維護泳池水質衛生，保障本市民眾消費之權利，每月定期抽驗泳池及三溫暖水質，分為上旬及下旬各1次。衛生局水質檢驗項目，包含pH值(標準值6.5-8.0)、自由有效餘氯(1.0-3.0ppm)、生菌數(每毫升低於500CFU)及大腸桿菌數(每100毫升不得檢出大腸桿菌)，如抽驗不合格將要求複查，經複查仍未符規定業者，將依桃園縣營業衛生管理自治條例裁處處新臺幣3千至1萬5千元罰鍰，並得按次處罰至完全改善為止。如對水質檢驗有任何疑問，可撥打衛生局防疫專線0800-033-355或1999市民諮詢服務熱線洽詢。</p>
+            <p><b>發佈單位</b>: 桃園市政府衛生局</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155494</guid>
+              </item>
+              <item>
+                     <title>桃園市火災次數按起火原因分10609.csv</title>
+                     <link>https://data.gov.tw/dataset/155495</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供本市火災案件起火之原因。&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 桃園市政府消防局&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Mon, 30 May 2022 00:23:37 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>桃園市火災次數按起火原因分10609.csv</h1>
+            <p><b>資料集說明</b>: 提供本市火災案件起火之原因。</p>
+            <p><b>發佈單位</b>: 桃園市政府消防局</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155495</guid>
+              </item>
+              <item>
+                     <title>106年2月底公司登記異動表.csv</title>
+                     <link>https://data.gov.tw/dataset/155496</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供本市各行業公司登記家數統計表供民眾參考使用。&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 桃園市政府經濟發展局&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Thu, 02 Jun 2022 10:05:33 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>106年2月底公司登記異動表.csv</h1>
+            <p><b>資料集說明</b>: 提供本市各行業公司登記家數統計表供民眾參考使用。</p>
+            <p><b>發佈單位</b>: 桃園市政府經濟發展局</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155496</guid>
+              </item>
+              <item>
+                     <title>106年12月底公司登記異動表.csv</title>
+                     <link>https://data.gov.tw/dataset/155497</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供本市各行業公司登記家數統計表供民眾參考使用。&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 桃園市政府經濟發展局&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Thu, 02 Jun 2022 10:02:29 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>106年12月底公司登記異動表.csv</h1>
+            <p><b>資料集說明</b>: 提供本市各行業公司登記家數統計表供民眾參考使用。</p>
+            <p><b>發佈單位</b>: 桃園市政府經濟發展局</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155497</guid>
+              </item>
+              <item>
+                     <title>105年8月底公司登記異動表.csv</title>
+                     <link>https://data.gov.tw/dataset/155498</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供本市各行業公司登記家數統計表供民眾參考使用。&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 桃園市政府經濟發展局&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Thu, 02 Jun 2022 10:10:23 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>105年8月底公司登記異動表.csv</h1>
+            <p><b>資料集說明</b>: 提供本市各行業公司登記家數統計表供民眾參考使用。</p>
+            <p><b>發佈單位</b>: 桃園市政府經濟發展局</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155498</guid>
+              </item>
+              <item>
+                     <title>列管場址(農地土壤)-opendata-1101102</title>
+                     <link>https://data.gov.tw/dataset/155499</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 桃園市全市列管農地，依據土壤及地下水污染整治法第12條第2項規定，當食用作物農地超過標準時，即進行公告列管，列管期間禁止耕作食用作物，並將依法進行污染改善作業，再經環保局土壤採樣驗證分析，使污染濃度降至食用作物管制標準以下，可望解除列管，回復農地原有之用途。&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 桃園市政府環境保護局&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Thu, 02 Jun 2022 10:11:39 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>列管場址(農地土壤)-opendata-1101102</h1>
+            <p><b>資料集說明</b>: 桃園市全市列管農地，依據土壤及地下水污染整治法第12條第2項規定，當食用作物農地超過標準時，即進行公告列管，列管期間禁止耕作食用作物，並將依法進行污染改善作業，再經環保局土壤採樣驗證分析，使污染濃度降至食用作物管制標準以下，可望解除列管，回復農地原有之用途。</p>
+            <p><b>發佈單位</b>: 桃園市政府環境保護局</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155499</guid>
+              </item>
+              <item>
+                     <title>106年6月底公司登記異動表.csv</title>
+                     <link>https://data.gov.tw/dataset/155500</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供本市各行業公司登記家數統計表供民眾參考使用。&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 桃園市政府經濟發展局&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Thu, 02 Jun 2022 10:01:23 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>106年6月底公司登記異動表.csv</h1>
+            <p><b>資料集說明</b>: 提供本市各行業公司登記家數統計表供民眾參考使用。</p>
+            <p><b>發佈單位</b>: 桃園市政府經濟發展局</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155500</guid>
+              </item>
+              <item>
+                     <title>桃園市火災次數按起火原因分10601.csv</title>
+                     <link>https://data.gov.tw/dataset/155501</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供本市火災案件起火之原因。&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 桃園市政府消防局&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Mon, 30 May 2022 00:19:20 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>桃園市火災次數按起火原因分10601.csv</h1>
+            <p><b>資料集說明</b>: 提供本市火災案件起火之原因。</p>
+            <p><b>發佈單位</b>: 桃園市政府消防局</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155501</guid>
+              </item>
+              <item>
+                     <title>107年1月底公司登記異動表.csv</title>
+                     <link>https://data.gov.tw/dataset/155502</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供本市各行業公司登記家數統計表供民眾參考使用。&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 桃園市政府經濟發展局&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Thu, 02 Jun 2022 09:36:01 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>107年1月底公司登記異動表.csv</h1>
+            <p><b>資料集說明</b>: 提供本市各行業公司登記家數統計表供民眾參考使用。</p>
+            <p><b>發佈單位</b>: 桃園市政府經濟發展局</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155502</guid>
+              </item>
+              <item>
+                     <title>106年5月底公司登記異動表.csv</title>
+                     <link>https://data.gov.tw/dataset/155503</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供本市各行業公司登記家數統計表供民眾參考使用。&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 桃園市政府經濟發展局&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Thu, 02 Jun 2022 10:03:26 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>106年5月底公司登記異動表.csv</h1>
+            <p><b>資料集說明</b>: 提供本市各行業公司登記家數統計表供民眾參考使用。</p>
+            <p><b>發佈單位</b>: 桃園市政府經濟發展局</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155503</guid>
+              </item>
+              <item>
+                     <title>桃園市火災次數按起火原因分10704.csv</title>
+                     <link>https://data.gov.tw/dataset/155504</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供本市火災案件起火之原因。&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 桃園市政府消防局&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Mon, 30 May 2022 00:24:20 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>桃園市火災次數按起火原因分10704.csv</h1>
+            <p><b>資料集說明</b>: 提供本市火災案件起火之原因。</p>
+            <p><b>發佈單位</b>: 桃園市政府消防局</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155504</guid>
+              </item>
+              <item>
+                     <title>106年3月底公司登記異動表.csv</title>
+                     <link>https://data.gov.tw/dataset/155505</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供本市各行業公司登記家數統計表供民眾參考使用。&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 桃園市政府經濟發展局&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Thu, 02 Jun 2022 10:05:04 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>106年3月底公司登記異動表.csv</h1>
+            <p><b>資料集說明</b>: 提供本市各行業公司登記家數統計表供民眾參考使用。</p>
+            <p><b>發佈單位</b>: 桃園市政府經濟發展局</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155505</guid>
+              </item>
+              <item>
+                     <title>桃園市火災次數按起火原因分10606.csv</title>
+                     <link>https://data.gov.tw/dataset/155506</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供本市火災案件起火之原因。&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 桃園市政府消防局&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Mon, 30 May 2022 00:24:50 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>桃園市火災次數按起火原因分10606.csv</h1>
+            <p><b>資料集說明</b>: 提供本市火災案件起火之原因。</p>
+            <p><b>發佈單位</b>: 桃園市政府消防局</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155506</guid>
+              </item>
+              <item>
+                     <title>106年8月底公司登記異動表.csv</title>
+                     <link>https://data.gov.tw/dataset/155507</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供本市各行業公司登記家數統計表供民眾參考使用。&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 桃園市政府經濟發展局&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Thu, 02 Jun 2022 09:57:54 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>106年8月底公司登記異動表.csv</h1>
+            <p><b>資料集說明</b>: 提供本市各行業公司登記家數統計表供民眾參考使用。</p>
+            <p><b>發佈單位</b>: 桃園市政府經濟發展局</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155507</guid>
+              </item>
+              <item>
+                     <title>105年11月底公司登記異動表.csv</title>
+                     <link>https://data.gov.tw/dataset/155508</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供本市各行業公司登記家數統計表供民眾參考使用。&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 桃園市政府經濟發展局&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Thu, 02 Jun 2022 10:07:25 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>105年11月底公司登記異動表.csv</h1>
+            <p><b>資料集說明</b>: 提供本市各行業公司登記家數統計表供民眾參考使用。</p>
+            <p><b>發佈單位</b>: 桃園市政府經濟發展局</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155508</guid>
+              </item>
+              <item>
+                     <title>106年1月底公司登記異動表.csv</title>
+                     <link>https://data.gov.tw/dataset/155509</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供本市各行業公司登記家數統計表供民眾參考使用。&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 桃園市政府經濟發展局&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Thu, 02 Jun 2022 10:06:05 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>106年1月底公司登記異動表.csv</h1>
+            <p><b>資料集說明</b>: 提供本市各行業公司登記家數統計表供民眾參考使用。</p>
+            <p><b>發佈單位</b>: 桃園市政府經濟發展局</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155509</guid>
+              </item>
+              <item>
+                     <title>105年12月底公司登記異動表.csv</title>
+                     <link>https://data.gov.tw/dataset/155510</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供本市各行業公司登記家數統計表供民眾參考使用。&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 桃園市政府經濟發展局&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Thu, 02 Jun 2022 10:06:48 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>105年12月底公司登記異動表.csv</h1>
+            <p><b>資料集說明</b>: 提供本市各行業公司登記家數統計表供民眾參考使用。</p>
+            <p><b>發佈單位</b>: 桃園市政府經濟發展局</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155510</guid>
+              </item>
+              <item>
+                     <title>105年10月底公司登記異動表.csv</title>
+                     <link>https://data.gov.tw/dataset/155511</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供本市各行業公司登記家數統計表供民眾參考使用。&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 桃園市政府經濟發展局&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Thu, 02 Jun 2022 10:08:00 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>105年10月底公司登記異動表.csv</h1>
+            <p><b>資料集說明</b>: 提供本市各行業公司登記家數統計表供民眾參考使用。</p>
+            <p><b>發佈單位</b>: 桃園市政府經濟發展局</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155511</guid>
+              </item>
+              <item>
+                     <title>桃園市火災次數按起火原因分10603.csv</title>
+                     <link>https://data.gov.tw/dataset/155512</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供本市火災案件起火之原因。&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 桃園市政府消防局&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Mon, 30 May 2022 00:24:13 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>桃園市火災次數按起火原因分10603.csv</h1>
+            <p><b>資料集說明</b>: 提供本市火災案件起火之原因。</p>
+            <p><b>發佈單位</b>: 桃園市政府消防局</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155512</guid>
+              </item>
+              <item>
+                     <title>桃園市火災次數按起火原因分10604.csv</title>
+                     <link>https://data.gov.tw/dataset/155513</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供本市火災案件起火之原因。&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 桃園市政府消防局&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Mon, 30 May 2022 00:24:27 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>桃園市火災次數按起火原因分10604.csv</h1>
+            <p><b>資料集說明</b>: 提供本市火災案件起火之原因。</p>
+            <p><b>發佈單位</b>: 桃園市政府消防局</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155513</guid>
+              </item>
+              <item>
+                     <title>106年11月底公司登記異動表.csv</title>
+                     <link>https://data.gov.tw/dataset/155514</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供本市各行業公司登記家數統計表供民眾參考使用。&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 桃園市政府經濟發展局&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Thu, 02 Jun 2022 09:55:03 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>106年11月底公司登記異動表.csv</h1>
+            <p><b>資料集說明</b>: 提供本市各行業公司登記家數統計表供民眾參考使用。</p>
+            <p><b>發佈單位</b>: 桃園市政府經濟發展局</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155514</guid>
+              </item>
+              <item>
+                     <title>105年9月底公司登記異動表.csv</title>
+                     <link>https://data.gov.tw/dataset/155515</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供本市各行業公司登記家數統計表供民眾參考使用。&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 桃園市政府經濟發展局&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Thu, 02 Jun 2022 10:08:42 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>105年9月底公司登記異動表.csv</h1>
+            <p><b>資料集說明</b>: 提供本市各行業公司登記家數統計表供民眾參考使用。</p>
+            <p><b>發佈單位</b>: 桃園市政府經濟發展局</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155515</guid>
+              </item>
+              <item>
+                     <title>桃園市火災次數按起火原因分10707.csv</title>
+                     <link>https://data.gov.tw/dataset/155516</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供本市火災案件起火之原因。&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 桃園市政府消防局&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Mon, 30 May 2022 00:24:56 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>桃園市火災次數按起火原因分10707.csv</h1>
+            <p><b>資料集說明</b>: 提供本市火災案件起火之原因。</p>
+            <p><b>發佈單位</b>: 桃園市政府消防局</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155516</guid>
+              </item>
+              <item>
+                     <title>桃園市火災次數按起火原因分10711.csv</title>
+                     <link>https://data.gov.tw/dataset/155517</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供本市火災案件起火之原因。&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 桃園市政府消防局&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Mon, 30 May 2022 00:23:31 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>桃園市火災次數按起火原因分10711.csv</h1>
+            <p><b>資料集說明</b>: 提供本市火災案件起火之原因。</p>
+            <p><b>發佈單位</b>: 桃園市政府消防局</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155517</guid>
+              </item>
+              <item>
+                     <title>105年7月底公司登記異動表.csv</title>
+                     <link>https://data.gov.tw/dataset/155518</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供本市各行業公司登記家數統計表供民眾參考使用。&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 桃園市政府經濟發展局&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Thu, 02 Jun 2022 10:11:00 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>105年7月底公司登記異動表.csv</h1>
+            <p><b>資料集說明</b>: 提供本市各行業公司登記家數統計表供民眾參考使用。</p>
+            <p><b>發佈單位</b>: 桃園市政府經濟發展局</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155518</guid>
+              </item>
+              <item>
+                     <title>桃園市火災次數按起火原因分10608.csv</title>
+                     <link>https://data.gov.tw/dataset/155519</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供本市火災案件起火之原因。&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 桃園市政府消防局&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Mon, 30 May 2022 00:23:59 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>桃園市火災次數按起火原因分10608.csv</h1>
+            <p><b>資料集說明</b>: 提供本市火災案件起火之原因。</p>
+            <p><b>發佈單位</b>: 桃園市政府消防局</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155519</guid>
+              </item>
+              <item>
+                     <title>106年10月底公司登記異動表.csv</title>
+                     <link>https://data.gov.tw/dataset/155520</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供本市各行業公司登記家數統計表供民眾參考使用。&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 桃園市政府經濟發展局&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Thu, 02 Jun 2022 09:56:33 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>106年10月底公司登記異動表.csv</h1>
+            <p><b>資料集說明</b>: 提供本市各行業公司登記家數統計表供民眾參考使用。</p>
+            <p><b>發佈單位</b>: 桃園市政府經濟發展局</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155520</guid>
+              </item>
+              <item>
+                     <title>106年7月底公司登記異動表.csv</title>
+                     <link>https://data.gov.tw/dataset/155521</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供本市各行業公司登記家數統計表供民眾參考使用。&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 桃園市政府經濟發展局&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Thu, 02 Jun 2022 10:02:45 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>106年7月底公司登記異動表.csv</h1>
+            <p><b>資料集說明</b>: 提供本市各行業公司登記家數統計表供民眾參考使用。</p>
+            <p><b>發佈單位</b>: 桃園市政府經濟發展局</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155521</guid>
+              </item>
+              <item>
+                     <title>桃園市火災次數按起火原因分10706.csv</title>
+                     <link>https://data.gov.tw/dataset/155522</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供本市火災案件起火之原因。&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 桃園市政府消防局&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Mon, 30 May 2022 00:24:45 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>桃園市火災次數按起火原因分10706.csv</h1>
+            <p><b>資料集說明</b>: 提供本市火災案件起火之原因。</p>
+            <p><b>發佈單位</b>: 桃園市政府消防局</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155522</guid>
+              </item>
+              <item>
+                     <title>桃園市火災次數按起火原因分10710.csv</title>
+                     <link>https://data.gov.tw/dataset/155523</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供本市火災案件起火之原因。&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 桃園市政府消防局&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Mon, 30 May 2022 00:23:44 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>桃園市火災次數按起火原因分10710.csv</h1>
+            <p><b>資料集說明</b>: 提供本市火災案件起火之原因。</p>
+            <p><b>發佈單位</b>: 桃園市政府消防局</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155523</guid>
+              </item>
+              <item>
+                     <title>桃園市火災次數按起火原因分10709.csv</title>
+                     <link>https://data.gov.tw/dataset/155524</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供本市火災案件起火之原因。&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 桃園市政府消防局&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Mon, 30 May 2022 00:23:50 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>桃園市火災次數按起火原因分10709.csv</h1>
+            <p><b>資料集說明</b>: 提供本市火災案件起火之原因。</p>
+            <p><b>發佈單位</b>: 桃園市政府消防局</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155524</guid>
+              </item>
+              <item>
+                     <title>桃園市火災次數按起火原因分10708.csv</title>
+                     <link>https://data.gov.tw/dataset/155525</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供本市火災案件起火之原因。&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 桃園市政府消防局&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Mon, 30 May 2022 00:24:08 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>桃園市火災次數按起火原因分10708.csv</h1>
+            <p><b>資料集說明</b>: 提供本市火災案件起火之原因。</p>
+            <p><b>發佈單位</b>: 桃園市政府消防局</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155525</guid>
+              </item>
+              <item>
+                     <title>106年4月底公司登記異動表.csv</title>
+                     <link>https://data.gov.tw/dataset/155526</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供本市各行業公司登記家數統計表供民眾參考使用。&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 桃園市政府經濟發展局&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Thu, 02 Jun 2022 10:04:11 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>106年4月底公司登記異動表.csv</h1>
+            <p><b>資料集說明</b>: 提供本市各行業公司登記家數統計表供民眾參考使用。</p>
+            <p><b>發佈單位</b>: 桃園市政府經濟發展局</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155526</guid>
+              </item>
+              <item>
+                     <title>環境影響評估開發案現場勘察資料</title>
+                     <link>https://data.gov.tw/dataset/155527</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 環評開發單位或目的事業主管機關預定舉行之環境影響評估現場勘察，於環境影響評估開發案論壇之公告資料。(資料來源網址：https://eiadoc.epa.gov.tw/EIAFORUM/)&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 行政院環境保護署&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Sun, 03 Jan 2021 00:00:00 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>環境影響評估開發案現場勘察資料</h1>
+            <p><b>資料集說明</b>: 環評開發單位或目的事業主管機關預定舉行之環境影響評估現場勘察，於環境影響評估開發案論壇之公告資料。(資料來源網址：https://eiadoc.epa.gov.tw/EIAFORUM/)</p>
+            <p><b>發佈單位</b>: 行政院環境保護署</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155527</guid>
+              </item>
+              <item>
+                     <title>環境影響評估開發案公聽會資料</title>
+                     <link>https://data.gov.tw/dataset/155528</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 環評開發單位或目的事業主管機關預定舉行之環境影響評估公聽會，於環境影響評估開發案論壇之公告資料。(資料來源網址：https://eiadoc.epa.gov.tw/EIAFORUM/)&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 行政院環境保護署&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Sun, 03 Jan 2021 00:00:00 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>環境影響評估開發案公聽會資料</h1>
+            <p><b>資料集說明</b>: 環評開發單位或目的事業主管機關預定舉行之環境影響評估公聽會，於環境影響評估開發案論壇之公告資料。(資料來源網址：https://eiadoc.epa.gov.tw/EIAFORUM/)</p>
+            <p><b>發佈單位</b>: 行政院環境保護署</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155528</guid>
+              </item>
+              <item>
+                     <title>環境影響評估開發案公開說明會資料</title>
+                     <link>https://data.gov.tw/dataset/155529</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 環評開發單位或目的事業主管機關預定舉行之環境影響評估公開說明會，於環境影響評估開發案論壇之公告資料。(資料來源網址：https://eiadoc.epa.gov.tw/EIAFORUM/)&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 行政院環境保護署&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Sun, 03 Jan 2021 00:00:00 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>環境影響評估開發案公開說明會資料</h1>
+            <p><b>資料集說明</b>: 環評開發單位或目的事業主管機關預定舉行之環境影響評估公開說明會，於環境影響評估開發案論壇之公告資料。(資料來源網址：https://eiadoc.epa.gov.tw/EIAFORUM/)</p>
+            <p><b>發佈單位</b>: 行政院環境保護署</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155529</guid>
+              </item>
+              <item>
+                     <title>環境影響評估開發案公開會議資料</title>
+                     <link>https://data.gov.tw/dataset/155530</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 環評開發單位或目的事業主管機關預定舉行之環境影響評估公開會議，於環評開發案論壇之公告資料。(資料來源網址：https://eiadoc.epa.gov.tw/EIAFORUM/)&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 行政院環境保護署&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Sun, 03 Jan 2021 00:00:00 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>環境影響評估開發案公開會議資料</h1>
+            <p><b>資料集說明</b>: 環評開發單位或目的事業主管機關預定舉行之環境影響評估公開會議，於環評開發案論壇之公告資料。(資料來源網址：https://eiadoc.epa.gov.tw/EIAFORUM/)</p>
+            <p><b>發佈單位</b>: 行政院環境保護署</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155530</guid>
+              </item>
+       </channel>
+</rss>
