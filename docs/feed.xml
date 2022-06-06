@@ -505,5 +505,31 @@
             <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
                      <guid isPermaLink="true">https://data.gov.tw/dataset/155530</guid>
               </item>
+                            <item>
+                     <title>中央警察大學各單位電話一覽表</title>
+                     <link>https://data.gov.tw/dataset/155531</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 本校各單位直撥連絡電話&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 中央警察大學&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Mon, 06 Jun 2022 09:19:08 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>中央警察大學各單位電話一覽表</h1>
+            <p><b>資料集說明</b>: 本校各單位直撥連絡電話</p>
+            <p><b>發佈單位</b>: 中央警察大學</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155531</guid>
+              </item>
+              <item>
+                     <title>中央警察大學公共藝術品一覽表</title>
+                     <link>https://data.gov.tw/dataset/155532</link>
+                     <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供本校公共藝術品設置等相關訊息&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 中央警察大學&lt;/p&gt;</description>
+                     <author>whisky@opendata.tw (whisky)</author>
+                     <pubDate>Mon, 06 Jun 2022 09:21:17 +0800</pubDate>
+                     <content:encoded><![CDATA[<h1>中央警察大學公共藝術品一覽表</h1>
+            <p><b>資料集說明</b>: 提供本校公共藝術品設置等相關訊息</p>
+            <p><b>發佈單位</b>: 中央警察大學</p>
+            <div><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/375px-Star_Wars_Logo.svg.png"/></div>]]></content:encoded>
+                     <guid isPermaLink="true">https://data.gov.tw/dataset/155532</guid>
+              </item>
        </channel>
 </rss>
