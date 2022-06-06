@@ -8,9 +8,35 @@
         <link>https://www.opendata.tw/rss</link>
         <description>Feed of Datasets added to daat.gov.tw</description>
         <language>zh-TW</language>
-        <lastBuildDate>Mon, 06 Jun 2022 17:50:04 +0800</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 01:29:49 +0800</lastBuildDate>
         <generator>rfeed v1.1.1</generator>
         <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+        <item>
+            <title>新化學物質資料保護申請表單</title>
+            <link>https://data.gov.tw/dataset/155538</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 登錄人申請新化學物質資料的保護表單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 行政院環境保護署&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: filename;filelocation;description&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 01:02:39 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>新化學物質資料保護申請表單</h1>
+            <p><b>資料集說明</b>: 登錄人申請新化學物質資料的保護表單</p>
+            <p><b>發佈機關</b>: 行政院環境保護署</p>
+            <p><b>主要欄位</b>: filename;filelocation;description</p>
+            <ul>
+                <li><b>關鍵字</b>: </li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155538</guid>
+        </item>
         <item>
             <title>106年9月底公司登記異動表.csv</title>
             <link>https://data.gov.tw/dataset/155493</link>
