@@ -8,7 +8,7 @@
         <link>https://www.opendata.tw/rss</link>
         <description>Feed of Datasets added to daat.gov.tw</description>
         <language>zh-TW</language>
-        <lastBuildDate>Mon, 06 Jun 2022 16:50:52 +0800</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 17:50:04 +0800</lastBuildDate>
         <generator>rfeed v1.1.1</generator>
         <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
         <item>
@@ -582,6 +582,19 @@
             <p><b>發佈單位</b>: 臺灣高雄少年及家事法院</p>
             <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg"/></div>]]></content:encoded>
             <guid isPermaLink="true">https://data.gov.tw/dataset/155536</guid>
+        </item>
+        <item>
+            <title>中高齡者及高齡者就業服務機構服務統計</title>
+            <link>https://data.gov.tw/dataset/155537</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 有關中高齡者及高齡者就業服務機構服務統計相關求職人數(新登記)及求職推介就業人數(有效)。&lt;/p&gt;
+                   &lt;p&gt;&lt;b&gt;發佈單位&lt;/b&gt;: 勞動部勞動力發展署&lt;/p&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 06 Jun 2022 17:39:41 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>中高齡者及高齡者就業服務機構服務統計</h1>
+            <p><b>資料集說明</b>: 有關中高齡者及高齡者就業服務機構服務統計相關求職人數(新登記)及求職推介就業人數(有效)。</p>
+            <p><b>發佈單位</b>: 勞動部勞動力發展署</p>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155537</guid>
         </item>
     </channel>
 </rss>
