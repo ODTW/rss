@@ -4,13 +4,65 @@
     xmlns:atom="http://www.w3.org/2005/Atom"
     xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>data.gov.tw - Added Datasets</title>
+        <title>data.gov.tw - New Datasets</title>
         <link>https://www.opendata.tw/rss</link>
         <description>Feed of Datasets added to daat.gov.tw</description>
         <language>zh-TW</language>
-        <lastBuildDate>Tue, 07 Jun 2022 12:25:03 +0800</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 15:25:03 +0800</lastBuildDate>
         <generator>rfeed v1.1.1</generator>
         <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+        <item>
+            <title>比例尺二萬五千分之一參考索引圖框_121分帶</title>
+            <link>https://data.gov.tw/dataset/155557</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 比例尺二萬五千分之一參考索引圖框_121分帶，適用新版經建版地形圖（shp格式）圖幅查詢套疊。&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 內政部國土測繪中心&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: OBJECTID_1;圖幅_25K&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 15:18:55 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>比例尺二萬五千分之一參考索引圖框_121分帶</h1>
+            <p><b>資料集說明</b>: 比例尺二萬五千分之一參考索引圖框_121分帶，適用新版經建版地形圖（shp格式）圖幅查詢套疊。</p>
+            <p><b>發佈機關</b>: 內政部國土測繪中心</p>
+            <p><b>主要欄位</b>: OBJECTID_1;圖幅_25K</p>
+            <ul>
+                <li><b>關鍵字</b>: </li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155557</guid>
+        </item>
+        <item>
+            <title>比例尺二萬五千分之一參考索引圖框_119分帶</title>
+            <link>https://data.gov.tw/dataset/155558</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 比例尺二萬五千分之一參考索引圖框_119分帶，適用新版經建版地形圖（shp格式）圖幅查詢套疊。&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 內政部國土測繪中心&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: OBJECTID_1;圖幅_25K&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 15:22:08 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>比例尺二萬五千分之一參考索引圖框_119分帶</h1>
+            <p><b>資料集說明</b>: 比例尺二萬五千分之一參考索引圖框_119分帶，適用新版經建版地形圖（shp格式）圖幅查詢套疊。</p>
+            <p><b>發佈機關</b>: 內政部國土測繪中心</p>
+            <p><b>主要欄位</b>: OBJECTID_1;圖幅_25K</p>
+            <ul>
+                <li><b>關鍵字</b>: </li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155558</guid>
+        </item>
         <item>
             <title>新化學物質資料保護申請表單</title>
             <link>https://data.gov.tw/dataset/155538</link>
