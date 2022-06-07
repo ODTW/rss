@@ -8,7 +8,7 @@
         <link>https://www.opendata.tw/rss</link>
         <description>Feed of Datasets added to daat.gov.tw</description>
         <language>zh-TW</language>
-        <lastBuildDate>Tue, 07 Jun 2022 01:29:49 +0800</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 12:25:03 +0800</lastBuildDate>
         <generator>rfeed v1.1.1</generator>
         <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
         <item>
@@ -36,6 +36,84 @@
             </ul>
             <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
             <guid isPermaLink="true">https://data.gov.tw/dataset/155538</guid>
+        </item>
+        <item>
+            <title>111年度臺灣新北地方法院1-12月份會計報告</title>
+            <link>https://data.gov.tw/dataset/155539</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 臺灣新北地方法院111年度1-12月份會計報告&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 臺灣新北地方法院&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 111年度臺灣新北地方法院2月份會計報告&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府支出&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府支出&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 10:31:27 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>111年度臺灣新北地方法院1-12月份會計報告</h1>
+            <p><b>資料集說明</b>: 臺灣新北地方法院111年度1-12月份會計報告</p>
+            <p><b>發佈機關</b>: 臺灣新北地方法院</p>
+            <p><b>主要欄位</b>: 111年度臺灣新北地方法院2月份會計報告</p>
+            <ul>
+                <li><b>關鍵字</b>: 政府支出</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 政府支出</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155539</guid>
+        </item>
+        <item>
+            <title>臺北市政府消防局歲入預算表</title>
+            <link>https://data.gov.tw/dataset/155544</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 罰款及賠償收入、規費收入、財產收入、補助及協助收入、其他收入&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 臺北市政府消防局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 科目名稱;本年度預算數;上年度預算數;前年度決算數;本年度與上年度比較&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府預算&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府預算&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 12:14:48 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>臺北市政府消防局歲入預算表</h1>
+            <p><b>資料集說明</b>: 罰款及賠償收入、規費收入、財產收入、補助及協助收入、其他收入</p>
+            <p><b>發佈機關</b>: 臺北市政府消防局</p>
+            <p><b>主要欄位</b>: 科目名稱;本年度預算數;上年度預算數;前年度決算數;本年度與上年度比較</p>
+            <ul>
+                <li><b>關鍵字</b>: 政府預算</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 政府預算</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155544</guid>
+        </item>
+        <item>
+            <title>臺北市政府消防局歲出預算表</title>
+            <link>https://data.gov.tw/dataset/155545</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 行政管理、災害防救業務、消防工作、大隊救災救護業務、接受中央各部會補助業務支出、土地購置、營建工程、交通及運輸設備、其他設備、接受中央各部會補助建設支出、第一預備金&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 臺北市政府消防局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 科目名稱;本年度預算數;上年度預算數;前年度決算數;本年度與上年度比較&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 科目名稱、本年度預算數、上年度預算數、前年度決算數、本年度與上年度比較, 政府預算&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府預算&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 12:14:56 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>臺北市政府消防局歲出預算表</h1>
+            <p><b>資料集說明</b>: 行政管理、災害防救業務、消防工作、大隊救災救護業務、接受中央各部會補助業務支出、土地購置、營建工程、交通及運輸設備、其他設備、接受中央各部會補助建設支出、第一預備金</p>
+            <p><b>發佈機關</b>: 臺北市政府消防局</p>
+            <p><b>主要欄位</b>: 科目名稱;本年度預算數;上年度預算數;前年度決算數;本年度與上年度比較</p>
+            <ul>
+                <li><b>關鍵字</b>: 科目名稱、本年度預算數、上年度預算數、前年度決算數、本年度與上年度比較, 政府預算</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 政府預算</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155545</guid>
         </item>
         <item>
             <title>106年9月底公司登記異動表.csv</title>
