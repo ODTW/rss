@@ -4,65 +4,13 @@
     xmlns:atom="http://www.w3.org/2005/Atom"
     xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>data.gov.tw - New Datasets</title>
+        <title>data.gov.tw - Added Datasets</title>
         <link>https://www.opendata.tw/rss</link>
         <description>Feed of Datasets added to daat.gov.tw</description>
         <language>zh-TW</language>
-        <lastBuildDate>Tue, 07 Jun 2022 15:25:03 +0800</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 19:55:03 +0800</lastBuildDate>
         <generator>rfeed v1.1.1</generator>
         <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
-        <item>
-            <title>比例尺二萬五千分之一參考索引圖框_121分帶</title>
-            <link>https://data.gov.tw/dataset/155557</link>
-            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 比例尺二萬五千分之一參考索引圖框_121分帶，適用新版經建版地形圖（shp格式）圖幅查詢套疊。&lt;/p&gt;
-            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 內政部國土測繪中心&lt;/p&gt;
-            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: OBJECTID_1;圖幅_25K&lt;/p&gt;
-            &lt;ul&gt;
-                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
-                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
-                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
-            &lt;/ul&gt;
-            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
-            <author>whisky@opendata.tw (whisky)</author>
-            <pubDate>Tue, 07 Jun 2022 15:18:55 +0800</pubDate>
-            <content:encoded><![CDATA[<h1>比例尺二萬五千分之一參考索引圖框_121分帶</h1>
-            <p><b>資料集說明</b>: 比例尺二萬五千分之一參考索引圖框_121分帶，適用新版經建版地形圖（shp格式）圖幅查詢套疊。</p>
-            <p><b>發佈機關</b>: 內政部國土測繪中心</p>
-            <p><b>主要欄位</b>: OBJECTID_1;圖幅_25K</p>
-            <ul>
-                <li><b>關鍵字</b>: </li>
-                <li><b>分類</b>: 公共資訊</li>
-                <li><b>主題</b>: 其他</li>
-            </ul>
-            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
-            <guid isPermaLink="true">https://data.gov.tw/dataset/155557</guid>
-        </item>
-        <item>
-            <title>比例尺二萬五千分之一參考索引圖框_119分帶</title>
-            <link>https://data.gov.tw/dataset/155558</link>
-            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 比例尺二萬五千分之一參考索引圖框_119分帶，適用新版經建版地形圖（shp格式）圖幅查詢套疊。&lt;/p&gt;
-            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 內政部國土測繪中心&lt;/p&gt;
-            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: OBJECTID_1;圖幅_25K&lt;/p&gt;
-            &lt;ul&gt;
-                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
-                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
-                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
-            &lt;/ul&gt;
-            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
-            <author>whisky@opendata.tw (whisky)</author>
-            <pubDate>Tue, 07 Jun 2022 15:22:08 +0800</pubDate>
-            <content:encoded><![CDATA[<h1>比例尺二萬五千分之一參考索引圖框_119分帶</h1>
-            <p><b>資料集說明</b>: 比例尺二萬五千分之一參考索引圖框_119分帶，適用新版經建版地形圖（shp格式）圖幅查詢套疊。</p>
-            <p><b>發佈機關</b>: 內政部國土測繪中心</p>
-            <p><b>主要欄位</b>: OBJECTID_1;圖幅_25K</p>
-            <ul>
-                <li><b>關鍵字</b>: </li>
-                <li><b>分類</b>: 公共資訊</li>
-                <li><b>主題</b>: 其他</li>
-            </ul>
-            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
-            <guid isPermaLink="true">https://data.gov.tw/dataset/155558</guid>
-        </item>
         <item>
             <title>新化學物質資料保護申請表單</title>
             <link>https://data.gov.tw/dataset/155538</link>
@@ -166,6 +114,1852 @@
             </ul>
             <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
             <guid isPermaLink="true">https://data.gov.tw/dataset/155545</guid>
+        </item>
+        <item>
+            <title>臺灣嘉義地方法院  111年5月份會計月報</title>
+            <link>https://data.gov.tw/dataset/155549</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 嘉義地方法院  111年5月份會計月報&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 臺灣嘉義地方法院&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 臺灣嘉義地方法院  111年5月份會計月報&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府支出&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府支出&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 14:01:40 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>臺灣嘉義地方法院  111年5月份會計月報</h1>
+            <p><b>資料集說明</b>: 嘉義地方法院  111年5月份會計月報</p>
+            <p><b>發佈機關</b>: 臺灣嘉義地方法院</p>
+            <p><b>主要欄位</b>: 臺灣嘉義地方法院  111年5月份會計月報</p>
+            <ul>
+                <li><b>關鍵字</b>: 政府支出</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 政府支出</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155549</guid>
+        </item>
+        <item>
+            <title>中央警察大學教學研究單位</title>
+            <link>https://data.gov.tw/dataset/155556</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 中央警察大學大學部、研究所及學院等教學研究單位&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 中央警察大學&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: Unit;Department&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 求學及進修&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 15:14:20 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>中央警察大學教學研究單位</h1>
+            <p><b>資料集說明</b>: 中央警察大學大學部、研究所及學院等教學研究單位</p>
+            <p><b>發佈機關</b>: 中央警察大學</p>
+            <p><b>主要欄位</b>: Unit;Department</p>
+            <ul>
+                <li><b>關鍵字</b>: </li>
+                <li><b>分類</b>: 求學及進修</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155556</guid>
+        </item>
+        <item>
+            <title>比例尺二萬五千分之一參考索引圖框_121分帶</title>
+            <link>https://data.gov.tw/dataset/155557</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 比例尺二萬五千分之一參考索引圖框_121分帶，適用新版經建版地形圖（shp格式）圖幅查詢套疊。&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 內政部國土測繪中心&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: OBJECTID_1;圖幅_25K&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 15:18:55 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>比例尺二萬五千分之一參考索引圖框_121分帶</h1>
+            <p><b>資料集說明</b>: 比例尺二萬五千分之一參考索引圖框_121分帶，適用新版經建版地形圖（shp格式）圖幅查詢套疊。</p>
+            <p><b>發佈機關</b>: 內政部國土測繪中心</p>
+            <p><b>主要欄位</b>: OBJECTID_1;圖幅_25K</p>
+            <ul>
+                <li><b>關鍵字</b>: </li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155557</guid>
+        </item>
+        <item>
+            <title>比例尺二萬五千分之一參考索引圖框_119分帶</title>
+            <link>https://data.gov.tw/dataset/155558</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 比例尺二萬五千分之一參考索引圖框_119分帶，適用新版經建版地形圖（shp格式）圖幅查詢套疊。&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 內政部國土測繪中心&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: OBJECTID_1;圖幅_25K&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 15:22:08 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>比例尺二萬五千分之一參考索引圖框_119分帶</h1>
+            <p><b>資料集說明</b>: 比例尺二萬五千分之一參考索引圖框_119分帶，適用新版經建版地形圖（shp格式）圖幅查詢套疊。</p>
+            <p><b>發佈機關</b>: 內政部國土測繪中心</p>
+            <p><b>主要欄位</b>: OBJECTID_1;圖幅_25K</p>
+            <ul>
+                <li><b>關鍵字</b>: </li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155558</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局106年10月份抽驗食品不合格名單</title>
+            <link>https://data.gov.tw/dataset/155559</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:04:20 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局106年10月份抽驗食品不合格名單</h1>
+            <p><b>資料集說明</b>: 桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155559</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局106年3月份抽驗食品不合格名單</title>
+            <link>https://data.gov.tw/dataset/155560</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:23:06 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局106年3月份抽驗食品不合格名單</h1>
+            <p><b>資料集說明</b>: 桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155560</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局109年8月份食品抽驗不合格名單</title>
+            <link>https://data.gov.tw/dataset/155561</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:23:20 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局109年8月份食品抽驗不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155561</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局106年11月份抽驗食品不合格名單</title>
+            <link>https://data.gov.tw/dataset/155562</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:23:25 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局106年11月份抽驗食品不合格名單</h1>
+            <p><b>資料集說明</b>: 桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155562</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局106年1月份抽驗食品不合格名單</title>
+            <link>https://data.gov.tw/dataset/155563</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:23:25 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局106年1月份抽驗食品不合格名單</h1>
+            <p><b>資料集說明</b>: 桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155563</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局110年3月份食品抽驗不合格名單</title>
+            <link>https://data.gov.tw/dataset/155564</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:23:51 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局110年3月份食品抽驗不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155564</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局110年10月份食品抽驗不合格名單</title>
+            <link>https://data.gov.tw/dataset/155565</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:23:53 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局110年10月份食品抽驗不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155565</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局109年9月份食品抽驗不合格名單</title>
+            <link>https://data.gov.tw/dataset/155566</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:24:02 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局109年9月份食品抽驗不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155566</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局109年1月份抽驗食品不合格名單</title>
+            <link>https://data.gov.tw/dataset/155567</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:24:06 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局109年1月份抽驗食品不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155567</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局109年7月份食品抽驗不合格名單</title>
+            <link>https://data.gov.tw/dataset/155568</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:24:20 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局109年7月份食品抽驗不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155568</guid>
+        </item>
+        <item>
+            <title>109市集名攤資料</title>
+            <link>https://data.gov.tw/dataset/155569</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 106-108年度桃園市市集名攤資訊&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府經濟發展局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 年度;組別;獎項;攤名;區;市集名稱;市集地址／攤號&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 市集名攤資訊, 桃園市市集名攤&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:24:47 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>109市集名攤資料</h1>
+            <p><b>資料集說明</b>: 106-108年度桃園市市集名攤資訊</p>
+            <p><b>發佈機關</b>: 桃園市政府經濟發展局</p>
+            <p><b>主要欄位</b>: 年度;組別;獎項;攤名;區;市集名稱;市集地址／攤號</p>
+            <ul>
+                <li><b>關鍵字</b>: 市集名攤資訊, 桃園市市集名攤</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155569</guid>
+        </item>
+        <item>
+            <title>108年市集名攤資訊.csv</title>
+            <link>https://data.gov.tw/dataset/155570</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 106-108年度桃園市市集名攤資訊&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府經濟發展局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 年度;組別;獎項;攤名;區;市集名稱;市集地址／攤號&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 市集名攤資訊, 桃園市市集名攤&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:24:51 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>108年市集名攤資訊.csv</h1>
+            <p><b>資料集說明</b>: 106-108年度桃園市市集名攤資訊</p>
+            <p><b>發佈機關</b>: 桃園市政府經濟發展局</p>
+            <p><b>主要欄位</b>: 年度;組別;獎項;攤名;區;市集名稱;市集地址／攤號</p>
+            <ul>
+                <li><b>關鍵字</b>: 市集名攤資訊, 桃園市市集名攤</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155570</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局109年5月份食品抽驗不合格名單</title>
+            <link>https://data.gov.tw/dataset/155571</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:24:56 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局109年5月份食品抽驗不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155571</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局107年2月份抽驗食品不合格名單</title>
+            <link>https://data.gov.tw/dataset/155572</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:08:37 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局107年2月份抽驗食品不合格名單</h1>
+            <p><b>資料集說明</b>: 桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155572</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局107年8月份抽驗食品不合格名單</title>
+            <link>https://data.gov.tw/dataset/155573</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:09:16 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局107年8月份抽驗食品不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155573</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局108年6月份抽驗食品不合格名單</title>
+            <link>https://data.gov.tw/dataset/155574</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:09:36 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局108年6月份抽驗食品不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155574</guid>
+        </item>
+        <item>
+            <title>111年4月人口與戶籍動態登記</title>
+            <link>https://data.gov.tw/dataset/155575</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 桃園市各區人戶籍動態&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府民政局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 區域別;村里數現有門牌;村里數戶籍登記;鄰數現有門牌;鄰數戶籍登記;戶數;性別;人口數;遷入人數自國外;遷入人數自他省市新北市;遷入人數自他省市臺北市;遷入人數自他省市桃園市;遷入人數自他省市臺中市;遷入人數自他省市臺南市;遷入人數自他省市高雄市;遷入人數自他省市臺灣省;遷入人數自他省市福建省;遷入人數自他省市其他省市;遷入人數自本省他縣市;遷入人數自本縣市他鄉鎮市區;遷入人數初設戶籍;遷入人數其他;遷出人數往國外;遷出人數往他省市新北市;遷出人數往他省市臺北市;遷出人數往他省市桃園市;遷出人數往他省市臺中市;遷出人數往他省市臺南市;遷出人數往他省市高雄市;遷出人數往他省市臺灣省;遷出人數往他省市福建省;遷出人數往他省市其他省市;遷出人數往本省他縣市;遷出人數往本縣市他鄉鎮市區;遷出人數廢止戶籍;遷出人數其他;住址變更人數入;住址變更人數出;行政區域調整人數增;行政區域調整人數減;嬰兒出生總數婚生;嬰兒出生總數非婚生已認領;嬰兒出生總數非婚生未認領;嬰兒出生總數無依兒童;生母原屬國籍大陸港澳地區;生母原屬國籍外國籍;生父原屬國籍大陸港澳地區;生父原屬國籍外國籍;遺腹子;雙胞胎;三胞胎以上;死亡人數;認領人數;收養人數;終止收養人數;監護人數;輔助人數;未成年子女權利義務行使負擔人數;結婚對數_不同性別;結婚對數_相同性別;離婚／終止結婚對數_不同性別;離婚／終止結婚對數_相同性別&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 戶籍動態&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:09:45 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>111年4月人口與戶籍動態登記</h1>
+            <p><b>資料集說明</b>: 桃園市各區人戶籍動態</p>
+            <p><b>發佈機關</b>: 桃園市政府民政局</p>
+            <p><b>主要欄位</b>: 區域別;村里數現有門牌;村里數戶籍登記;鄰數現有門牌;鄰數戶籍登記;戶數;性別;人口數;遷入人數自國外;遷入人數自他省市新北市;遷入人數自他省市臺北市;遷入人數自他省市桃園市;遷入人數自他省市臺中市;遷入人數自他省市臺南市;遷入人數自他省市高雄市;遷入人數自他省市臺灣省;遷入人數自他省市福建省;遷入人數自他省市其他省市;遷入人數自本省他縣市;遷入人數自本縣市他鄉鎮市區;遷入人數初設戶籍;遷入人數其他;遷出人數往國外;遷出人數往他省市新北市;遷出人數往他省市臺北市;遷出人數往他省市桃園市;遷出人數往他省市臺中市;遷出人數往他省市臺南市;遷出人數往他省市高雄市;遷出人數往他省市臺灣省;遷出人數往他省市福建省;遷出人數往他省市其他省市;遷出人數往本省他縣市;遷出人數往本縣市他鄉鎮市區;遷出人數廢止戶籍;遷出人數其他;住址變更人數入;住址變更人數出;行政區域調整人數增;行政區域調整人數減;嬰兒出生總數婚生;嬰兒出生總數非婚生已認領;嬰兒出生總數非婚生未認領;嬰兒出生總數無依兒童;生母原屬國籍大陸港澳地區;生母原屬國籍外國籍;生父原屬國籍大陸港澳地區;生父原屬國籍外國籍;遺腹子;雙胞胎;三胞胎以上;死亡人數;認領人數;收養人數;終止收養人數;監護人數;輔助人數;未成年子女權利義務行使負擔人數;結婚對數_不同性別;結婚對數_相同性別;離婚／終止結婚對數_不同性別;離婚／終止結婚對數_相同性別</p>
+            <ul>
+                <li><b>關鍵字</b>: 戶籍動態</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155575</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局110年1月份食品抽驗不合格名單</title>
+            <link>https://data.gov.tw/dataset/155576</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:09:55 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局110年1月份食品抽驗不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155576</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局108年2月份抽驗食品不合格名單</title>
+            <link>https://data.gov.tw/dataset/155577</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:10:21 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局108年2月份抽驗食品不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155577</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局109年11月份食品抽驗不合格名單</title>
+            <link>https://data.gov.tw/dataset/155578</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:10:33 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局109年11月份食品抽驗不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155578</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局107年9月份抽驗食品不合格名單</title>
+            <link>https://data.gov.tw/dataset/155579</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:10:49 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局107年9月份抽驗食品不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155579</guid>
+        </item>
+        <item>
+            <title>懲戒法院111年度會計月報</title>
+            <link>https://data.gov.tw/dataset/155580</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 懲戒法院111年度會計月報.&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 懲戒法院&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 懲戒法院111年度02月會計月報.&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:10:54 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>懲戒法院111年度會計月報</h1>
+            <p><b>資料集說明</b>: 懲戒法院111年度會計月報.</p>
+            <p><b>發佈機關</b>: 懲戒法院</p>
+            <p><b>主要欄位</b>: 懲戒法院111年度02月會計月報.</p>
+            <ul>
+                <li><b>關鍵字</b>: </li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155580</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局108年10月份抽驗食品不合格名單</title>
+            <link>https://data.gov.tw/dataset/155581</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:11:22 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局108年10月份抽驗食品不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155581</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局111年3月份食品抽驗不合格名單</title>
+            <link>https://data.gov.tw/dataset/155582</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:11:44 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局111年3月份食品抽驗不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155582</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局107年7月份抽驗食品不合格名單</title>
+            <link>https://data.gov.tw/dataset/155583</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:11:54 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局107年7月份抽驗食品不合格名單</h1>
+            <p><b>資料集說明</b>: 桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155583</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局108年5月份抽驗食品不合格名單</title>
+            <link>https://data.gov.tw/dataset/155584</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:12:08 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局108年5月份抽驗食品不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155584</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局107年11月份抽驗食品不合格名單</title>
+            <link>https://data.gov.tw/dataset/155585</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:12:16 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局107年11月份抽驗食品不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155585</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局109年10月份食品抽驗不合格名單</title>
+            <link>https://data.gov.tw/dataset/155586</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:12:28 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局109年10月份食品抽驗不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155586</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局109年2月份抽驗食品不合格名單</title>
+            <link>https://data.gov.tw/dataset/155587</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:12:36 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局109年2月份抽驗食品不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155587</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局110年8月份食品抽驗不合格名單</title>
+            <link>https://data.gov.tw/dataset/155588</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:12:48 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局110年8月份食品抽驗不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155588</guid>
+        </item>
+        <item>
+            <title>桃園市火災出動直升機統計_10808.csv</title>
+            <link>https://data.gov.tw/dataset/155589</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供桃園市各消防分隊每月火災次數及出動直升機數統計&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府消防局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 大隊分隊;受理火災案件數;直升機&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 火災, 消防&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:13:04 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市火災出動直升機統計_10808.csv</h1>
+            <p><b>資料集說明</b>: 提供桃園市各消防分隊每月火災次數及出動直升機數統計</p>
+            <p><b>發佈機關</b>: 桃園市政府消防局</p>
+            <p><b>主要欄位</b>: 大隊分隊;受理火災案件數;直升機</p>
+            <ul>
+                <li><b>關鍵字</b>: 火災, 消防</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155589</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局106年8月份抽驗食品不合格名單</title>
+            <link>https://data.gov.tw/dataset/155590</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:13:13 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局106年8月份抽驗食品不合格名單</h1>
+            <p><b>資料集說明</b>: 桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155590</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局108年1月份抽驗食品不合格名單</title>
+            <link>https://data.gov.tw/dataset/155591</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:13:22 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局108年1月份抽驗食品不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155591</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局108年3月份抽驗食品不合格名單</title>
+            <link>https://data.gov.tw/dataset/155592</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:13:31 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局108年3月份抽驗食品不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155592</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局110年5月份食品抽驗不合格名單</title>
+            <link>https://data.gov.tw/dataset/155593</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:13:55 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局110年5月份食品抽驗不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155593</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局108年4月份抽驗食品不合格名單</title>
+            <link>https://data.gov.tw/dataset/155594</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:14:16 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局108年4月份抽驗食品不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155594</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局107年6月份抽驗食品不合格名單</title>
+            <link>https://data.gov.tw/dataset/155595</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:14:30 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局107年6月份抽驗食品不合格名單</h1>
+            <p><b>資料集說明</b>: 桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155595</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局108年8月份抽驗食品不合格名單</title>
+            <link>https://data.gov.tw/dataset/155596</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:14:38 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局108年8月份抽驗食品不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155596</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局108年7月份抽驗食品不合格名單</title>
+            <link>https://data.gov.tw/dataset/155597</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:14:46 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局108年7月份抽驗食品不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155597</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局107年12月份抽驗食品不合格名單</title>
+            <link>https://data.gov.tw/dataset/155598</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:14:55 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局107年12月份抽驗食品不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155598</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局107年3月份抽驗食品不合格名單</title>
+            <link>https://data.gov.tw/dataset/155599</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:15:09 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局107年3月份抽驗食品不合格名單</h1>
+            <p><b>資料集說明</b>: 桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155599</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局106年12月份抽驗食品不合格名單</title>
+            <link>https://data.gov.tw/dataset/155600</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:15:42 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局106年12月份抽驗食品不合格名單</h1>
+            <p><b>資料集說明</b>: 桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155600</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局107年4月份抽驗食品不合格名單</title>
+            <link>https://data.gov.tw/dataset/155601</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:16:57 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局107年4月份抽驗食品不合格名單</h1>
+            <p><b>資料集說明</b>: 桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155601</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局110年9月份食品抽驗不合格名單</title>
+            <link>https://data.gov.tw/dataset/155602</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:17:10 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局110年9月份食品抽驗不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155602</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局110年11月份食品抽驗不合格名單</title>
+            <link>https://data.gov.tw/dataset/155603</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:17:32 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局110年11月份食品抽驗不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155603</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局110年4月份食品抽驗不合格名單</title>
+            <link>https://data.gov.tw/dataset/155604</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:17:42 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局110年4月份食品抽驗不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155604</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局107年1月份抽驗食品不合格名單</title>
+            <link>https://data.gov.tw/dataset/155605</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:17:52 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局107年1月份抽驗食品不合格名單</h1>
+            <p><b>資料集說明</b>: 桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155605</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局111年2月份食品抽驗不合格名單</title>
+            <link>https://data.gov.tw/dataset/155606</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:18:16 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局111年2月份食品抽驗不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155606</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局109年4月份抽驗食品不合格名單</title>
+            <link>https://data.gov.tw/dataset/155607</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:18:34 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局109年4月份抽驗食品不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155607</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局110年6月份食品抽驗不合格名單</title>
+            <link>https://data.gov.tw/dataset/155608</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:18:44 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局110年6月份食品抽驗不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155608</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局106年2月份抽驗食品不合格名單</title>
+            <link>https://data.gov.tw/dataset/155609</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:19:02 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局106年2月份抽驗食品不合格名單</h1>
+            <p><b>資料集說明</b>: 桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155609</guid>
+        </item>
+        <item>
+            <title>106年市集名攤資訊.csv</title>
+            <link>https://data.gov.tw/dataset/155610</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 106-108年度桃園市市集名攤資訊&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府經濟發展局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 年度;組別;獎項;攤名;區;市集名稱;市集地址／攤號&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 市集名攤資訊, 桃園市市集名攤&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:19:19 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>106年市集名攤資訊.csv</h1>
+            <p><b>資料集說明</b>: 106-108年度桃園市市集名攤資訊</p>
+            <p><b>發佈機關</b>: 桃園市政府經濟發展局</p>
+            <p><b>主要欄位</b>: 年度;組別;獎項;攤名;區;市集名稱;市集地址／攤號</p>
+            <ul>
+                <li><b>關鍵字</b>: 市集名攤資訊, 桃園市市集名攤</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155610</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局110年7月份食品抽驗不合格名單</title>
+            <link>https://data.gov.tw/dataset/155611</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:19:33 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局110年7月份食品抽驗不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155611</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局109年6月份食品抽驗不合格名單</title>
+            <link>https://data.gov.tw/dataset/155612</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:20:02 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局109年6月份食品抽驗不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155612</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局109年12月份食品抽驗不合格名單</title>
+            <link>https://data.gov.tw/dataset/155613</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:20:15 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局109年12月份食品抽驗不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155613</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局110年2月份食品抽驗不合格名單</title>
+            <link>https://data.gov.tw/dataset/155614</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:20:40 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局110年2月份食品抽驗不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155614</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局107年10月份抽驗食品不合格名單</title>
+            <link>https://data.gov.tw/dataset/155615</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:20:51 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局107年10月份抽驗食品不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155615</guid>
+        </item>
+        <item>
+            <title>107年市集名攤資訊.csv</title>
+            <link>https://data.gov.tw/dataset/155616</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 106-108年度桃園市市集名攤資訊&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府經濟發展局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 年度;組別;獎項;攤名;區;市集名稱;市集地址／攤號&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 市集名攤資訊, 桃園市市集名攤&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:21:00 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>107年市集名攤資訊.csv</h1>
+            <p><b>資料集說明</b>: 106-108年度桃園市市集名攤資訊</p>
+            <p><b>發佈機關</b>: 桃園市政府經濟發展局</p>
+            <p><b>主要欄位</b>: 年度;組別;獎項;攤名;區;市集名稱;市集地址／攤號</p>
+            <ul>
+                <li><b>關鍵字</b>: 市集名攤資訊, 桃園市市集名攤</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155616</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局111年4月份食品抽驗不合格名單</title>
+            <link>https://data.gov.tw/dataset/155617</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:21:23 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局111年4月份食品抽驗不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155617</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局109年3月份抽驗食品不合格名單</title>
+            <link>https://data.gov.tw/dataset/155618</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:21:36 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局109年3月份抽驗食品不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155618</guid>
+        </item>
+        <item>
+            <title>桃園市北區客家會館場地使用收費基準表</title>
+            <link>https://data.gov.tw/dataset/155619</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 有使用場地需要者，應先聯繫本局確認檔期及場地相關事宜。檔期確認後，申請人應於十四日內填具申請表(如附表)向本局提出申請，並自核准日次日起十四日內一次繳清保證金及場地使用費後，始得依核定時間使用；如未於前開規定期限內完成申請或繳費，視同放棄該檔期。&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府客家事務局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 場地別;時段;場地使用費平日;場地使用費假日;空調費/每時段;清潔費/每時段;單槍投影設備費/每時段;外加接電費/每時段;保證金&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 北區客家會館場地使用收費基準表&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:21:48 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市北區客家會館場地使用收費基準表</h1>
+            <p><b>資料集說明</b>: 有使用場地需要者，應先聯繫本局確認檔期及場地相關事宜。檔期確認後，申請人應於十四日內填具申請表(如附表)向本局提出申請，並自核准日次日起十四日內一次繳清保證金及場地使用費後，始得依核定時間使用；如未於前開規定期限內完成申請或繳費，視同放棄該檔期。</p>
+            <p><b>發佈機關</b>: 桃園市政府客家事務局</p>
+            <p><b>主要欄位</b>: 場地別;時段;場地使用費平日;場地使用費假日;空調費/每時段;清潔費/每時段;單槍投影設備費/每時段;外加接電費/每時段;保證金</p>
+            <ul>
+                <li><b>關鍵字</b>: 北區客家會館場地使用收費基準表</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155619</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局106年4月份抽驗食品不合格名單</title>
+            <link>https://data.gov.tw/dataset/155620</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:21:58 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局106年4月份抽驗食品不合格名單</h1>
+            <p><b>資料集說明</b>: 桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155620</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局107年5月份抽驗食品不合格名單</title>
+            <link>https://data.gov.tw/dataset/155621</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:22:12 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局107年5月份抽驗食品不合格名單</h1>
+            <p><b>資料集說明</b>: 桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155621</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局111年1月份食品抽驗不合格名單</title>
+            <link>https://data.gov.tw/dataset/155622</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:22:24 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局111年1月份食品抽驗不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155622</guid>
+        </item>
+        <item>
+            <title>桃園市政府衛生局110年12月份食品抽驗不合格名單</title>
+            <link>https://data.gov.tw/dataset/155623</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 抽驗, 食品, 不合格&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:22:36 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市政府衛生局110年12月份食品抽驗不合格名單</h1>
+            <p><b>資料集說明</b>: 提供(桃園市)桃園市政府衛生局抽驗食品不合格名單</p>
+            <p><b>發佈機關</b>: 桃園市政府衛生局</p>
+            <p><b>主要欄位</b>: 抽驗日期;案由;檢體名稱;檢驗項目;抽驗廠商名稱;抽驗廠商地址;廠商提供來源名稱;廠商提供來源地址;檢驗結果;檢驗數值及標準;後續處辦情形</p>
+            <ul>
+                <li><b>關鍵字</b>: 抽驗, 食品, 不合格</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155623</guid>
+        </item>
+        <item>
+            <title>110至111年CITES許可文件資料</title>
+            <link>https://data.gov.tw/dataset/155624</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供110至111年CITES許可文件資料&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 經濟部國際貿易局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 核發年度;證書號碼;物種學名;進出口別;出口國家;出口國家別;進口國家;進口國家別;數量;數量單位&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 18:34:02 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>110至111年CITES許可文件資料</h1>
+            <p><b>資料集說明</b>: 提供110至111年CITES許可文件資料</p>
+            <p><b>發佈機關</b>: 經濟部國際貿易局</p>
+            <p><b>主要欄位</b>: 核發年度;證書號碼;物種學名;進出口別;出口國家;出口國家別;進口國家;進口國家別;數量;數量單位</p>
+            <ul>
+                <li><b>關鍵字</b>: </li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155624</guid>
+        </item>
+        <item>
+            <title>臺灣高等法院臺中分院111年5月份會計月報</title>
+            <link>https://data.gov.tw/dataset/155625</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 111年5月份會計月報&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 臺灣高等法院臺中分院&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 臺灣高等法院臺中分院111年5月份會計月報&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府支出&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府支出&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 07 Jun 2022 19:32:04 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>臺灣高等法院臺中分院111年5月份會計月報</h1>
+            <p><b>資料集說明</b>: 111年5月份會計月報</p>
+            <p><b>發佈機關</b>: 臺灣高等法院臺中分院</p>
+            <p><b>主要欄位</b>: 臺灣高等法院臺中分院111年5月份會計月報</p>
+            <ul>
+                <li><b>關鍵字</b>: 政府支出</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 政府支出</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155625</guid>
         </item>
         <item>
             <title>106年9月底公司登記異動表.csv</title>
