@@ -8,9 +8,61 @@
         <link>https://www.opendata.tw/rss</link>
         <description>Feed of Datasets added to daat.gov.tw</description>
         <language>zh-TW</language>
-        <lastBuildDate>Wed, 08 Jun 2022 15:16:51 +0800</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2022 18:25:02 +0800</lastBuildDate>
         <generator>rfeed v1.1.1</generator>
         <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+        <item>
+            <title>臺中市政府研考會111年度辦理公告金額以上採購案件預定招標時程表</title>
+            <link>https://data.gov.tw/dataset/155631</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 臺中市政府研考會111年度辦理公告金額以上採購案件預定招標時程表，因各招標案件可能因政策、預算或其他因素造成本表相關資訊異動，故本表資訊僅供參考。&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 臺中市政府研究發展考核委員會&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 編號;採購案名稱;預算金額(新臺幣);標的屬性;月份&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 採購, 招標&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Wed, 08 Jun 2022 16:26:13 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>臺中市政府研考會111年度辦理公告金額以上採購案件預定招標時程表</h1>
+            <p><b>資料集說明</b>: 臺中市政府研考會111年度辦理公告金額以上採購案件預定招標時程表，因各招標案件可能因政策、預算或其他因素造成本表相關資訊異動，故本表資訊僅供參考。</p>
+            <p><b>發佈機關</b>: 臺中市政府研究發展考核委員會</p>
+            <p><b>主要欄位</b>: 編號;採購案名稱;預算金額(新臺幣);標的屬性;月份</p>
+            <ul>
+                <li><b>關鍵字</b>: 採購, 招標</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155631</guid>
+        </item>
+        <item>
+            <title>臺北市學前兒童聽力篩檢成果</title>
+            <link>https://data.gov.tw/dataset/155632</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 學前兒童聽力篩檢成果&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 臺北市政府衛生局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 項目;全年應篩檢人數;實際篩檢人數;篩檢_疑似陽性個案數;篩檢_疑似異常率;複檢人數合計;複檢人數_正常;複檢人數_異常;尚未複檢人數;複檢異常率&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府統計&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生育保健&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府統計&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Wed, 08 Jun 2022 18:15:02 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>臺北市學前兒童聽力篩檢成果</h1>
+            <p><b>資料集說明</b>: 學前兒童聽力篩檢成果</p>
+            <p><b>發佈機關</b>: 臺北市政府衛生局</p>
+            <p><b>主要欄位</b>: 項目;全年應篩檢人數;實際篩檢人數;篩檢_疑似陽性個案數;篩檢_疑似異常率;複檢人數合計;複檢人數_正常;複檢人數_異常;尚未複檢人數;複檢異常率</p>
+            <ul>
+                <li><b>關鍵字</b>: 政府統計</li>
+                <li><b>分類</b>: 生育保健</li>
+                <li><b>主題</b>: 政府統計</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155632</guid>
+        </item>
         <item>
             <title>宜蘭地政事務所111年5月份土地及建物登記管理統計表</title>
             <link>https://data.gov.tw/dataset/155626</link>
@@ -167,32 +219,7 @@
             <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
             <guid isPermaLink="true">https://data.gov.tw/dataset/155629</guid>
         </item>
-        <item>
-            <title>宜蘭地政事務所111年5月份土地及建物登記管理統計表</title>
-            <link>https://data.gov.tw/dataset/155626</link>
-            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 111年5月份土地及建物登記管理統計表&lt;/p&gt;
-            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 宜蘭縣政府&lt;/p&gt;
-            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 登記原因;件數;土地筆數;土地面積（平方公尺）;建物棟數;建物面積（平方公尺）&lt;/p&gt;
-            &lt;ul&gt;
-                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 土地, 建物, 月報表, 政府統計&lt;/li&gt;
-                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 購屋及遷徙&lt;/li&gt;
-                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府統計&lt;/li&gt;
-            &lt;/ul&gt;
-            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
-            <author>whisky@opendata.tw (whisky)</author>
-            <pubDate>Wed, 08 Jun 2022 01:03:02 +0800</pubDate>
-            <content:encoded><![CDATA[<h1>宜蘭地政事務所111年5月份土地及建物登記管理統計表</h1>
-            <p><b>資料集說明</b>: 111年5月份土地及建物登記管理統計表</p>
-            <p><b>發佈機關</b>: 宜蘭縣政府</p>
-            <p><b>主要欄位</b>: 登記原因;件數;土地筆數;土地面積（平方公尺）;建物棟數;建物面積（平方公尺）</p>
-            <ul>
-                <li><b>關鍵字</b>: 土地, 建物, 月報表, 政府統計</li>
-                <li><b>分類</b>: 購屋及遷徙</li>
-                <li><b>主題</b>: 政府統計</li>
-            </ul>
-            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
-            <guid isPermaLink="true">https://data.gov.tw/dataset/155626</guid>
-        </item>
+
         <item>
             <title>新化學物質資料保護申請表單</title>
             <link>https://data.gov.tw/dataset/155538</link>
