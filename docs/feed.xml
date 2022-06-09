@@ -8,9 +8,243 @@
         <link>https://www.opendata.tw/rss</link>
         <description>Feed of Datasets added to daat.gov.tw</description>
         <language>zh-TW</language>
-        <lastBuildDate>Thu, 09 Jun 2022 13:55:03 +0800</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 19:25:04 +0800</lastBuildDate>
         <generator>rfeed v1.1.1</generator>
         <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+        <item>
+            <title>臺中市政府資訊中心政府資訊公開</title>
+            <link>https://data.gov.tw/dataset/155640</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 臺中市政府資訊中心政府資訊公開檔案&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 臺中市政府研究發展考核委員會&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 公開項目;公開內容資訊說明;內容連結&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 資訊公開, 政府統計&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府統計&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Thu, 09 Jun 2022 14:11:54 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>臺中市政府資訊中心政府資訊公開</h1>
+            <p><b>資料集說明</b>: 臺中市政府資訊中心政府資訊公開檔案</p>
+            <p><b>發佈機關</b>: 臺中市政府研究發展考核委員會</p>
+            <p><b>主要欄位</b>: 公開項目;公開內容資訊說明;內容連結</p>
+            <ul>
+                <li><b>關鍵字</b>: 資訊公開, 政府統計</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 政府統計</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155640</guid>
+        </item>
+        <item>
+            <title>臺灣宜蘭地方法院111年度5月份會計月報</title>
+            <link>https://data.gov.tw/dataset/155641</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 111年度5月份會計月報&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 臺灣宜蘭地方法院&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 臺灣宜蘭地方法院111年度5月份會計月報&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Thu, 09 Jun 2022 16:00:32 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>臺灣宜蘭地方法院111年度5月份會計月報</h1>
+            <p><b>資料集說明</b>: 111年度5月份會計月報</p>
+            <p><b>發佈機關</b>: 臺灣宜蘭地方法院</p>
+            <p><b>主要欄位</b>: 臺灣宜蘭地方法院111年度5月份會計月報</p>
+            <ul>
+                <li><b>關鍵字</b>: </li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155641</guid>
+        </item>
+        <item>
+            <title>雲林海域遊憩景點開放性資料</title>
+            <link>https://data.gov.tw/dataset/155642</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供民眾針對雲林海洋遊憩觀光景點相關服務資訊&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 雲林縣政府文化處&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 欄位名稱;CName;EName;CToldescribe;EToldescribe;CoastalActivities;Amenities;Px;Py;Tel;CAdd;EAdd;Opentime;OpenremarkC;OpenremarkE;Picture1;Picdescribe1C;Picdescribe1E;Picture2;Picdescribe2C;Picdescribe2E;Website;Ticketinfo;Remarks;Facebook;Twitter;Video;MapLink;Changtime&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 海洋景點, 海域遊憩活動, 海洋, 景點資訊, 政府統計&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 休閒旅遊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府統計&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Thu, 09 Jun 2022 16:14:54 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>雲林海域遊憩景點開放性資料</h1>
+            <p><b>資料集說明</b>: 提供民眾針對雲林海洋遊憩觀光景點相關服務資訊</p>
+            <p><b>發佈機關</b>: 雲林縣政府文化處</p>
+            <p><b>主要欄位</b>: 欄位名稱;CName;EName;CToldescribe;EToldescribe;CoastalActivities;Amenities;Px;Py;Tel;CAdd;EAdd;Opentime;OpenremarkC;OpenremarkE;Picture1;Picdescribe1C;Picdescribe1E;Picture2;Picdescribe2C;Picdescribe2E;Website;Ticketinfo;Remarks;Facebook;Twitter;Video;MapLink;Changtime</p>
+            <ul>
+                <li><b>關鍵字</b>: 海洋景點, 海域遊憩活動, 海洋, 景點資訊, 政府統計</li>
+                <li><b>分類</b>: 休閒旅遊</li>
+                <li><b>主題</b>: 政府統計</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155642</guid>
+        </item>
+        <item>
+            <title>111年6月分析陳情焦點議題前10大-依業務類別</title>
+            <link>https://data.gov.tw/dataset/155643</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 每月分析本府陳情案件焦點議題，分析期間市民關心的前十大陳情焦點，並依業務項目分類，藉以瞭解何類業務為陳情焦點項目。&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 臺中市政府研究發展考核委員會&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 序號;排名前10大陳情焦點議題及機關;件數;占該機關受理件數百分比;該機關陳情總件數&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 業務別, 陳情焦點議題, 111年6月, 台中市陳情, 政府統計&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府統計&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Thu, 09 Jun 2022 17:11:16 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>111年6月分析陳情焦點議題前10大-依業務類別</h1>
+            <p><b>資料集說明</b>: 每月分析本府陳情案件焦點議題，分析期間市民關心的前十大陳情焦點，並依業務項目分類，藉以瞭解何類業務為陳情焦點項目。</p>
+            <p><b>發佈機關</b>: 臺中市政府研究發展考核委員會</p>
+            <p><b>主要欄位</b>: 序號;排名前10大陳情焦點議題及機關;件數;占該機關受理件數百分比;該機關陳情總件數</p>
+            <ul>
+                <li><b>關鍵字</b>: 業務別, 陳情焦點議題, 111年6月, 台中市陳情, 政府統計</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 政府統計</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155643</guid>
+        </item>
+        <item>
+            <title>111年6月分析陳情焦點議題前10大-依機關類別</title>
+            <link>https://data.gov.tw/dataset/155644</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 每月分析本府陳情案件焦點議題，分析期間市民關心的前十大陳情焦點，並依機關分類，藉以瞭解陳情業務較多之機關為何。&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 臺中市政府研究發展考核委員會&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 序號;機關;陳情最多業務項目;件數;該業務占排名前十大百分比&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 機關別, 陳情焦點議題, 111年6月, 台中市陳情, 政府統計&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府統計&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Thu, 09 Jun 2022 17:13:47 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>111年6月分析陳情焦點議題前10大-依機關類別</h1>
+            <p><b>資料集說明</b>: 每月分析本府陳情案件焦點議題，分析期間市民關心的前十大陳情焦點，並依機關分類，藉以瞭解陳情業務較多之機關為何。</p>
+            <p><b>發佈機關</b>: 臺中市政府研究發展考核委員會</p>
+            <p><b>主要欄位</b>: 序號;機關;陳情最多業務項目;件數;該業務占排名前十大百分比</p>
+            <ul>
+                <li><b>關鍵字</b>: 機關別, 陳情焦點議題, 111年6月, 台中市陳情, 政府統計</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 政府統計</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155644</guid>
+        </item>
+        <item>
+            <title>2030雙語政策發展藍圖之推動理念、目標及重要策略一覽表</title>
+            <link>https://data.gov.tw/dataset/113769</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 國發會遵循賴院長指示，以2030年為目標，打造我國雙語力，請各部會從需求端積極規劃民眾、產業及政府全面之雙語政策，以提升國人英語力為策略主軸，經跨部會研商並蒐集各界意見後，提出「2030雙語政策發展藍圖」，以推動雙語國家政策，及提升國民英語力以增加國際競爭力。(因政策推度方向調整，故本資料集自110年起不再更新)&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 國家發展委員會&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 類別;次類別;推動機關;推動機關數&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 雙語政策&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Thu, 09 Jun 2022 15:34:06 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>2030雙語政策發展藍圖之推動理念、目標及重要策略一覽表</h1>
+            <p><b>資料集說明</b>: 國發會遵循賴院長指示，以2030年為目標，打造我國雙語力，請各部會從需求端積極規劃民眾、產業及政府全面之雙語政策，以提升國人英語力為策略主軸，經跨部會研商並蒐集各界意見後，提出「2030雙語政策發展藍圖」，以推動雙語國家政策，及提升國民英語力以增加國際競爭力。(因政策推度方向調整，故本資料集自110年起不再更新)</p>
+            <p><b>發佈機關</b>: 國家發展委員會</p>
+            <p><b>主要欄位</b>: 類別;次類別;推動機關;推動機關數</p>
+            <ul>
+                <li><b>關鍵字</b>: 雙語政策</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/113769</guid>
+        </item>
+        <item>
+            <title>臺灣新竹地方法院111年度會計月報</title>
+            <link>https://data.gov.tw/dataset/155645</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 111年度會計月報&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 臺灣新竹地方法院&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 111年02月份會計月報&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府支出&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府支出&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Thu, 09 Jun 2022 17:45:45 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>臺灣新竹地方法院111年度會計月報</h1>
+            <p><b>資料集說明</b>: 111年度會計月報</p>
+            <p><b>發佈機關</b>: 臺灣新竹地方法院</p>
+            <p><b>主要欄位</b>: 111年02月份會計月報</p>
+            <ul>
+                <li><b>關鍵字</b>: 政府支出</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 政府支出</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155645</guid>
+        </item>
+        <item>
+            <title>高雄市都市設計審議審議案量統計</title>
+            <link>https://data.gov.tw/dataset/155646</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 自縣市合併後都市設計審議各層級審議案件統計&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 高雄市政府都市發展局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: seq;年度;簽證案;幹事會;委員會;合計&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Thu, 09 Jun 2022 19:12:14 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>高雄市都市設計審議審議案量統計</h1>
+            <p><b>資料集說明</b>: 自縣市合併後都市設計審議各層級審議案件統計</p>
+            <p><b>發佈機關</b>: 高雄市政府都市發展局</p>
+            <p><b>主要欄位</b>: seq;年度;簽證案;幹事會;委員會;合計</p>
+            <ul>
+                <li><b>關鍵字</b>: </li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155646</guid>
+        </item>
+        <item>
+            <title>高雄市都市設計審議許可案量統計</title>
+            <link>https://data.gov.tw/dataset/155647</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 自縣市合併後都市設計審議各層級許可案件統計&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 高雄市政府都市發展局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: seq;年度;簽證案;幹事會;委員會;合計&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Thu, 09 Jun 2022 19:12:25 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>高雄市都市設計審議許可案量統計</h1>
+            <p><b>資料集說明</b>: 自縣市合併後都市設計審議各層級許可案件統計</p>
+            <p><b>發佈機關</b>: 高雄市政府都市發展局</p>
+            <p><b>主要欄位</b>: seq;年度;簽證案;幹事會;委員會;合計</p>
+            <ul>
+                <li><b>關鍵字</b>: </li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155647</guid>
+        </item>
         <item>
             <title>臺中高等行政法院111年5月會計月報</title>
             <link>https://data.gov.tw/dataset/155633</link>
