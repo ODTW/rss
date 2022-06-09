@@ -8,9 +8,555 @@
         <link>https://www.opendata.tw/rss</link>
         <description>Feed of Datasets added to daat.gov.tw</description>
         <language>zh-TW</language>
-        <lastBuildDate>Wed, 08 Jun 2022 18:25:02 +0800</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 13:55:03 +0800</lastBuildDate>
         <generator>rfeed v1.1.1</generator>
         <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+        <item>
+            <title>臺中高等行政法院111年5月會計月報</title>
+            <link>https://data.gov.tw/dataset/155633</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 111年5月會計月報&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 臺中高等行政法院&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 111年5月會計月報&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府支出&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府支出&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Thu, 09 Jun 2022 09:42:00 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>臺中高等行政法院111年5月會計月報</h1>
+            <p><b>資料集說明</b>: 111年5月會計月報</p>
+            <p><b>發佈機關</b>: 臺中高等行政法院</p>
+            <p><b>主要欄位</b>: 111年5月會計月報</p>
+            <ul>
+                <li><b>關鍵字</b>: 政府支出</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 政府支出</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155633</guid>
+        </item>
+        <item>
+            <title>法官學院111年度5月份會計月報</title>
+            <link>https://data.gov.tw/dataset/155634</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 法官學院111年度5月會計月報&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 法官學院&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 法官學院111年度5月會計月報&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府支出&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府支出&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Thu, 09 Jun 2022 09:57:09 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>法官學院111年度5月份會計月報</h1>
+            <p><b>資料集說明</b>: 法官學院111年度5月會計月報</p>
+            <p><b>發佈機關</b>: 法官學院</p>
+            <p><b>主要欄位</b>: 法官學院111年度5月會計月報</p>
+            <ul>
+                <li><b>關鍵字</b>: 政府支出</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 政府支出</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155634</guid>
+        </item>
+        <item>
+            <title>福建連江地方法院111年度5月會計報告</title>
+            <link>https://data.gov.tw/dataset/155635</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 福建連江地方法院111年度5月份會計報告&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 福建連江地方法院&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 福建連江地方法院111年度5月會計報告&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Thu, 09 Jun 2022 10:21:18 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>福建連江地方法院111年度5月會計報告</h1>
+            <p><b>資料集說明</b>: 福建連江地方法院111年度5月份會計報告</p>
+            <p><b>發佈機關</b>: 福建連江地方法院</p>
+            <p><b>主要欄位</b>: 福建連江地方法院111年度5月會計報告</p>
+            <ul>
+                <li><b>關鍵字</b>: </li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155635</guid>
+        </item>
+        <item>
+            <title>37年至110年彈劾人數統計</title>
+            <link>https://data.gov.tw/dataset/155540</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 被彈劾人數、總計、文官、選任、政務人員、簡任、荐任、委任、法官、檢察官、其他文官、武官、將官、校官、尉官、其他武官&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 監察院&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 被彈劾人數;總計;文官;選任;政務人員;簡任;荐任;委任;法官;檢察官;其他文官;武官;將官;校官;尉官;其他武官&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府統計&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府統計&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Thu, 09 Jun 2022 11:24:01 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>37年至110年彈劾人數統計</h1>
+            <p><b>資料集說明</b>: 被彈劾人數、總計、文官、選任、政務人員、簡任、荐任、委任、法官、檢察官、其他文官、武官、將官、校官、尉官、其他武官</p>
+            <p><b>發佈機關</b>: 監察院</p>
+            <p><b>主要欄位</b>: 被彈劾人數;總計;文官;選任;政務人員;簡任;荐任;委任;法官;檢察官;其他文官;武官;將官;校官;尉官;其他武官</p>
+            <ul>
+                <li><b>關鍵字</b>: 政府統計</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 政府統計</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155540</guid>
+        </item>
+        <item>
+            <title>37至110年糾正案件統計</title>
+            <link>https://data.gov.tw/dataset/155543</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 糾正案件、成立案數、內政及族群委員會、外交及僑政委員會、國防及情報委員會、外交及國防委員會、社會福利及衛生環境委員會、財政及經濟委員會、教育及文化委員會、交通及採購委員會、司法及獄政委員會、送達機關、行政院、其他&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 監察院&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 糾正案件;成立案數;內政及族群委員會;外交及僑政委員會;國防及情報委員會;外交及國防委員會;社會福利及衛生環境委員會;財政及經濟委員會;教育及文化委員會;交通及採購委員會;司法及獄政委員會;送達機關;行政院;其他&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府統計&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府統計&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Thu, 09 Jun 2022 11:24:10 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>37至110年糾正案件統計</h1>
+            <p><b>資料集說明</b>: 糾正案件、成立案數、內政及族群委員會、外交及僑政委員會、國防及情報委員會、外交及國防委員會、社會福利及衛生環境委員會、財政及經濟委員會、教育及文化委員會、交通及採購委員會、司法及獄政委員會、送達機關、行政院、其他</p>
+            <p><b>發佈機關</b>: 監察院</p>
+            <p><b>主要欄位</b>: 糾正案件;成立案數;內政及族群委員會;外交及僑政委員會;國防及情報委員會;外交及國防委員會;社會福利及衛生環境委員會;財政及經濟委員會;教育及文化委員會;交通及採購委員會;司法及獄政委員會;送達機關;行政院;其他</p>
+            <ul>
+                <li><b>關鍵字</b>: 政府統計</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 政府統計</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155543</guid>
+        </item>
+        <item>
+            <title>97年至110年提出調查報告案件性質統計</title>
+            <link>https://data.gov.tw/dataset/155547</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提出調查報告－案件性質、總計、一般案件、重大案件、特殊重大案件、通案性案件調查研究&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 監察院&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 提出調查報告－案件性質;總計;一般案件;重大案件;特殊重大案件;通案性案件調查研究&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府統計&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府統計&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Thu, 09 Jun 2022 11:24:18 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>97年至110年提出調查報告案件性質統計</h1>
+            <p><b>資料集說明</b>: 提出調查報告－案件性質、總計、一般案件、重大案件、特殊重大案件、通案性案件調查研究</p>
+            <p><b>發佈機關</b>: 監察院</p>
+            <p><b>主要欄位</b>: 提出調查報告－案件性質;總計;一般案件;重大案件;特殊重大案件;通案性案件調查研究</p>
+            <ul>
+                <li><b>關鍵字</b>: 政府統計</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 政府統計</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155547</guid>
+        </item>
+        <item>
+            <title>97年至110年彈劾案件統計</title>
+            <link>https://data.gov.tw/dataset/155548</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 彈劾案件、審查結果、成立、公布、不公布、不成立、案情類別、違法、失職、違法失職、移付懲戒、移付懲戒並送司(軍)法機關&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 監察院&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 彈劾案件;審查結果;成立;公布;不公布;不成立;案情類別;違法;失職;違法失職;移付懲戒;移付懲戒並送司(軍)法機關&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府統計&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府統計&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Thu, 09 Jun 2022 11:24:26 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>97年至110年彈劾案件統計</h1>
+            <p><b>資料集說明</b>: 彈劾案件、審查結果、成立、公布、不公布、不成立、案情類別、違法、失職、違法失職、移付懲戒、移付懲戒並送司(軍)法機關</p>
+            <p><b>發佈機關</b>: 監察院</p>
+            <p><b>主要欄位</b>: 彈劾案件;審查結果;成立;公布;不公布;不成立;案情類別;違法;失職;違法失職;移付懲戒;移付懲戒並送司(軍)法機關</p>
+            <ul>
+                <li><b>關鍵字</b>: 政府統計</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 政府統計</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155548</guid>
+        </item>
+        <item>
+            <title>105年至110年人民書狀案件性質統計</title>
+            <link>https://data.gov.tw/dataset/155550</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 按性質別分、總計、內政及族群合計、外交及國防合計、社福及衛環合計、財政及經濟合計、教育及文化合計、交通及採購合計、司法及獄政合計、其他合計&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 監察院&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 按性質別分;總計;內政及族群合計;外交及國防合計;社福及衛環合計;財政及經濟合計;教育及文化合計;交通及採購合計;司法及獄政合計;其他合計&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府統計&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府統計&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Thu, 09 Jun 2022 11:24:33 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>105年至110年人民書狀案件性質統計</h1>
+            <p><b>資料集說明</b>: 按性質別分、總計、內政及族群合計、外交及國防合計、社福及衛環合計、財政及經濟合計、教育及文化合計、交通及採購合計、司法及獄政合計、其他合計</p>
+            <p><b>發佈機關</b>: 監察院</p>
+            <p><b>主要欄位</b>: 按性質別分;總計;內政及族群合計;外交及國防合計;社福及衛環合計;財政及經濟合計;教育及文化合計;交通及採購合計;司法及獄政合計;其他合計</p>
+            <ul>
+                <li><b>關鍵字</b>: 政府統計</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 政府統計</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155550</guid>
+        </item>
+        <item>
+            <title>110年8月至12月審議通過調查報告案件類別統計</title>
+            <link>https://data.gov.tw/dataset/155551</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 按性質別分、總計、內政及族群合計、外交及國防合計、社福及衛環合計、財政及經濟合計、教育及文化合計、交通及採購合計、司法及獄政合計、其他合計&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 監察院&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 按性質別分;總計;內政及族群合計;外交及國防合計;社福及衛環合計;財政及經濟合計;教育及文化合計;交通及採購合計;司法及獄政合計;其他合計&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府統計&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府統計&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Thu, 09 Jun 2022 11:24:41 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>110年8月至12月審議通過調查報告案件類別統計</h1>
+            <p><b>資料集說明</b>: 按性質別分、總計、內政及族群合計、外交及國防合計、社福及衛環合計、財政及經濟合計、教育及文化合計、交通及採購合計、司法及獄政合計、其他合計</p>
+            <p><b>發佈機關</b>: 監察院</p>
+            <p><b>主要欄位</b>: 按性質別分;總計;內政及族群合計;外交及國防合計;社福及衛環合計;財政及經濟合計;教育及文化合計;交通及採購合計;司法及獄政合計;其他合計</p>
+            <ul>
+                <li><b>關鍵字</b>: 政府統計</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 政府統計</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155551</guid>
+        </item>
+        <item>
+            <title>110年1月至7月審議通過調查報告案件類別統計</title>
+            <link>https://data.gov.tw/dataset/155552</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提出調查報告－案件類別、總計、內政、民役政、地政、營建、警政消防、警政、消防、社會行政、海巡、衛生醫療、其他、少數民族、外交僑政、國防、財政、經濟、環保、教育文化、教育、科技、文化、其他、交通採購、司法獄政、其他&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 監察院&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 提出調查報告－案件類別;總計;內政;民役政;地政;營建;警政消防;警政;消防;社會行政;海巡;衛生醫療;其他;少數民族;外交僑政;國防;財政;經濟;環保;教育文化;教育;科技;文化;其他;交通採購;司法獄政;其他&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府統計&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府統計&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Thu, 09 Jun 2022 11:24:50 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>110年1月至7月審議通過調查報告案件類別統計</h1>
+            <p><b>資料集說明</b>: 提出調查報告－案件類別、總計、內政、民役政、地政、營建、警政消防、警政、消防、社會行政、海巡、衛生醫療、其他、少數民族、外交僑政、國防、財政、經濟、環保、教育文化、教育、科技、文化、其他、交通採購、司法獄政、其他</p>
+            <p><b>發佈機關</b>: 監察院</p>
+            <p><b>主要欄位</b>: 提出調查報告－案件類別;總計;內政;民役政;地政;營建;警政消防;警政;消防;社會行政;海巡;衛生醫療;其他;少數民族;外交僑政;國防;財政;經濟;環保;教育文化;教育;科技;文化;其他;交通採購;司法獄政;其他</p>
+            <ul>
+                <li><b>關鍵字</b>: 政府統計</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 政府統計</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155552</guid>
+        </item>
+        <item>
+            <title>各本國銀行資產負債表-國際金融業務分行</title>
+            <link>https://data.gov.tw/dataset/13664</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 依據銀行按期填送未經審定或查核調整之資料彙編&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 中央銀行&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 日期;銀行名稱/項目(單位:新臺幣百萬元);現金及存放同業;透過損益按公允價值衡量之金融資產;避險之金融資產-淨額;附賣回票債券投資;應收承兌票款;應收利息及收益;本期所得稅資產;放款及貼現;減：備抵呆帳;加(減):貼現及放款評價調整;透過其他綜合損益按公允價值衡量之金融資產;按攤銷後成本衡量之債務工具投資;採用權益法之投資-淨額;其他金融資產-淨額;不動產及設備;減：累計折舊;減：累計減損;投資性不動產-淨額;無形資產-淨額;遞延所得稅資產;其他資產-淨額;資產總計;中央銀行及同業存款;透過損益按公允價值衡量之金融負債;避險之金融負債-淨額;附買回票債券負債;承兌匯票;應付利息;本期所得稅負債;存款;加(減)：存款採避險會計之調整數;借入款;承作結構型商品所收本金;其他金融負債;遞延所得稅負債;其他負債;負債總計;營運資金;資本公積;保留盈餘;其他權益;權益總計;負債及權益總計;約定融資額度;應收保證款項;應收信用狀款項;信託資產&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 各本國銀行資產負債表-國際金融業務分行&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Thu, 09 Jun 2022 11:32:49 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>各本國銀行資產負債表-國際金融業務分行</h1>
+            <p><b>資料集說明</b>: 依據銀行按期填送未經審定或查核調整之資料彙編</p>
+            <p><b>發佈機關</b>: 中央銀行</p>
+            <p><b>主要欄位</b>: 日期;銀行名稱/項目(單位:新臺幣百萬元);現金及存放同業;透過損益按公允價值衡量之金融資產;避險之金融資產-淨額;附賣回票債券投資;應收承兌票款;應收利息及收益;本期所得稅資產;放款及貼現;減：備抵呆帳;加(減):貼現及放款評價調整;透過其他綜合損益按公允價值衡量之金融資產;按攤銷後成本衡量之債務工具投資;採用權益法之投資-淨額;其他金融資產-淨額;不動產及設備;減：累計折舊;減：累計減損;投資性不動產-淨額;無形資產-淨額;遞延所得稅資產;其他資產-淨額;資產總計;中央銀行及同業存款;透過損益按公允價值衡量之金融負債;避險之金融負債-淨額;附買回票債券負債;承兌匯票;應付利息;本期所得稅負債;存款;加(減)：存款採避險會計之調整數;借入款;承作結構型商品所收本金;其他金融負債;遞延所得稅負債;其他負債;負債總計;營運資金;資本公積;保留盈餘;其他權益;權益總計;負債及權益總計;約定融資額度;應收保證款項;應收信用狀款項;信託資產</p>
+            <ul>
+                <li><b>關鍵字</b>: 各本國銀行資產負債表-國際金融業務分行</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/13664</guid>
+        </item>
+        <item>
+            <title>各本國銀行資產負債表-國外分行</title>
+            <link>https://data.gov.tw/dataset/13665</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 依據銀行按期填送未經審定或查核調整之資料彙編&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 中央銀行&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 日期;銀行名稱/項目(單位:新臺幣百萬元);現金及存放同業;透過損益按公允價值衡量之金融資產;避險之金融資產-淨額;附賣回票債券投資;應收承兌票款;應收利息及收益;本期所得稅資產;放款及貼現;減：備抵呆帳;加(減):貼現及放款評價調整;透過其他綜合損益按公允價值衡量之金融資產;按攤銷後成本衡量之債務工具投資;採用權益法之投資-淨額;其他金融資產-淨額;不動產及設備;減：累計折舊;減：累計減損;投資性不動產-淨額;無形資產-淨額;遞延所得稅資產;其他資產-淨額;資產總計;中央銀行及同業存款;透過損益按公允價值衡量之金融負債;避險之金融負債-淨額;附買回票債券負債;承兌匯票;應付利息;本期所得稅負債;存款;加(減)：存款採避險會計之調整數;借入款;承作結構型商品所收本金;其他金融負債;遞延所得稅負債;其他負債;負債總計;營運資金;資本公積;保留盈餘;其他權益;權益總計;負債及權益總計;約定融資額度;應收保證款項;應收信用狀款項;信託資產&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 各本國銀行資產負債表-國外分支機構&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Thu, 09 Jun 2022 11:32:09 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>各本國銀行資產負債表-國外分行</h1>
+            <p><b>資料集說明</b>: 依據銀行按期填送未經審定或查核調整之資料彙編</p>
+            <p><b>發佈機關</b>: 中央銀行</p>
+            <p><b>主要欄位</b>: 日期;銀行名稱/項目(單位:新臺幣百萬元);現金及存放同業;透過損益按公允價值衡量之金融資產;避險之金融資產-淨額;附賣回票債券投資;應收承兌票款;應收利息及收益;本期所得稅資產;放款及貼現;減：備抵呆帳;加(減):貼現及放款評價調整;透過其他綜合損益按公允價值衡量之金融資產;按攤銷後成本衡量之債務工具投資;採用權益法之投資-淨額;其他金融資產-淨額;不動產及設備;減：累計折舊;減：累計減損;投資性不動產-淨額;無形資產-淨額;遞延所得稅資產;其他資產-淨額;資產總計;中央銀行及同業存款;透過損益按公允價值衡量之金融負債;避險之金融負債-淨額;附買回票債券負債;承兌匯票;應付利息;本期所得稅負債;存款;加(減)：存款採避險會計之調整數;借入款;承作結構型商品所收本金;其他金融負債;遞延所得稅負債;其他負債;負債總計;營運資金;資本公積;保留盈餘;其他權益;權益總計;負債及權益總計;約定融資額度;應收保證款項;應收信用狀款項;信託資產</p>
+            <ul>
+                <li><b>關鍵字</b>: 各本國銀行資產負債表-國外分支機構</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/13665</guid>
+        </item>
+        <item>
+            <title>各本國銀行綜合損益表-國際金融業務分行</title>
+            <link>https://data.gov.tw/dataset/13666</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 依據銀行按期填送未經審定或查核調整之資料彙編&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 中央銀行&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 期間;銀行名稱/項目(單位:新臺幣百萬元);利息收入;放款及貼現利息;存放及拆放同業利息;附賣回票債券投資利息收入;債券利息;其他利息收入;利息費用;存款利息費用;借入款利息;附買回票債券負債利息費用;結構型商品利息費用;其他利息支出;利息淨收益;利息以外淨收益;手續費淨收益;手續費收入;手續費費用;透過損益按公允價值衡量之金融資產及負債損益;透過其他綜合損益按公允價值衡量之金融資產已實現損益;除列按攤銷後成本衡量之金融資產損益;金融資產重分類損益;兌換損益;資產減損迴轉利益(減損損失);採用權益法認列之子公司與關聯企業及合資損益之份額;其他利息以外淨損益;淨收益;放款呆帳費用;保證責任準備提存;其他呆帳費用;營業費用;繼續營業單位稅前淨利(損);停業單位稅前損益;稅前淨利;所得稅(費用)利益;停業單位所得稅(費用)利益;本期稅後淨利(損);本期其他綜合損益(稅後);本期綜合損益總額(稅後)&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 各本國銀行綜合損益表-國際金融業務分行&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Thu, 09 Jun 2022 11:33:10 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>各本國銀行綜合損益表-國際金融業務分行</h1>
+            <p><b>資料集說明</b>: 依據銀行按期填送未經審定或查核調整之資料彙編</p>
+            <p><b>發佈機關</b>: 中央銀行</p>
+            <p><b>主要欄位</b>: 期間;銀行名稱/項目(單位:新臺幣百萬元);利息收入;放款及貼現利息;存放及拆放同業利息;附賣回票債券投資利息收入;債券利息;其他利息收入;利息費用;存款利息費用;借入款利息;附買回票債券負債利息費用;結構型商品利息費用;其他利息支出;利息淨收益;利息以外淨收益;手續費淨收益;手續費收入;手續費費用;透過損益按公允價值衡量之金融資產及負債損益;透過其他綜合損益按公允價值衡量之金融資產已實現損益;除列按攤銷後成本衡量之金融資產損益;金融資產重分類損益;兌換損益;資產減損迴轉利益(減損損失);採用權益法認列之子公司與關聯企業及合資損益之份額;其他利息以外淨損益;淨收益;放款呆帳費用;保證責任準備提存;其他呆帳費用;營業費用;繼續營業單位稅前淨利(損);停業單位稅前損益;稅前淨利;所得稅(費用)利益;停業單位所得稅(費用)利益;本期稅後淨利(損);本期其他綜合損益(稅後);本期綜合損益總額(稅後)</p>
+            <ul>
+                <li><b>關鍵字</b>: 各本國銀行綜合損益表-國際金融業務分行</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/13666</guid>
+        </item>
+        <item>
+            <title>各本國銀行綜合損益表-國外分行</title>
+            <link>https://data.gov.tw/dataset/13667</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 依據銀行按期填送未經審定或查核調整之資料彙編&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 中央銀行&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 期間;銀行名稱/項目(單位:新臺幣百萬元);利息收入;放款及貼現利息;存放及拆放同業利息;附賣回票債券投資利息收入;債券利息;其他利息收入;利息費用;存款利息費用;借入款利息;附買回票債券負債利息費用;結構型商品利息費用;其他利息支出;利息淨收益;利息以外淨收益;手續費淨收益;手續費收入;手續費費用;透過損益按公允價值衡量之金融資產及負債損益;透過其他綜合損益按公允價值衡量之金融資產已實現損益;除列按攤銷後成本衡量之金融資產損益;金融資產重分類損益;兌換損益;資產減損迴轉利益(減損損失);採用權益法認列之子公司與關聯企業及合資損益之份額;其他利息以外淨損益;淨收益;放款呆帳費用;保證責任準備提存;其他呆帳費用;營業費用;繼續營業單位稅前淨利(損);停業單位稅前損益;稅前淨利;所得稅(費用)利益;停業單位所得稅(費用)利益;本期稅後淨利(損);本期其他綜合損益(稅後);本期綜合損益總額(稅後)&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 各本國銀行綜合損益表-國外分支機構&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Thu, 09 Jun 2022 11:33:25 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>各本國銀行綜合損益表-國外分行</h1>
+            <p><b>資料集說明</b>: 依據銀行按期填送未經審定或查核調整之資料彙編</p>
+            <p><b>發佈機關</b>: 中央銀行</p>
+            <p><b>主要欄位</b>: 期間;銀行名稱/項目(單位:新臺幣百萬元);利息收入;放款及貼現利息;存放及拆放同業利息;附賣回票債券投資利息收入;債券利息;其他利息收入;利息費用;存款利息費用;借入款利息;附買回票債券負債利息費用;結構型商品利息費用;其他利息支出;利息淨收益;利息以外淨收益;手續費淨收益;手續費收入;手續費費用;透過損益按公允價值衡量之金融資產及負債損益;透過其他綜合損益按公允價值衡量之金融資產已實現損益;除列按攤銷後成本衡量之金融資產損益;金融資產重分類損益;兌換損益;資產減損迴轉利益(減損損失);採用權益法認列之子公司與關聯企業及合資損益之份額;其他利息以外淨損益;淨收益;放款呆帳費用;保證責任準備提存;其他呆帳費用;營業費用;繼續營業單位稅前淨利(損);停業單位稅前損益;稅前淨利;所得稅(費用)利益;停業單位所得稅(費用)利益;本期稅後淨利(損);本期其他綜合損益(稅後);本期綜合損益總額(稅後)</p>
+            <ul>
+                <li><b>關鍵字</b>: 各本國銀行綜合損益表-國外分支機構</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/13667</guid>
+        </item>
+        <item>
+            <title>財政部臺北國稅局復查案件處理情形統計表</title>
+            <link>https://data.gov.tw/dataset/32774</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 以轄區內納稅義務人因不服稅捐處分而提起復查案件為統計對象，俾使民眾瞭解本局處理復查案件之辦理情形，資料期間以年統計。&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 財政部臺北國稅局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 稅目別;上期待提會;上期法務科待辦;上期審查單位更正中;本期收案;上期待辦與本期收案件數合計;撤回復查;維持原核定;變更原核定;屬更正案件;程序駁回;本期處理辦結情形合計;本期待提會;本期法務科待辦;本期審查單位更正中;本期待辦件數合計&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: , 政府統計&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府統計&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Thu, 09 Jun 2022 10:37:37 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>財政部臺北國稅局復查案件處理情形統計表</h1>
+            <p><b>資料集說明</b>: 以轄區內納稅義務人因不服稅捐處分而提起復查案件為統計對象，俾使民眾瞭解本局處理復查案件之辦理情形，資料期間以年統計。</p>
+            <p><b>發佈機關</b>: 財政部臺北國稅局</p>
+            <p><b>主要欄位</b>: 稅目別;上期待提會;上期法務科待辦;上期審查單位更正中;本期收案;上期待辦與本期收案件數合計;撤回復查;維持原核定;變更原核定;屬更正案件;程序駁回;本期處理辦結情形合計;本期待提會;本期法務科待辦;本期審查單位更正中;本期待辦件數合計</p>
+            <ul>
+                <li><b>關鍵字</b>: , 政府統計</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 政府統計</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/32774</guid>
+        </item>
+        <item>
+            <title>11年度5月基隆市土地建物登記管理資料</title>
+            <link>https://data.gov.tw/dataset/155636</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 購屋及遷徙: 係指各種房屋買賣、房屋遷移、移⺠等相關資料集&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 基隆市政府地政處&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 111年5月基隆市土地建物登記管理;&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府統計&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 購屋及遷徙&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府統計&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Thu, 09 Jun 2022 11:56:01 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>11年度5月基隆市土地建物登記管理資料</h1>
+            <p><b>資料集說明</b>: 購屋及遷徙: 係指各種房屋買賣、房屋遷移、移⺠等相關資料集</p>
+            <p><b>發佈機關</b>: 基隆市政府地政處</p>
+            <p><b>主要欄位</b>: 111年5月基隆市土地建物登記管理;</p>
+            <ul>
+                <li><b>關鍵字</b>: 政府統計</li>
+                <li><b>分類</b>: 購屋及遷徙</li>
+                <li><b>主題</b>: 政府統計</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155636</guid>
+        </item>
+        <item>
+            <title>截至110年底第6屆監察委員人數性別統計</title>
+            <link>https://data.gov.tw/dataset/155554</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 第6屆監察委員人數、性別合計、男、女&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 監察院&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 第6屆監察委員人數;性別合計;男;女&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府統計&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府統計&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Thu, 09 Jun 2022 11:24:58 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>截至110年底第6屆監察委員人數性別統計</h1>
+            <p><b>資料集說明</b>: 第6屆監察委員人數、性別合計、男、女</p>
+            <p><b>發佈機關</b>: 監察院</p>
+            <p><b>主要欄位</b>: 第6屆監察委員人數;性別合計;男;女</p>
+            <ul>
+                <li><b>關鍵字</b>: 政府統計</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 政府統計</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155554</guid>
+        </item>
+        <item>
+            <title>110年度外交部單位決算</title>
+            <link>https://data.gov.tw/dataset/155630</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 110年度外交部單位決算(審定版)&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 外交部&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 外交部110年單位決算(審定版)_xml檔&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府支出&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府支出&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Thu, 09 Jun 2022 13:00:02 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>110年度外交部單位決算</h1>
+            <p><b>資料集說明</b>: 110年度外交部單位決算(審定版)</p>
+            <p><b>發佈機關</b>: 外交部</p>
+            <p><b>主要欄位</b>: 外交部110年單位決算(審定版)_xml檔</p>
+            <ul>
+                <li><b>關鍵字</b>: 政府支出</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 政府支出</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155630</guid>
+        </item>
+        <item>
+            <title>中央警察大學場館建築中英對照</title>
+            <link>https://data.gov.tw/dataset/155637</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 中央警察大學場館建築中英翻譯參考&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 中央警察大學&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: Chinese_name;English_name&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Thu, 09 Jun 2022 13:51:02 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>中央警察大學場館建築中英對照</h1>
+            <p><b>資料集說明</b>: 中央警察大學場館建築中英翻譯參考</p>
+            <p><b>發佈機關</b>: 中央警察大學</p>
+            <p><b>主要欄位</b>: Chinese_name;English_name</p>
+            <ul>
+                <li><b>關鍵字</b>: </li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155637</guid>
+        </item>
+        <item>
+            <title>中央警察大學人員職稱中英對照</title>
+            <link>https://data.gov.tw/dataset/155638</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 中央警察大學各類職稱中英翻譯參考&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 中央警察大學&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: Chinese_name;English_name&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Thu, 09 Jun 2022 13:52:21 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>中央警察大學人員職稱中英對照</h1>
+            <p><b>資料集說明</b>: 中央警察大學各類職稱中英翻譯參考</p>
+            <p><b>發佈機關</b>: 中央警察大學</p>
+            <p><b>主要欄位</b>: Chinese_name;English_name</p>
+            <ul>
+                <li><b>關鍵字</b>: </li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155638</guid>
+        </item>
+        <item>
+            <title>中央警察大學單位名稱中英對照</title>
+            <link>https://data.gov.tw/dataset/155639</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 中央警察大學各單位名稱中英翻譯參考&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 中央警察大學&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: Chinese_name;English_name&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Thu, 09 Jun 2022 13:54:05 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>中央警察大學單位名稱中英對照</h1>
+            <p><b>資料集說明</b>: 中央警察大學各單位名稱中英翻譯參考</p>
+            <p><b>發佈機關</b>: 中央警察大學</p>
+            <p><b>主要欄位</b>: Chinese_name;English_name</p>
+            <ul>
+                <li><b>關鍵字</b>: </li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155639</guid>
+        </item>
         <item>
             <title>臺中市政府研考會111年度辦理公告金額以上採購案件預定招標時程表</title>
             <link>https://data.gov.tw/dataset/155631</link>
