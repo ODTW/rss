@@ -8,7 +8,7 @@
         <link>https://www.opendata.tw/rss</link>
         <description>Feed of Datasets added to daat.gov.tw</description>
         <language>zh-TW</language>
-        <lastBuildDate>Mon, 13 Jun 2022 11:25:06 +0800</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 17:50:08 +0800</lastBuildDate>
         <generator>rfeed v1.1.1</generator>
         <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
         <item>
@@ -298,89 +298,37 @@
             <guid isPermaLink="true">https://data.gov.tw/dataset/155676</guid>
         </item>
         <item>
-            <title>111年3月人口與戶籍動態登記</title>
-            <link>https://data.gov.tw/dataset/155666</link>
-            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 桃園市各區里鄰戶數、人口數與戶籍動態登記數按性別、登記項目&lt;/p&gt;
-            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府民政局&lt;/p&gt;
-            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 區域別;村里數現有門牌;村里數戶籍登記;鄰數現有門牌;鄰數戶籍登記;戶數;性別;人口數;遷入人數自國外;遷入人數自他省市新北市;遷入人數自他省市臺北市;遷入人數自他省市桃園市;遷入人數自他省市臺中市;遷入人數自他省市臺南市;遷入人數自他省市高雄市;遷入人數自他省市臺灣省;遷入人數自他省市福建省;遷入人數自他省市其他省市;遷入人數自本省他縣市;遷入人數自本縣市他鄉鎮市區;遷入人數初設戶籍;遷入人數其他;遷出人數往國外;遷出人數往他省市新北市;遷出人數往他省市臺北市;遷出人數往他省市桃園市;遷出人數往他省市臺中市;遷出人數往他省市臺南市;遷出人數往他省市高雄市;遷出人數往他省市臺灣省;遷出人數往他省市福建省;遷出人數往他省市其他省市;遷出人數往本省他縣市;遷出人數往本縣市他鄉鎮市區;遷出人數廢止戶籍;遷出人數其他;住址變更人數入;住址變更人數出;行政區域調整人數增;行政區域調整人數減;嬰兒出生總數婚生;嬰兒出生總數非婚生已認領;嬰兒出生總數非婚生未認領;嬰兒出生總數無依兒童;生母原屬國籍大陸港澳地區;生母原屬國籍外國籍;生父原屬國籍大陸港澳地區;生父原屬國籍外國籍;遺腹子;雙胞胎;三胞胎以上;死亡人數;認領人數;收養人數;終止收養人數;監護人數;輔助人數;未成年子女權利義務行使負擔人數;結婚對數_不同性別;結婚對數_相同性別;離婚／終止結婚對數_不同性別;離婚／終止結婚對數_相同性別&lt;/p&gt;
+            <title>育宗特用材料股份有限公司申請對自中國大陸產製進口過氧化苯甲醯產品繼續課徵反傾銷稅落日調查案（第2次）公開資料</title>
+            <link>https://data.gov.tw/dataset/155677</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 育宗特用材料股份有限公司申請對自中國大陸產製進口過氧化苯甲醯產品繼續課徵反傾銷稅落日調查案（第2次），調查相關之新聞訊息、調查問卷、調查報告&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 經濟部貿易調查委員會&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: &lt;/p&gt;
             &lt;ul&gt;
-                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 人口數&lt;/li&gt;
-                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
-                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 傾銷、產業損害, 政府統計&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 投資理財&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府統計&lt;/li&gt;
             &lt;/ul&gt;
             &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
             <author>whisky@opendata.tw (whisky)</author>
-            <pubDate>Sun, 12 Jun 2022 00:49:56 +0800</pubDate>
-            <content:encoded><![CDATA[<h1>111年3月人口與戶籍動態登記</h1>
-            <p><b>資料集說明</b>: 桃園市各區里鄰戶數、人口數與戶籍動態登記數按性別、登記項目</p>
-            <p><b>發佈機關</b>: 桃園市政府民政局</p>
-            <p><b>主要欄位</b>: 區域別;村里數現有門牌;村里數戶籍登記;鄰數現有門牌;鄰數戶籍登記;戶數;性別;人口數;遷入人數自國外;遷入人數自他省市新北市;遷入人數自他省市臺北市;遷入人數自他省市桃園市;遷入人數自他省市臺中市;遷入人數自他省市臺南市;遷入人數自他省市高雄市;遷入人數自他省市臺灣省;遷入人數自他省市福建省;遷入人數自他省市其他省市;遷入人數自本省他縣市;遷入人數自本縣市他鄉鎮市區;遷入人數初設戶籍;遷入人數其他;遷出人數往國外;遷出人數往他省市新北市;遷出人數往他省市臺北市;遷出人數往他省市桃園市;遷出人數往他省市臺中市;遷出人數往他省市臺南市;遷出人數往他省市高雄市;遷出人數往他省市臺灣省;遷出人數往他省市福建省;遷出人數往他省市其他省市;遷出人數往本省他縣市;遷出人數往本縣市他鄉鎮市區;遷出人數廢止戶籍;遷出人數其他;住址變更人數入;住址變更人數出;行政區域調整人數增;行政區域調整人數減;嬰兒出生總數婚生;嬰兒出生總數非婚生已認領;嬰兒出生總數非婚生未認領;嬰兒出生總數無依兒童;生母原屬國籍大陸港澳地區;生母原屬國籍外國籍;生父原屬國籍大陸港澳地區;生父原屬國籍外國籍;遺腹子;雙胞胎;三胞胎以上;死亡人數;認領人數;收養人數;終止收養人數;監護人數;輔助人數;未成年子女權利義務行使負擔人數;結婚對數_不同性別;結婚對數_相同性別;離婚／終止結婚對數_不同性別;離婚／終止結婚對數_相同性別</p>
+            <pubDate>Mon, 13 Jun 2022 13:10:02 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>育宗特用材料股份有限公司申請對自中國大陸產製進口過氧化苯甲醯產品繼續課徵反傾銷稅落日調查案（第2次）公開資料</h1>
+            <p><b>資料集說明</b>: 育宗特用材料股份有限公司申請對自中國大陸產製進口過氧化苯甲醯產品繼續課徵反傾銷稅落日調查案（第2次），調查相關之新聞訊息、調查問卷、調查報告</p>
+            <p><b>發佈機關</b>: 經濟部貿易調查委員會</p>
+            <p><b>主要欄位</b>: </p>
             <ul>
-                <li><b>關鍵字</b>: 人口數</li>
-                <li><b>分類</b>: 公共資訊</li>
-                <li><b>主題</b>: 其他</li>
+                <li><b>關鍵字</b>: 傾銷、產業損害, 政府統計</li>
+                <li><b>分類</b>: 投資理財</li>
+                <li><b>主題</b>: 政府統計</li>
             </ul>
             <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
-            <guid isPermaLink="true">https://data.gov.tw/dataset/155666</guid>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155677</guid>
         </item>
         <item>
-            <title>桃園地院111年會計月報</title>
-            <link>https://data.gov.tw/dataset/155649</link>
-            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 臺灣桃園地院111年會計月報&lt;/p&gt;
-            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 臺灣桃園地方法院&lt;/p&gt;
-            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 臺灣桃園地院111年2月會計月報&lt;/p&gt;
-            &lt;ul&gt;
-                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府支出&lt;/li&gt;
-                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
-                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府支出&lt;/li&gt;
-            &lt;/ul&gt;
-            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
-            <author>whisky@opendata.tw (whisky)</author>
-            <pubDate>Fri, 10 Jun 2022 09:58:13 +0800</pubDate>
-            <content:encoded><![CDATA[<h1>桃園地院111年會計月報</h1>
-            <p><b>資料集說明</b>: 臺灣桃園地院111年會計月報</p>
-            <p><b>發佈機關</b>: 臺灣桃園地方法院</p>
-            <p><b>主要欄位</b>: 臺灣桃園地院111年2月會計月報</p>
-            <ul>
-                <li><b>關鍵字</b>: 政府支出</li>
-                <li><b>分類</b>: 公共資訊</li>
-                <li><b>主題</b>: 政府支出</li>
-            </ul>
-            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
-            <guid isPermaLink="true">https://data.gov.tw/dataset/155649</guid>
-        </item>
-        <item>
-            <title>臺中市111年4月空間地圖查詢地區統計</title>
-            <link>https://data.gov.tw/dataset/155650</link>
-            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 臺中市111年4月空間地圖查詢各行政區統計檔案&lt;/p&gt;
-            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 臺中市政府研究發展考核委員會&lt;/p&gt;
-            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 區名;查詢次數;百分比&lt;/p&gt;
-            &lt;ul&gt;
-                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 空間地圖&lt;/li&gt;
-                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
-                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
-            &lt;/ul&gt;
-            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
-            <author>whisky@opendata.tw (whisky)</author>
-            <pubDate>Fri, 10 Jun 2022 10:43:03 +0800</pubDate>
-            <content:encoded><![CDATA[<h1>臺中市111年4月空間地圖查詢地區統計</h1>
-            <p><b>資料集說明</b>: 臺中市111年4月空間地圖查詢各行政區統計檔案</p>
-            <p><b>發佈機關</b>: 臺中市政府研究發展考核委員會</p>
-            <p><b>主要欄位</b>: 區名;查詢次數;百分比</p>
-            <ul>
-                <li><b>關鍵字</b>: 空間地圖</li>
-                <li><b>分類</b>: 公共資訊</li>
-                <li><b>主題</b>: 其他</li>
-            </ul>
-            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
-            <guid isPermaLink="true">https://data.gov.tw/dataset/155650</guid>
-        </item>
-        <item>
-            <title>111年臺灣南投地方法院1-12月會計月報</title>
-            <link>https://data.gov.tw/dataset/155651</link>
-            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 111年度&lt;/p&gt;
-            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 臺灣南投地方法院&lt;/p&gt;
-            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 2月份會計月報&lt;/p&gt;
+            <title>臺灣臺中地方法院111年度5月份會計月報</title>
+            <link>https://data.gov.tw/dataset/155678</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 臺灣臺中地方法院111年度5月會計月報&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 臺灣臺中地方法院&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 臺灣臺中地方法院111年度5月份會計月報&lt;/p&gt;
             &lt;ul&gt;
                 &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府支出&lt;/li&gt;
                 &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
@@ -388,233 +336,727 @@
             &lt;/ul&gt;
             &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
             <author>whisky@opendata.tw (whisky)</author>
-            <pubDate>Fri, 10 Jun 2022 11:01:25 +0800</pubDate>
-            <content:encoded><![CDATA[<h1>111年臺灣南投地方法院1-12月會計月報</h1>
-            <p><b>資料集說明</b>: 111年度</p>
-            <p><b>發佈機關</b>: 臺灣南投地方法院</p>
-            <p><b>主要欄位</b>: 2月份會計月報</p>
+            <pubDate>Mon, 13 Jun 2022 14:22:12 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>臺灣臺中地方法院111年度5月份會計月報</h1>
+            <p><b>資料集說明</b>: 臺灣臺中地方法院111年度5月會計月報</p>
+            <p><b>發佈機關</b>: 臺灣臺中地方法院</p>
+            <p><b>主要欄位</b>: 臺灣臺中地方法院111年度5月份會計月報</p>
             <ul>
                 <li><b>關鍵字</b>: 政府支出</li>
                 <li><b>分類</b>: 公共資訊</li>
                 <li><b>主題</b>: 政府支出</li>
             </ul>
             <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
-            <guid isPermaLink="true">https://data.gov.tw/dataset/155651</guid>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155678</guid>
         </item>
         <item>
-            <title>臺灣高等法院花蓮分院111年度5月份會計月報</title>
-            <link>https://data.gov.tw/dataset/155652</link>
-            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 111年度5月份會計月報&lt;/p&gt;
-            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 臺灣高等法院花蓮分院&lt;/p&gt;
-            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 臺灣高等法院花蓮分院111年度5月份會計月報&lt;/p&gt;
-            &lt;ul&gt;
-                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府支出&lt;/li&gt;
-                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
-                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府支出&lt;/li&gt;
-            &lt;/ul&gt;
-            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
-            <author>whisky@opendata.tw (whisky)</author>
-            <pubDate>Fri, 10 Jun 2022 11:52:35 +0800</pubDate>
-            <content:encoded><![CDATA[<h1>臺灣高等法院花蓮分院111年度5月份會計月報</h1>
-            <p><b>資料集說明</b>: 111年度5月份會計月報</p>
-            <p><b>發佈機關</b>: 臺灣高等法院花蓮分院</p>
-            <p><b>主要欄位</b>: 臺灣高等法院花蓮分院111年度5月份會計月報</p>
-            <ul>
-                <li><b>關鍵字</b>: 政府支出</li>
-                <li><b>分類</b>: 公共資訊</li>
-                <li><b>主題</b>: 政府支出</li>
-            </ul>
-            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
-            <guid isPermaLink="true">https://data.gov.tw/dataset/155652</guid>
-        </item>
-        <item>
-            <title>本市標售土地資訊</title>
-            <link>https://data.gov.tw/dataset/155653</link>
-            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供本市標售土地資訊&lt;/p&gt;
-            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 高雄市政府地政局&lt;/p&gt;
-            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 標售公告;標售成果;未售土地&lt;/p&gt;
+            <title>七星山火山亞群-小油坑火山災害潛勢圖-火山碎屑流</title>
+            <link>https://data.gov.tw/dataset/155689</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 大屯火山群為活火山，根據現有的火山地質調查及火山活動觀測結果評估七星山火山亞群之小油坑若發生火山噴發可能產生的火山碎屑流影響範圍&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 經濟部中央地質調查所&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結&lt;/p&gt;
             &lt;ul&gt;
                 &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
-                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
                 &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
             &lt;/ul&gt;
             &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
             <author>whisky@opendata.tw (whisky)</author>
-            <pubDate>Fri, 10 Jun 2022 12:12:16 +0800</pubDate>
-            <content:encoded><![CDATA[<h1>本市標售土地資訊</h1>
-            <p><b>資料集說明</b>: 提供本市標售土地資訊</p>
-            <p><b>發佈機關</b>: 高雄市政府地政局</p>
-            <p><b>主要欄位</b>: 標售公告;標售成果;未售土地</p>
+            <pubDate>Mon, 13 Jun 2022 15:26:49 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>七星山火山亞群-小油坑火山災害潛勢圖-火山碎屑流</h1>
+            <p><b>資料集說明</b>: 大屯火山群為活火山，根據現有的火山地質調查及火山活動觀測結果評估七星山火山亞群之小油坑若發生火山噴發可能產生的火山碎屑流影響範圍</p>
+            <p><b>發佈機關</b>: 經濟部中央地質調查所</p>
+            <p><b>主要欄位</b>: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結</p>
             <ul>
                 <li><b>關鍵字</b>: </li>
-                <li><b>分類</b>: 公共資訊</li>
+                <li><b>分類</b>: 生活安全及品質</li>
                 <li><b>主題</b>: 其他</li>
             </ul>
             <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
-            <guid isPermaLink="true">https://data.gov.tw/dataset/155653</guid>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155689</guid>
         </item>
         <item>
-            <title>公務人力發展學院111年5月份會計月報</title>
-            <link>https://data.gov.tw/dataset/155654</link>
-            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 111年5月份會計月報&lt;/p&gt;
-            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 行政院人事行政總處公務人力發展學院&lt;/p&gt;
-            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 會計年度;月份;款;項;目;節;預算年度;預算科目編號;預算科目名稱;細目編號;細目名稱;原預算數;追加減數;截至本月止累計分配數_1;本月實現數;截至本月止累計實現數_2;應收收入數_3;分配數預算餘額_4;分支計畫編號;分支計畫名稱;用途別編號;用途別名稱;第一預備金;第二預備金;經費流用數;預算調整數;應付數;已分配尚未執行數;備註_預暫付數;業務計畫或工作計畫;經資門;執行數;會計分類;項目;收入實現數;減項_收入待納庫數;加項_以前年度待納庫繳庫數;加項_以前年度撥款於本年度繳還數_材料;加項_以前年度撥款於本年度繳還數_存出保證金;加項_以前年度撥款於本年度繳還數_其他應收款;加項_預收款;加項_剔除經費;繳付公庫數;一級用途別編號;一級用途別名稱;支出實現數;加項_預付款;加項_材料;加項_存出保證金;加項_零用金;加項_退還收入預收款;加項_其他應收款;減項_以前年度撥款於本年度實現數;公庫撥入數;公庫分配數餘額;基金別;使用機關別;科目分類;會計科目編號;會計科目名稱;金額;金額_本月數;金額_累計數;科目名稱;取得成本;以前年度累計折舊_長期投資評價;本年度資本資產成本變動_增加數;本年度資本資產成本變動_減少數;本年度累計折舊_長期投資評價變動數;期末帳面金額;備註;預算項目;預算執行數;調整數;會計收支;會計科目&lt;/p&gt;
-            &lt;ul&gt;
-                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 會計月報, 政府支出&lt;/li&gt;
-                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
-                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府支出&lt;/li&gt;
-            &lt;/ul&gt;
-            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
-            <author>whisky@opendata.tw (whisky)</author>
-            <pubDate>Fri, 10 Jun 2022 15:04:01 +0800</pubDate>
-            <content:encoded><![CDATA[<h1>公務人力發展學院111年5月份會計月報</h1>
-            <p><b>資料集說明</b>: 111年5月份會計月報</p>
-            <p><b>發佈機關</b>: 行政院人事行政總處公務人力發展學院</p>
-            <p><b>主要欄位</b>: 會計年度;月份;款;項;目;節;預算年度;預算科目編號;預算科目名稱;細目編號;細目名稱;原預算數;追加減數;截至本月止累計分配數_1;本月實現數;截至本月止累計實現數_2;應收收入數_3;分配數預算餘額_4;分支計畫編號;分支計畫名稱;用途別編號;用途別名稱;第一預備金;第二預備金;經費流用數;預算調整數;應付數;已分配尚未執行數;備註_預暫付數;業務計畫或工作計畫;經資門;執行數;會計分類;項目;收入實現數;減項_收入待納庫數;加項_以前年度待納庫繳庫數;加項_以前年度撥款於本年度繳還數_材料;加項_以前年度撥款於本年度繳還數_存出保證金;加項_以前年度撥款於本年度繳還數_其他應收款;加項_預收款;加項_剔除經費;繳付公庫數;一級用途別編號;一級用途別名稱;支出實現數;加項_預付款;加項_材料;加項_存出保證金;加項_零用金;加項_退還收入預收款;加項_其他應收款;減項_以前年度撥款於本年度實現數;公庫撥入數;公庫分配數餘額;基金別;使用機關別;科目分類;會計科目編號;會計科目名稱;金額;金額_本月數;金額_累計數;科目名稱;取得成本;以前年度累計折舊_長期投資評價;本年度資本資產成本變動_增加數;本年度資本資產成本變動_減少數;本年度累計折舊_長期投資評價變動數;期末帳面金額;備註;預算項目;預算執行數;調整數;會計收支;會計科目</p>
-            <ul>
-                <li><b>關鍵字</b>: 會計月報, 政府支出</li>
-                <li><b>分類</b>: 公共資訊</li>
-                <li><b>主題</b>: 政府支出</li>
-            </ul>
-            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
-            <guid isPermaLink="true">https://data.gov.tw/dataset/155654</guid>
-        </item>
-        <item>
-            <title>臺灣苗栗地方法院111年5月會計報告</title>
-            <link>https://data.gov.tw/dataset/155657</link>
-            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 苗栗地方法院111年5月會計報告&lt;/p&gt;
-            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 臺灣苗栗地方法院&lt;/p&gt;
-            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 臺灣苗栗地方法院111年5月會計報告&lt;/p&gt;
-            &lt;ul&gt;
-                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府支出&lt;/li&gt;
-                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
-                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府支出&lt;/li&gt;
-            &lt;/ul&gt;
-            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
-            <author>whisky@opendata.tw (whisky)</author>
-            <pubDate>Fri, 10 Jun 2022 16:07:47 +0800</pubDate>
-            <content:encoded><![CDATA[<h1>臺灣苗栗地方法院111年5月會計報告</h1>
-            <p><b>資料集說明</b>: 苗栗地方法院111年5月會計報告</p>
-            <p><b>發佈機關</b>: 臺灣苗栗地方法院</p>
-            <p><b>主要欄位</b>: 臺灣苗栗地方法院111年5月會計報告</p>
-            <ul>
-                <li><b>關鍵字</b>: 政府支出</li>
-                <li><b>分類</b>: 公共資訊</li>
-                <li><b>主題</b>: 政府支出</li>
-            </ul>
-            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
-            <guid isPermaLink="true">https://data.gov.tw/dataset/155657</guid>
-        </item>
-        <item>
-            <title>國史館臺灣文獻館111年度5月份會計月報</title>
-            <link>https://data.gov.tw/dataset/155648</link>
-            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 國史館臺灣文獻館111年度5月份會計月報資料&lt;/p&gt;
-            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 國史館臺灣文獻館&lt;/p&gt;
-            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 會計年度;月份;款;項;目;節;預算年度;預算科目編號;預算科目名稱;細目編號;細目名稱;原預算數;追加減數;截至本月止累計分配數_1;本月實現數;截至本月止累計實現數_2;應收收入數_3;分配數預算餘額_4;分支計畫編號;分支計畫名稱;用途別編號;用途別名稱;第一預備金;第二預備金;經費流用數;預算調整數;應付數;已分配尚未執行數;備註_預暫付數;業務計畫或工作計畫;經資門;執行數;會計分類;項目;收入實現數;減項_收入待納庫數;加項_以前年度待納庫繳庫數;加項_以前年度撥款於本年度繳還數_材料;加項_以前年度撥款於本年度繳還數_存出保證金;加項_以前年度撥款於本年度繳還數_其他應收款;加項_預收款;加項_剔除經費;繳付公庫數;一級用途別編號;一級用途別名稱;支出實現數;加項_預付款;加項_材料;加項_存出保證金;加項_零用金;加項_退還收入預收款;加項_其他應收款;減項_以前年度撥款於本年度實現數;公庫撥入數;公庫分配數餘額;基金別;使用機關別;科目分類;會計科目編號;會計科目名稱;金額;金額_本月數;金額_累計數;科目名稱;取得成本;以前年度累計折舊_長期投資評價;本年度資本資產成本變動_增加數;本年度資本資產成本變動_減少數;本年度累計折舊_長期投資評價變動數;期末帳面金額;備註;預算項目;預算執行數;調整數;會計收支;會計科目&lt;/p&gt;
-            &lt;ul&gt;
-                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府支出&lt;/li&gt;
-                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
-                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府支出&lt;/li&gt;
-            &lt;/ul&gt;
-            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
-            <author>whisky@opendata.tw (whisky)</author>
-            <pubDate>Fri, 10 Jun 2022 15:30:02 +0800</pubDate>
-            <content:encoded><![CDATA[<h1>國史館臺灣文獻館111年度5月份會計月報</h1>
-            <p><b>資料集說明</b>: 國史館臺灣文獻館111年度5月份會計月報資料</p>
-            <p><b>發佈機關</b>: 國史館臺灣文獻館</p>
-            <p><b>主要欄位</b>: 會計年度;月份;款;項;目;節;預算年度;預算科目編號;預算科目名稱;細目編號;細目名稱;原預算數;追加減數;截至本月止累計分配數_1;本月實現數;截至本月止累計實現數_2;應收收入數_3;分配數預算餘額_4;分支計畫編號;分支計畫名稱;用途別編號;用途別名稱;第一預備金;第二預備金;經費流用數;預算調整數;應付數;已分配尚未執行數;備註_預暫付數;業務計畫或工作計畫;經資門;執行數;會計分類;項目;收入實現數;減項_收入待納庫數;加項_以前年度待納庫繳庫數;加項_以前年度撥款於本年度繳還數_材料;加項_以前年度撥款於本年度繳還數_存出保證金;加項_以前年度撥款於本年度繳還數_其他應收款;加項_預收款;加項_剔除經費;繳付公庫數;一級用途別編號;一級用途別名稱;支出實現數;加項_預付款;加項_材料;加項_存出保證金;加項_零用金;加項_退還收入預收款;加項_其他應收款;減項_以前年度撥款於本年度實現數;公庫撥入數;公庫分配數餘額;基金別;使用機關別;科目分類;會計科目編號;會計科目名稱;金額;金額_本月數;金額_累計數;科目名稱;取得成本;以前年度累計折舊_長期投資評價;本年度資本資產成本變動_增加數;本年度資本資產成本變動_減少數;本年度累計折舊_長期投資評價變動數;期末帳面金額;備註;預算項目;預算執行數;調整數;會計收支;會計科目</p>
-            <ul>
-                <li><b>關鍵字</b>: 政府支出</li>
-                <li><b>分類</b>: 公共資訊</li>
-                <li><b>主題</b>: 政府支出</li>
-            </ul>
-            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
-            <guid isPermaLink="true">https://data.gov.tw/dataset/155648</guid>
-        </item>
-        <item>
-            <title>人工智慧應用人才需求調查</title>
-            <link>https://data.gov.tw/dataset/152962</link>
-            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 產業人工智慧應用人才需求調查，以我國醫療生技業AI應用人才需求為範疇，調查各類專業人才在量與質的需求，以作為後續人才培育政策及訓練規劃之重要參考依據。&lt;/p&gt;
-            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 經濟部工業局&lt;/p&gt;
-            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 年度;樂觀;持平;保守&lt;/p&gt;
-            &lt;ul&gt;
-                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府統計, 產業人力、產業推動及輔導&lt;/li&gt;
-                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
-                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府統計&lt;/li&gt;
-            &lt;/ul&gt;
-            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
-            <author>whisky@opendata.tw (whisky)</author>
-            <pubDate>Fri, 10 Jun 2022 17:16:01 +0800</pubDate>
-            <content:encoded><![CDATA[<h1>人工智慧應用人才需求調查</h1>
-            <p><b>資料集說明</b>: 產業人工智慧應用人才需求調查，以我國醫療生技業AI應用人才需求為範疇，調查各類專業人才在量與質的需求，以作為後續人才培育政策及訓練規劃之重要參考依據。</p>
-            <p><b>發佈機關</b>: 經濟部工業局</p>
-            <p><b>主要欄位</b>: 年度;樂觀;持平;保守</p>
-            <ul>
-                <li><b>關鍵字</b>: 政府統計, 產業人力、產業推動及輔導</li>
-                <li><b>分類</b>: 公共資訊</li>
-                <li><b>主題</b>: 政府統計</li>
-            </ul>
-            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
-            <guid isPermaLink="true">https://data.gov.tw/dataset/152962</guid>
-        </item>
-        <item>
-            <title>經濟部統計處_批發業經營實況_家庭器具及用品業</title>
-            <link>https://data.gov.tw/dataset/155658</link>
-            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 批發業經營實況-家庭器具及用品業&lt;/p&gt;
-            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 經濟部&lt;/p&gt;
-            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 統計項目;項目;資料期;家庭器具及用品業;單位&lt;/p&gt;
-            &lt;ul&gt;
-                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府統計&lt;/li&gt;
-                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
-                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府統計&lt;/li&gt;
-            &lt;/ul&gt;
-            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
-            <author>whisky@opendata.tw (whisky)</author>
-            <pubDate>Fri, 10 Jun 2022 17:18:01 +0800</pubDate>
-            <content:encoded><![CDATA[<h1>經濟部統計處_批發業經營實況_家庭器具及用品業</h1>
-            <p><b>資料集說明</b>: 批發業經營實況-家庭器具及用品業</p>
-            <p><b>發佈機關</b>: 經濟部</p>
-            <p><b>主要欄位</b>: 統計項目;項目;資料期;家庭器具及用品業;單位</p>
-            <ul>
-                <li><b>關鍵字</b>: 政府統計</li>
-                <li><b>分類</b>: 公共資訊</li>
-                <li><b>主題</b>: 政府統計</li>
-            </ul>
-            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
-            <guid isPermaLink="true">https://data.gov.tw/dataset/155658</guid>
-        </item>
-        <item>
-            <title>臺灣臺東地方法院111年05月份會計月報</title>
-            <link>https://data.gov.tw/dataset/155659</link>
-            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 臺灣臺東地方法院111年05月份會計月報等10表(XML)資料&lt;/p&gt;
-            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 臺灣臺東地方法院&lt;/p&gt;
-            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 臺灣臺東地方法院111年05月份會計月報等10表&lt;/p&gt;
+            <title>七星山火山亞群-小油坑火山災害潛勢圖-火山灰(夏季)</title>
+            <link>https://data.gov.tw/dataset/155691</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 大屯火山群為活火山，根據現有的火山地質調查及火山活動觀測結果評估七星山火山亞群之小油坑若於夏季發生火山噴發可能產生的火山灰影響範圍&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 經濟部中央地質調查所&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結&lt;/p&gt;
             &lt;ul&gt;
                 &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
-                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
                 &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
             &lt;/ul&gt;
             &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
             <author>whisky@opendata.tw (whisky)</author>
-            <pubDate>Fri, 10 Jun 2022 17:01:57 +0800</pubDate>
-            <content:encoded><![CDATA[<h1>臺灣臺東地方法院111年05月份會計月報</h1>
-            <p><b>資料集說明</b>: 臺灣臺東地方法院111年05月份會計月報等10表(XML)資料</p>
-            <p><b>發佈機關</b>: 臺灣臺東地方法院</p>
-            <p><b>主要欄位</b>: 臺灣臺東地方法院111年05月份會計月報等10表</p>
+            <pubDate>Mon, 13 Jun 2022 15:26:57 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>七星山火山亞群-小油坑火山災害潛勢圖-火山灰(夏季)</h1>
+            <p><b>資料集說明</b>: 大屯火山群為活火山，根據現有的火山地質調查及火山活動觀測結果評估七星山火山亞群之小油坑若於夏季發生火山噴發可能產生的火山灰影響範圍</p>
+            <p><b>發佈機關</b>: 經濟部中央地質調查所</p>
+            <p><b>主要欄位</b>: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結</p>
             <ul>
                 <li><b>關鍵字</b>: </li>
-                <li><b>分類</b>: 公共資訊</li>
+                <li><b>分類</b>: 生活安全及品質</li>
                 <li><b>主題</b>: 其他</li>
             </ul>
             <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
-            <guid isPermaLink="true">https://data.gov.tw/dataset/155659</guid>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155691</guid>
         </item>
         <item>
-            <title>臺灣彰化地方法院111年5月會計報告</title>
-            <link>https://data.gov.tw/dataset/155661</link>
-            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 111年5月會計報告&lt;/p&gt;
-            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 臺灣彰化地方法院&lt;/p&gt;
-            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 臺灣彰化地方法院111年5月會計報告&lt;/p&gt;
+            <title>七星山火山亞群-小油坑火山災害潛勢圖-火山灰(冬季)</title>
+            <link>https://data.gov.tw/dataset/155693</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 大屯火山群為活火山，根據現有的火山地質調查及火山活動觀測結果評估七星山火山亞群之小油坑若於冬季發生火山噴發可能產生的火山灰影響範圍&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 經濟部中央地質調查所&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 13 Jun 2022 15:27:04 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>七星山火山亞群-小油坑火山災害潛勢圖-火山灰(冬季)</h1>
+            <p><b>資料集說明</b>: 大屯火山群為活火山，根據現有的火山地質調查及火山活動觀測結果評估七星山火山亞群之小油坑若於冬季發生火山噴發可能產生的火山灰影響範圍</p>
+            <p><b>發佈機關</b>: 經濟部中央地質調查所</p>
+            <p><b>主要欄位</b>: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結</p>
+            <ul>
+                <li><b>關鍵字</b>: </li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155693</guid>
+        </item>
+        <item>
+            <title>七星山火山亞群-大油坑火山災害潛勢圖-熔岩流</title>
+            <link>https://data.gov.tw/dataset/155694</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 大屯火山群為活火山，根據現有的火山地質調查及火山活動觀測結果評估七星山火山亞群之大油坑若發生火山噴發可能產生的熔岩流影響範圍&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 經濟部中央地質調查所&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 13 Jun 2022 15:27:12 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>七星山火山亞群-大油坑火山災害潛勢圖-熔岩流</h1>
+            <p><b>資料集說明</b>: 大屯火山群為活火山，根據現有的火山地質調查及火山活動觀測結果評估七星山火山亞群之大油坑若發生火山噴發可能產生的熔岩流影響範圍</p>
+            <p><b>發佈機關</b>: 經濟部中央地質調查所</p>
+            <p><b>主要欄位</b>: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結</p>
+            <ul>
+                <li><b>關鍵字</b>: </li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155694</guid>
+        </item>
+        <item>
+            <title>七星山火山亞群-大油坑火山災害潛勢圖-火山碎屑流</title>
+            <link>https://data.gov.tw/dataset/155695</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 大屯火山群為活火山，根據現有的火山地質調查及火山活動觀測結果評估七星山火山亞群之大油坑若發生火山噴發可能產生的火山碎屑流影響範圍&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 經濟部中央地質調查所&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 13 Jun 2022 15:27:20 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>七星山火山亞群-大油坑火山災害潛勢圖-火山碎屑流</h1>
+            <p><b>資料集說明</b>: 大屯火山群為活火山，根據現有的火山地質調查及火山活動觀測結果評估七星山火山亞群之大油坑若發生火山噴發可能產生的火山碎屑流影響範圍</p>
+            <p><b>發佈機關</b>: 經濟部中央地質調查所</p>
+            <p><b>主要欄位</b>: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結</p>
+            <ul>
+                <li><b>關鍵字</b>: </li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155695</guid>
+        </item>
+        <item>
+            <title>七星山火山亞群-大油坑火山災害潛勢圖-火山灰(夏季)</title>
+            <link>https://data.gov.tw/dataset/155696</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 大屯火山群為活火山，根據現有的火山地質調查及火山活動觀測結果評估七星山火山亞群之大油坑若於夏季發生火山噴發可能產生的火山灰影響範圍&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 經濟部中央地質調查所&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 13 Jun 2022 15:27:28 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>七星山火山亞群-大油坑火山災害潛勢圖-火山灰(夏季)</h1>
+            <p><b>資料集說明</b>: 大屯火山群為活火山，根據現有的火山地質調查及火山活動觀測結果評估七星山火山亞群之大油坑若於夏季發生火山噴發可能產生的火山灰影響範圍</p>
+            <p><b>發佈機關</b>: 經濟部中央地質調查所</p>
+            <p><b>主要欄位</b>: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結</p>
+            <ul>
+                <li><b>關鍵字</b>: </li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155696</guid>
+        </item>
+        <item>
+            <title>七星山火山亞群-大油坑火山災害潛勢圖-火山灰(冬季)</title>
+            <link>https://data.gov.tw/dataset/155697</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 大屯火山群為活火山，根據現有的火山地質調查及火山活動觀測結果評估七星山火山亞群之大油坑若於冬季發生火山噴發可能產生的火山灰影響範圍&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 經濟部中央地質調查所&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 13 Jun 2022 15:27:35 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>七星山火山亞群-大油坑火山災害潛勢圖-火山灰(冬季)</h1>
+            <p><b>資料集說明</b>: 大屯火山群為活火山，根據現有的火山地質調查及火山活動觀測結果評估七星山火山亞群之大油坑若於冬季發生火山噴發可能產生的火山灰影響範圍</p>
+            <p><b>發佈機關</b>: 經濟部中央地質調查所</p>
+            <p><b>主要欄位</b>: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結</p>
+            <ul>
+                <li><b>關鍵字</b>: </li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155697</guid>
+        </item>
+        <item>
+            <title>大屯山火山亞群-大屯山火山災害潛勢圖-熔岩流</title>
+            <link>https://data.gov.tw/dataset/155698</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 大屯火山群為活火山，根據現有的火山地質調查及火山活動觀測結果評估大屯山火山亞群之大屯山若發生火山噴發可能產生的熔岩流影響範圍&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 經濟部中央地質調查所&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 13 Jun 2022 15:27:43 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>大屯山火山亞群-大屯山火山災害潛勢圖-熔岩流</h1>
+            <p><b>資料集說明</b>: 大屯火山群為活火山，根據現有的火山地質調查及火山活動觀測結果評估大屯山火山亞群之大屯山若發生火山噴發可能產生的熔岩流影響範圍</p>
+            <p><b>發佈機關</b>: 經濟部中央地質調查所</p>
+            <p><b>主要欄位</b>: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結</p>
+            <ul>
+                <li><b>關鍵字</b>: </li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155698</guid>
+        </item>
+        <item>
+            <title>大屯山火山亞群-大屯山火山災害潛勢圖-火山碎屑流</title>
+            <link>https://data.gov.tw/dataset/155699</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 大屯火山群為活火山，根據現有的火山地質調查及火山活動觀測結果評估大屯山火山亞群之大屯山若發生火山噴發可能產生的火山碎屑流影響範圍&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 經濟部中央地質調查所&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 13 Jun 2022 15:27:51 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>大屯山火山亞群-大屯山火山災害潛勢圖-火山碎屑流</h1>
+            <p><b>資料集說明</b>: 大屯火山群為活火山，根據現有的火山地質調查及火山活動觀測結果評估大屯山火山亞群之大屯山若發生火山噴發可能產生的火山碎屑流影響範圍</p>
+            <p><b>發佈機關</b>: 經濟部中央地質調查所</p>
+            <p><b>主要欄位</b>: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結</p>
+            <ul>
+                <li><b>關鍵字</b>: </li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155699</guid>
+        </item>
+        <item>
+            <title>大屯山火山亞群-大屯山火山災害潛勢圖-火山灰(夏季)</title>
+            <link>https://data.gov.tw/dataset/155700</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 大屯火山群為活火山，根據現有的火山地質調查及火山活動觀測結果評估大屯山火山亞群之大屯山若於夏季發生火山噴發可能產生的火山灰影響範圍&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 經濟部中央地質調查所&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 13 Jun 2022 15:27:58 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>大屯山火山亞群-大屯山火山災害潛勢圖-火山灰(夏季)</h1>
+            <p><b>資料集說明</b>: 大屯火山群為活火山，根據現有的火山地質調查及火山活動觀測結果評估大屯山火山亞群之大屯山若於夏季發生火山噴發可能產生的火山灰影響範圍</p>
+            <p><b>發佈機關</b>: 經濟部中央地質調查所</p>
+            <p><b>主要欄位</b>: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結</p>
+            <ul>
+                <li><b>關鍵字</b>: </li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155700</guid>
+        </item>
+        <item>
+            <title>大屯山火山亞群-大屯山火山災害潛勢圖-火山灰(冬季)</title>
+            <link>https://data.gov.tw/dataset/155701</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 大屯火山群為活火山，根據現有的火山地質調查及火山活動觀測結果評估大屯山火山亞群之大屯山若於冬季發生火山噴發可能產生的火山灰影響範圍&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 經濟部中央地質調查所&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 13 Jun 2022 15:28:06 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>大屯山火山亞群-大屯山火山災害潛勢圖-火山灰(冬季)</h1>
+            <p><b>資料集說明</b>: 大屯火山群為活火山，根據現有的火山地質調查及火山活動觀測結果評估大屯山火山亞群之大屯山若於冬季發生火山噴發可能產生的火山灰影響範圍</p>
+            <p><b>發佈機關</b>: 經濟部中央地質調查所</p>
+            <p><b>主要欄位</b>: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結</p>
+            <ul>
+                <li><b>關鍵字</b>: </li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155701</guid>
+        </item>
+        <item>
+            <title>110年度水文地質鑽探-鑽孔基本資料</title>
+            <link>https://data.gov.tw/dataset/155702</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 鑽孔基本資料&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 經濟部中央地質調查所&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 項次;名稱;檔案類型;下載連結&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府統計&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府統計&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 13 Jun 2022 15:28:14 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>110年度水文地質鑽探-鑽孔基本資料</h1>
+            <p><b>資料集說明</b>: 鑽孔基本資料</p>
+            <p><b>發佈機關</b>: 經濟部中央地質調查所</p>
+            <p><b>主要欄位</b>: 項次;名稱;檔案類型;下載連結</p>
+            <ul>
+                <li><b>關鍵字</b>: 政府統計</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 政府統計</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155702</guid>
+        </item>
+        <item>
+            <title>110水文地質鑽探-鑽孔岩心紀錄</title>
+            <link>https://data.gov.tw/dataset/155703</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 鑽孔岩心紀錄&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 經濟部中央地質調查所&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 項次;名稱;檔案類型;下載連結&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 13 Jun 2022 15:28:23 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>110水文地質鑽探-鑽孔岩心紀錄</h1>
+            <p><b>資料集說明</b>: 鑽孔岩心紀錄</p>
+            <p><b>發佈機關</b>: 經濟部中央地質調查所</p>
+            <p><b>主要欄位</b>: 項次;名稱;檔案類型;下載連結</p>
+            <ul>
+                <li><b>關鍵字</b>: </li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155703</guid>
+        </item>
+        <item>
+            <title>110水文地質鑽探-鑽孔井錄</title>
+            <link>https://data.gov.tw/dataset/155704</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 鑽孔井錄&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 經濟部中央地質調查所&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 項次;名稱;檔案類型;下載連結&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 13 Jun 2022 15:28:31 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>110水文地質鑽探-鑽孔井錄</h1>
+            <p><b>資料集說明</b>: 鑽孔井錄</p>
+            <p><b>發佈機關</b>: 經濟部中央地質調查所</p>
+            <p><b>主要欄位</b>: 項次;名稱;檔案類型;下載連結</p>
+            <ul>
+                <li><b>關鍵字</b>: </li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155704</guid>
+        </item>
+        <item>
+            <title>110-GNSS測量總報告</title>
+            <link>https://data.gov.tw/dataset/155705</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: GNSS測量總報告&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 經濟部中央地質調查所&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 項次;名稱;檔案類型;下載連結&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 13 Jun 2022 15:28:34 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>110-GNSS測量總報告</h1>
+            <p><b>資料集說明</b>: GNSS測量總報告</p>
+            <p><b>發佈機關</b>: 經濟部中央地質調查所</p>
+            <p><b>主要欄位</b>: 項次;名稱;檔案類型;下載連結</p>
+            <ul>
+                <li><b>關鍵字</b>: </li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155705</guid>
+        </item>
+        <item>
+            <title>110-精密水準測量總報告</title>
+            <link>https://data.gov.tw/dataset/155706</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 精密水準測量總報告&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 經濟部中央地質調查所&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 項次;名稱;檔案類型;下載連結&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 13 Jun 2022 15:28:39 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>110-精密水準測量總報告</h1>
+            <p><b>資料集說明</b>: 精密水準測量總報告</p>
+            <p><b>發佈機關</b>: 經濟部中央地質調查所</p>
+            <p><b>主要欄位</b>: 項次;名稱;檔案類型;下載連結</p>
+            <ul>
+                <li><b>關鍵字</b>: </li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155706</guid>
+        </item>
+        <item>
+            <title>「活動斷層地質敏感區(F0022小崗山斷層)」劃定計畫書</title>
+            <link>https://data.gov.tw/dataset/155707</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 本所公告地質敏感區劃定計畫書&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 經濟部中央地質調查所&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 項次;名稱;檔案類型;下載連結&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 13 Jun 2022 15:28:42 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>「活動斷層地質敏感區(F0022小崗山斷層)」劃定計畫書</h1>
+            <p><b>資料集說明</b>: 本所公告地質敏感區劃定計畫書</p>
+            <p><b>發佈機關</b>: 經濟部中央地質調查所</p>
+            <p><b>主要欄位</b>: 項次;名稱;檔案類型;下載連結</p>
+            <ul>
+                <li><b>關鍵字</b>: </li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155707</guid>
+        </item>
+        <item>
+            <title>110年經濟部中央地質調查所出版品、調查及研究報告</title>
+            <link>https://data.gov.tw/dataset/155679</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 110年度出版品、調查及研究報告目錄&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 經濟部中央地質調查所&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 項次;名稱;檔案類型;下載連結&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府統計&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府統計&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 13 Jun 2022 15:28:01 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>110年經濟部中央地質調查所出版品、調查及研究報告</h1>
+            <p><b>資料集說明</b>: 110年度出版品、調查及研究報告目錄</p>
+            <p><b>發佈機關</b>: 經濟部中央地質調查所</p>
+            <p><b>主要欄位</b>: 項次;名稱;檔案類型;下載連結</p>
+            <ul>
+                <li><b>關鍵字</b>: 政府統計</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 政府統計</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155679</guid>
+        </item>
+        <item>
+            <title>龜山島火山災害潛勢圖-熔岩流</title>
+            <link>https://data.gov.tw/dataset/155680</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 龜山島為一活火山，根據現有的火山地質調查及火山活動觀測結果評估龜山島若發生火山噴發可能產生的熔岩流影響範圍&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 經濟部中央地質調查所&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 13 Jun 2022 15:28:09 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>龜山島火山災害潛勢圖-熔岩流</h1>
+            <p><b>資料集說明</b>: 龜山島為一活火山，根據現有的火山地質調查及火山活動觀測結果評估龜山島若發生火山噴發可能產生的熔岩流影響範圍</p>
+            <p><b>發佈機關</b>: 經濟部中央地質調查所</p>
+            <p><b>主要欄位</b>: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結</p>
+            <ul>
+                <li><b>關鍵字</b>: </li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155680</guid>
+        </item>
+        <item>
+            <title>龜山島火山災害潛勢圖-火山碎屑流</title>
+            <link>https://data.gov.tw/dataset/155681</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 龜山島為一活火山，根據現有的火山地質調查及火山活動觀測結果評估龜山島若發生火山噴發可能產生的火山碎屑流影響範圍&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 經濟部中央地質調查所&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 13 Jun 2022 15:28:17 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>龜山島火山災害潛勢圖-火山碎屑流</h1>
+            <p><b>資料集說明</b>: 龜山島為一活火山，根據現有的火山地質調查及火山活動觀測結果評估龜山島若發生火山噴發可能產生的火山碎屑流影響範圍</p>
+            <p><b>發佈機關</b>: 經濟部中央地質調查所</p>
+            <p><b>主要欄位</b>: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結</p>
+            <ul>
+                <li><b>關鍵字</b>: </li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155681</guid>
+        </item>
+        <item>
+            <title>龜山島火山災害潛勢圖-火山灰</title>
+            <link>https://data.gov.tw/dataset/155682</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 龜山島為一活火山，根據現有的火山地質調查及火山活動觀測結果評估龜山島若發生火山噴發可能產生的火山灰影響範圍&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 經濟部中央地質調查所&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 13 Jun 2022 15:28:25 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>龜山島火山災害潛勢圖-火山灰</h1>
+            <p><b>資料集說明</b>: 龜山島為一活火山，根據現有的火山地質調查及火山活動觀測結果評估龜山島若發生火山噴發可能產生的火山灰影響範圍</p>
+            <p><b>發佈機關</b>: 經濟部中央地質調查所</p>
+            <p><b>主要欄位</b>: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結</p>
+            <ul>
+                <li><b>關鍵字</b>: </li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155682</guid>
+        </item>
+        <item>
+            <title>龜山島火山災害潛勢圖-海嘯</title>
+            <link>https://data.gov.tw/dataset/155683</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 龜山島為一活火山，根據現有的火山地質調查及火山活動觀測結果評估龜山島若發生火山噴發引發龜山島西南角山坡大規模山崩可能產生海嘯的影響範圍&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 經濟部中央地質調查所&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 13 Jun 2022 15:26:01 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>龜山島火山災害潛勢圖-海嘯</h1>
+            <p><b>資料集說明</b>: 龜山島為一活火山，根據現有的火山地質調查及火山活動觀測結果評估龜山島若發生火山噴發引發龜山島西南角山坡大規模山崩可能產生海嘯的影響範圍</p>
+            <p><b>發佈機關</b>: 經濟部中央地質調查所</p>
+            <p><b>主要欄位</b>: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結</p>
+            <ul>
+                <li><b>關鍵字</b>: </li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155683</guid>
+        </item>
+        <item>
+            <title>七星山火山亞群-七星山火山災害潛勢圖-熔岩流</title>
+            <link>https://data.gov.tw/dataset/155684</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 大屯火山群為活火山，根據現有的火山地質調查及火山活動觀測結果評估七星山火山亞群之七星山若發生火山噴發可能產生的熔岩流影響範圍&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 經濟部中央地質調查所&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 13 Jun 2022 15:26:10 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>七星山火山亞群-七星山火山災害潛勢圖-熔岩流</h1>
+            <p><b>資料集說明</b>: 大屯火山群為活火山，根據現有的火山地質調查及火山活動觀測結果評估七星山火山亞群之七星山若發生火山噴發可能產生的熔岩流影響範圍</p>
+            <p><b>發佈機關</b>: 經濟部中央地質調查所</p>
+            <p><b>主要欄位</b>: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結</p>
+            <ul>
+                <li><b>關鍵字</b>: </li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155684</guid>
+        </item>
+        <item>
+            <title>七星山火山亞群-七星山火山災害潛勢圖-火山碎屑流</title>
+            <link>https://data.gov.tw/dataset/155685</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 大屯火山群為活火山，根據現有的火山地質調查及火山活動觀測結果評估七星山火山亞群之七星山若發生火山噴發可能產生的火山碎屑流影響範圍&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 經濟部中央地質調查所&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 13 Jun 2022 15:26:17 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>七星山火山亞群-七星山火山災害潛勢圖-火山碎屑流</h1>
+            <p><b>資料集說明</b>: 大屯火山群為活火山，根據現有的火山地質調查及火山活動觀測結果評估七星山火山亞群之七星山若發生火山噴發可能產生的火山碎屑流影響範圍</p>
+            <p><b>發佈機關</b>: 經濟部中央地質調查所</p>
+            <p><b>主要欄位</b>: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結</p>
+            <ul>
+                <li><b>關鍵字</b>: </li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155685</guid>
+        </item>
+        <item>
+            <title>七星山火山亞群-七星山火山災害潛勢圖-火山灰(夏季)</title>
+            <link>https://data.gov.tw/dataset/155686</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 大屯火山群為活火山，根據現有的火山地質調查及火山活動觀測結果評估七星山火山亞群之七星山若於夏季發生火山噴發可能產生的火山灰影響範圍&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 經濟部中央地質調查所&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 13 Jun 2022 15:26:26 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>七星山火山亞群-七星山火山災害潛勢圖-火山灰(夏季)</h1>
+            <p><b>資料集說明</b>: 大屯火山群為活火山，根據現有的火山地質調查及火山活動觀測結果評估七星山火山亞群之七星山若於夏季發生火山噴發可能產生的火山灰影響範圍</p>
+            <p><b>發佈機關</b>: 經濟部中央地質調查所</p>
+            <p><b>主要欄位</b>: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結</p>
+            <ul>
+                <li><b>關鍵字</b>: </li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155686</guid>
+        </item>
+        <item>
+            <title>七星山火山亞群-七星山火山災害潛勢圖-火山灰(冬季)</title>
+            <link>https://data.gov.tw/dataset/155687</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 大屯火山群為活火山，根據現有的火山地質調查及火山活動觀測結果評估七星山火山亞群之七星山若於冬季發生火山噴發可能產生的火山灰影響範圍&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 經濟部中央地質調查所&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 13 Jun 2022 15:26:33 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>七星山火山亞群-七星山火山災害潛勢圖-火山灰(冬季)</h1>
+            <p><b>資料集說明</b>: 大屯火山群為活火山，根據現有的火山地質調查及火山活動觀測結果評估七星山火山亞群之七星山若於冬季發生火山噴發可能產生的火山灰影響範圍</p>
+            <p><b>發佈機關</b>: 經濟部中央地質調查所</p>
+            <p><b>主要欄位</b>: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結</p>
+            <ul>
+                <li><b>關鍵字</b>: </li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155687</guid>
+        </item>
+        <item>
+            <title>七星山火山亞群-小油坑火山災害潛勢圖-熔岩流</title>
+            <link>https://data.gov.tw/dataset/155688</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 大屯火山群為活火山，根據現有的火山地質調查及火山活動觀測結果評估七星山火山亞群之小油坑若發生火山噴發可能產生的熔岩流影響範圍&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 經濟部中央地質調查所&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 13 Jun 2022 15:26:41 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>七星山火山亞群-小油坑火山災害潛勢圖-熔岩流</h1>
+            <p><b>資料集說明</b>: 大屯火山群為活火山，根據現有的火山地質調查及火山活動觀測結果評估七星山火山亞群之小油坑若發生火山噴發可能產生的熔岩流影響範圍</p>
+            <p><b>發佈機關</b>: 經濟部中央地質調查所</p>
+            <p><b>主要欄位</b>: 項次;圖層名稱;投影座標;所在縣市;縣市代碼;檔案類型;下載連結</p>
+            <ul>
+                <li><b>關鍵字</b>: </li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155688</guid>
+        </item>
+        <item>
+            <title>國史館111年5月會計月報</title>
+            <link>https://data.gov.tw/dataset/155708</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 國史館111年5月會計月報資料&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 國史館&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 國史館111年5月會計月報&lt;/p&gt;
             &lt;ul&gt;
                 &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府支出&lt;/li&gt;
                 &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
@@ -622,25 +1064,51 @@
             &lt;/ul&gt;
             &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
             <author>whisky@opendata.tw (whisky)</author>
-            <pubDate>Fri, 10 Jun 2022 19:41:08 +0800</pubDate>
-            <content:encoded><![CDATA[<h1>臺灣彰化地方法院111年5月會計報告</h1>
-            <p><b>資料集說明</b>: 111年5月會計報告</p>
-            <p><b>發佈機關</b>: 臺灣彰化地方法院</p>
-            <p><b>主要欄位</b>: 臺灣彰化地方法院111年5月會計報告</p>
+            <pubDate>Mon, 13 Jun 2022 17:20:01 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>國史館111年5月會計月報</h1>
+            <p><b>資料集說明</b>: 國史館111年5月會計月報資料</p>
+            <p><b>發佈機關</b>: 國史館</p>
+            <p><b>主要欄位</b>: 國史館111年5月會計月報</p>
             <ul>
                 <li><b>關鍵字</b>: 政府支出</li>
                 <li><b>分類</b>: 公共資訊</li>
                 <li><b>主題</b>: 政府支出</li>
             </ul>
             <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
-            <guid isPermaLink="true">https://data.gov.tw/dataset/155661</guid>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155708</guid>
         </item>
         <item>
-            <title>111年新竹縣港區水質監測報告(上半年)</title>
-            <link>https://data.gov.tw/dataset/155662</link>
-            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 111年新竹縣港區水質監測報告&lt;/p&gt;
-            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 新竹縣政府環境保護局&lt;/p&gt;
-            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 監測站;經度;緯度;採樣日期;採樣深度;水溫;鹽度;pH;溶氧量;懸浮固體;大腸桿菌群;鎘;鉛;總汞;銅;鋅;氨氮;化學需氧量;總磷;酚類&lt;/p&gt;
+            <title>國史館111年5月特別預算會計月報</title>
+            <link>https://data.gov.tw/dataset/155709</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 國史館111年5月特別預算會計月報資料&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 國史館&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 國史館111年5月特別預算會計月報&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府預算&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府預算&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 13 Jun 2022 17:20:09 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>國史館111年5月特別預算會計月報</h1>
+            <p><b>資料集說明</b>: 國史館111年5月特別預算會計月報資料</p>
+            <p><b>發佈機關</b>: 國史館</p>
+            <p><b>主要欄位</b>: 國史館111年5月特別預算會計月報</p>
+            <ul>
+                <li><b>關鍵字</b>: 政府預算</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 政府預算</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155709</guid>
+        </item>
+        <item>
+            <title>111年5月花蓮縣使用牌照稅稽徵</title>
+            <link>https://data.gov.tw/dataset/155710</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 111年花蓮縣使用牌照稅稽徵&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 花蓮縣地方稅務局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 項目;件數合計;稅額合計;應稅車輛件數;應稅車輛稅額;臨時牌照車輛件數;臨時牌照車輛稅額;試車牌照車輛件數;試車牌照車輛稅額;免稅車輛&lt;/p&gt;
             &lt;ul&gt;
                 &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府統計&lt;/li&gt;
                 &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
@@ -648,44 +1116,96 @@
             &lt;/ul&gt;
             &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
             <author>whisky@opendata.tw (whisky)</author>
-            <pubDate>Fri, 10 Jun 2022 20:50:02 +0800</pubDate>
-            <content:encoded><![CDATA[<h1>111年新竹縣港區水質監測報告(上半年)</h1>
-            <p><b>資料集說明</b>: 111年新竹縣港區水質監測報告</p>
-            <p><b>發佈機關</b>: 新竹縣政府環境保護局</p>
-            <p><b>主要欄位</b>: 監測站;經度;緯度;採樣日期;採樣深度;水溫;鹽度;pH;溶氧量;懸浮固體;大腸桿菌群;鎘;鉛;總汞;銅;鋅;氨氮;化學需氧量;總磷;酚類</p>
+            <pubDate>Mon, 13 Jun 2022 17:02:02 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>111年5月花蓮縣使用牌照稅稽徵</h1>
+            <p><b>資料集說明</b>: 111年花蓮縣使用牌照稅稽徵</p>
+            <p><b>發佈機關</b>: 花蓮縣地方稅務局</p>
+            <p><b>主要欄位</b>: 項目;件數合計;稅額合計;應稅車輛件數;應稅車輛稅額;臨時牌照車輛件數;臨時牌照車輛稅額;試車牌照車輛件數;試車牌照車輛稅額;免稅車輛</p>
             <ul>
                 <li><b>關鍵字</b>: 政府統計</li>
                 <li><b>分類</b>: 公共資訊</li>
                 <li><b>主題</b>: 政府統計</li>
             </ul>
             <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
-            <guid isPermaLink="true">https://data.gov.tw/dataset/155662</guid>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155710</guid>
         </item>
         <item>
-            <title>111年新竹縣海灘水質監測報告(上半年)</title>
-            <link>https://data.gov.tw/dataset/155663</link>
-            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 111年新竹縣海灘水質監測報告&lt;/p&gt;
-            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 新竹縣政府環境保護局&lt;/p&gt;
-            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 監測站;經度;緯度;採樣日期;採樣深度;水溫;鹽度;pH;溶氧量;懸浮固體;大腸桿菌群;腸球菌群;硝酸鹽氮;亞硝酸鹽氮;矽酸鹽;硝酸鹽&lt;/p&gt;
+            <title>臺北市環境空氣品質監測結果月報表(下架)</title>
+            <link>https://data.gov.tw/dataset/155690</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供臺北市環境保護局空氣品質監測站之每月監測值統計結果&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 臺北市政府環境保護局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 序號;網址&lt;/p&gt;
             &lt;ul&gt;
-                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府統計&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 月報表, 監測站, 空氣品質, 政府統計&lt;/li&gt;
                 &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
                 &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府統計&lt;/li&gt;
             &lt;/ul&gt;
             &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
             <author>whisky@opendata.tw (whisky)</author>
-            <pubDate>Fri, 10 Jun 2022 20:50:18 +0800</pubDate>
-            <content:encoded><![CDATA[<h1>111年新竹縣海灘水質監測報告(上半年)</h1>
-            <p><b>資料集說明</b>: 111年新竹縣海灘水質監測報告</p>
-            <p><b>發佈機關</b>: 新竹縣政府環境保護局</p>
-            <p><b>主要欄位</b>: 監測站;經度;緯度;採樣日期;採樣深度;水溫;鹽度;pH;溶氧量;懸浮固體;大腸桿菌群;腸球菌群;硝酸鹽氮;亞硝酸鹽氮;矽酸鹽;硝酸鹽</p>
+            <pubDate>Mon, 13 Jun 2022 16:17:02 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>臺北市環境空氣品質監測結果月報表(下架)</h1>
+            <p><b>資料集說明</b>: 提供臺北市環境保護局空氣品質監測站之每月監測值統計結果</p>
+            <p><b>發佈機關</b>: 臺北市政府環境保護局</p>
+            <p><b>主要欄位</b>: 序號;網址</p>
             <ul>
-                <li><b>關鍵字</b>: 政府統計</li>
+                <li><b>關鍵字</b>: 月報表, 監測站, 空氣品質, 政府統計</li>
                 <li><b>分類</b>: 公共資訊</li>
                 <li><b>主題</b>: 政府統計</li>
             </ul>
             <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
-            <guid isPermaLink="true">https://data.gov.tw/dataset/155663</guid>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155690</guid>
+        </item>
+        <item>
+            <title>臺北市空氣中總懸浮微粒及落塵量檢驗結果統計(下架)</title>
+            <link>https://data.gov.tw/dataset/155692</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供臺北市空氣中總懸浮微粒及落塵量檢驗結果統計&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 臺北市政府環境保護局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 序號;網址&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 環境, 環境保護, 監測, 空氣品質, 總懸浮微粒, 落塵, 政府統計&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府統計&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 13 Jun 2022 16:17:00 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>臺北市空氣中總懸浮微粒及落塵量檢驗結果統計(下架)</h1>
+            <p><b>資料集說明</b>: 提供臺北市空氣中總懸浮微粒及落塵量檢驗結果統計</p>
+            <p><b>發佈機關</b>: 臺北市政府環境保護局</p>
+            <p><b>主要欄位</b>: 序號;網址</p>
+            <ul>
+                <li><b>關鍵字</b>: 環境, 環境保護, 監測, 空氣品質, 總懸浮微粒, 落塵, 政府統計</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 政府統計</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155692</guid>
+        </item>
+        <item>
+            <title>臺灣橋頭地方法院111年度5月會計月報</title>
+            <link>https://data.gov.tw/dataset/155712</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 臺灣橋頭地方法院111年度5月會計月報檔案&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 臺灣橋頭地方法院&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 臺灣橋頭地方法院111年度5月會計月報&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府支出&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府支出&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 13 Jun 2022 17:31:26 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>臺灣橋頭地方法院111年度5月會計月報</h1>
+            <p><b>資料集說明</b>: 臺灣橋頭地方法院111年度5月會計月報檔案</p>
+            <p><b>發佈機關</b>: 臺灣橋頭地方法院</p>
+            <p><b>主要欄位</b>: 臺灣橋頭地方法院111年度5月會計月報</p>
+            <ul>
+                <li><b>關鍵字</b>: 政府支出</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 政府支出</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155712</guid>
         </item>
     </channel>
 </rss>
