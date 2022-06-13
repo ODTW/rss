@@ -8,9 +8,321 @@
         <link>https://www.opendata.tw/rss</link>
         <description>Feed of Datasets added to daat.gov.tw</description>
         <language>zh-TW</language>
-        <lastBuildDate>Fri, 10 Jun 2022 20:55:03 +0800</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 11:25:06 +0800</lastBuildDate>
         <generator>rfeed v1.1.1</generator>
         <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+        <item>
+            <title>公務人員保障暨培訓委員會111年5月會計月報</title>
+            <link>https://data.gov.tw/dataset/155660</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 歲入累計表、經費累計表、歲出用途別累計表、繳付公庫數分析表、公庫撥入數分析表、平衡表、收入支出表、長期投資、固定資產、遞耗資產及無形資產變動表、預算執行及會計收支對照表&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 公務人員保障暨培訓委員會&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 會計年度;月份;款;項;目;節;預算年度;預算科目編號;預算科目名稱;細目編號;細目名稱;原預算數;追加減數;截至本月止累計分配數_1;本月實現數;截至本月止累計實現數_2;應收收入數_3;分配數預算餘額_4;分支計畫編號;分支計畫名稱;用途別編號;用途別名稱;第一預備金;第二預備金;經費流用數;預算調整數;應付數;已分配尚未執行數;備註_預暫付數;業務計畫或工作計畫;經資門;執行數;會計分類;項目;收入實現數;減項_收入待納庫數;加項_以前年度待納庫繳庫數;加項_以前年度撥款於本年度繳還數_材料;加項_以前年度撥款於本年度繳還數_存出保證金;加項_以前年度撥款於本年度繳還數_其他應收款;加項_預收款;加項_剔除經費;繳付公庫數;一級用途別編號;一級用途別名稱;支出實現數;加項_預付款;加項_材料;加項_存出保證金;加項_零用金;加項_退還收入預收款;加項_其他應收款;減項_以前年度撥款於本年度實現數;公庫撥入數;公庫分配數餘額;基金別;使用機關別;科目分類;會計科目編號;會計科目名稱;金額;金額_本月數;金額_累計數;科目名稱;取得成本;以前年度累計折舊_長期投資評價;本年度資本資產成本變動_增加數;本年度資本資產成本變動_減少數;本年度累計折舊_長期投資評價變動數;期末帳面金額;備註;預算項目;預算執行數;調整數;會計收支;會計科目&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府支出&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府支出&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 13 Jun 2022 09:22:01 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>公務人員保障暨培訓委員會111年5月會計月報</h1>
+            <p><b>資料集說明</b>: 歲入累計表、經費累計表、歲出用途別累計表、繳付公庫數分析表、公庫撥入數分析表、平衡表、收入支出表、長期投資、固定資產、遞耗資產及無形資產變動表、預算執行及會計收支對照表</p>
+            <p><b>發佈機關</b>: 公務人員保障暨培訓委員會</p>
+            <p><b>主要欄位</b>: 會計年度;月份;款;項;目;節;預算年度;預算科目編號;預算科目名稱;細目編號;細目名稱;原預算數;追加減數;截至本月止累計分配數_1;本月實現數;截至本月止累計實現數_2;應收收入數_3;分配數預算餘額_4;分支計畫編號;分支計畫名稱;用途別編號;用途別名稱;第一預備金;第二預備金;經費流用數;預算調整數;應付數;已分配尚未執行數;備註_預暫付數;業務計畫或工作計畫;經資門;執行數;會計分類;項目;收入實現數;減項_收入待納庫數;加項_以前年度待納庫繳庫數;加項_以前年度撥款於本年度繳還數_材料;加項_以前年度撥款於本年度繳還數_存出保證金;加項_以前年度撥款於本年度繳還數_其他應收款;加項_預收款;加項_剔除經費;繳付公庫數;一級用途別編號;一級用途別名稱;支出實現數;加項_預付款;加項_材料;加項_存出保證金;加項_零用金;加項_退還收入預收款;加項_其他應收款;減項_以前年度撥款於本年度實現數;公庫撥入數;公庫分配數餘額;基金別;使用機關別;科目分類;會計科目編號;會計科目名稱;金額;金額_本月數;金額_累計數;科目名稱;取得成本;以前年度累計折舊_長期投資評價;本年度資本資產成本變動_增加數;本年度資本資產成本變動_減少數;本年度累計折舊_長期投資評價變動數;期末帳面金額;備註;預算項目;預算執行數;調整數;會計收支;會計科目</p>
+            <ul>
+                <li><b>關鍵字</b>: 政府支出</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 政府支出</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155660</guid>
+        </item>
+        <item>
+            <title>臺灣宜蘭地方法院111年度4月份會計月報</title>
+            <link>https://data.gov.tw/dataset/155667</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 111年4月會計月報&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 臺灣宜蘭地方法院&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 臺灣宜蘭地方法院111年度4月份會計月報&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府支出&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府支出&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 13 Jun 2022 09:06:32 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>臺灣宜蘭地方法院111年度4月份會計月報</h1>
+            <p><b>資料集說明</b>: 111年4月會計月報</p>
+            <p><b>發佈機關</b>: 臺灣宜蘭地方法院</p>
+            <p><b>主要欄位</b>: 臺灣宜蘭地方法院111年度4月份會計月報</p>
+            <ul>
+                <li><b>關鍵字</b>: 政府支出</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 政府支出</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155667</guid>
+        </item>
+        <item>
+            <title>臺中市政府資訊中心機關內部保有及管理個人資料</title>
+            <link>https://data.gov.tw/dataset/155669</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 臺中市政府資訊中心機關內部保有及管理個人資料檔案&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 臺中市政府研究發展考核委員會&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 項目;資訊說明;內容連結&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 個人資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 13 Jun 2022 09:39:38 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>臺中市政府資訊中心機關內部保有及管理個人資料</h1>
+            <p><b>資料集說明</b>: 臺中市政府資訊中心機關內部保有及管理個人資料檔案</p>
+            <p><b>發佈機關</b>: 臺中市政府研究發展考核委員會</p>
+            <p><b>主要欄位</b>: 項目;資訊說明;內容連結</p>
+            <ul>
+                <li><b>關鍵字</b>: 個人資訊</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155669</guid>
+        </item>
+        <item>
+            <title>福建高等法院金門分院111年度會計月報</title>
+            <link>https://data.gov.tw/dataset/155671</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 福建高等法院金門分院111年度會計月報xml&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 福建高等法院金門分院&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 111年2月份會計月報xml&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府支出&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府支出&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 13 Jun 2022 10:06:43 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>福建高等法院金門分院111年度會計月報</h1>
+            <p><b>資料集說明</b>: 福建高等法院金門分院111年度會計月報xml</p>
+            <p><b>發佈機關</b>: 福建高等法院金門分院</p>
+            <p><b>主要欄位</b>: 111年2月份會計月報xml</p>
+            <ul>
+                <li><b>關鍵字</b>: 政府支出</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 政府支出</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155671</guid>
+        </item>
+        <item>
+            <title>臺中市111年5月GIS門牌號碼</title>
+            <link>https://data.gov.tw/dataset/155672</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 臺中市111年5月GIS門牌號碼檔案&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 臺中市政府民政局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 省市縣市代碼;鄉鎮市區代碼;村里;鄰;街_路段;地區;巷;弄;號;TWD97橫坐標;TWD97縱坐標;WGS84經度;WGS84緯度&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 門牌, 地理資料&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 13 Jun 2022 10:11:13 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>臺中市111年5月GIS門牌號碼</h1>
+            <p><b>資料集說明</b>: 臺中市111年5月GIS門牌號碼檔案</p>
+            <p><b>發佈機關</b>: 臺中市政府民政局</p>
+            <p><b>主要欄位</b>: 省市縣市代碼;鄉鎮市區代碼;村里;鄰;街_路段;地區;巷;弄;號;TWD97橫坐標;TWD97縱坐標;WGS84經度;WGS84緯度</p>
+            <ul>
+                <li><b>關鍵字</b>: 門牌, 地理資料</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155672</guid>
+        </item>
+        <item>
+            <title>111年5月花蓮縣滯納及違章罰鍰移送執行情形月報表(以前年度)</title>
+            <link>https://data.gov.tw/dataset/155655</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: ＊統計地區範圍及對象：凡逾滯納期未經徵起之欠稅費，經移送強制執行者均屬之。 ＊統計標準時間：本月資料以每月1日至月底，累計資料以每一會計年度起始日至當月底之事實為準。&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 花蓮縣地方稅務局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 花蓮縣地方稅務局;&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府統計&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府統計&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 13 Jun 2022 10:50:01 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>111年5月花蓮縣滯納及違章罰鍰移送執行情形月報表(以前年度)</h1>
+            <p><b>資料集說明</b>: ＊統計地區範圍及對象：凡逾滯納期未經徵起之欠稅費，經移送強制執行者均屬之。 ＊統計標準時間：本月資料以每月1日至月底，累計資料以每一會計年度起始日至當月底之事實為準。</p>
+            <p><b>發佈機關</b>: 花蓮縣地方稅務局</p>
+            <p><b>主要欄位</b>: 花蓮縣地方稅務局;</p>
+            <ul>
+                <li><b>關鍵字</b>: 政府統計</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 政府統計</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155655</guid>
+        </item>
+        <item>
+            <title>111年5月花蓮縣滯納及違章罰鍰移送執行情形月報表(本年度)</title>
+            <link>https://data.gov.tw/dataset/155656</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: ＊統計地區範圍及對象：凡逾滯納期未經徵起之欠稅費，經移送強制執行者均屬之。 ＊統計標準時間：本月資料以每月1日至月底，累計資料以每一會計年度起始日至當月底之事實為準。&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 花蓮縣地方稅務局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 花蓮縣地方稅務局;&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府統計&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府統計&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 13 Jun 2022 10:50:09 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>111年5月花蓮縣滯納及違章罰鍰移送執行情形月報表(本年度)</h1>
+            <p><b>資料集說明</b>: ＊統計地區範圍及對象：凡逾滯納期未經徵起之欠稅費，經移送強制執行者均屬之。 ＊統計標準時間：本月資料以每月1日至月底，累計資料以每一會計年度起始日至當月底之事實為準。</p>
+            <p><b>發佈機關</b>: 花蓮縣地方稅務局</p>
+            <p><b>主要欄位</b>: 花蓮縣地方稅務局;</p>
+            <ul>
+                <li><b>關鍵字</b>: 政府統計</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 政府統計</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155656</guid>
+        </item>
+        <item>
+            <title>臺灣高雄地方法院111年度5月份會計月報</title>
+            <link>https://data.gov.tw/dataset/155673</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 111年度5月份會計月報&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 臺灣高雄地方法院&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 會計年度;月份;款;項;目;節;預算年度;預算科目編號;預算科目名稱;細目編號;細目名稱;原預算數;追加減數;截至本月止累計分配數_1;本月實現數;截至本月止累計實現數_2;應收收入數_3;分配數預算餘額_4;分支計畫編號;分支計畫名稱;用途別編號;用途別名稱;第一預備金;第二預備金;經費流用數;預算調整數;應付數;已分配尚未執行數;備註_預暫付數;以前年度轉入數;應收數;保留數;減免;截至本月止累計實現數;調整數;尚未執行數;業務計畫或工作計畫;經資門;執行數;會計分類;項目;收入實現數;減項_收入待納庫數;加項_以前年度待納庫繳庫數;加項_以前年度撥款於本年度繳還數_材料;加項_以前年度撥款於本年度繳還數_存出保證金;加項_以前年度撥款於本年度繳還數_其他應收款;加項_預收款;加項_剔除經費;繳付公庫數;一級用途別編號;一級用途別名稱;支出實現數;加項_預付款;加項_材料;加項_存出保證金;加項_零用金;加項_退還收入預收款;加項_其他應收款;減項_以前年度撥款於本年度實現數;公庫撥入數;公庫分配數餘額;基金別;使用機關別;科目分類;會計科目編號;會計科目名稱;金額;金額_本月數;金額_累計數;科目名稱;取得成本;以前年度累計折舊_長期投資評價;本年度資本資產成本變動_增加數;本年度資本資產成本變動_減少數;本年度累計折舊_長期投資評價變動數;期末帳面金額;備註;預算項目;預算執行數;會計收支;會計科目&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府支出&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府支出&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 13 Jun 2022 10:48:53 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>臺灣高雄地方法院111年度5月份會計月報</h1>
+            <p><b>資料集說明</b>: 111年度5月份會計月報</p>
+            <p><b>發佈機關</b>: 臺灣高雄地方法院</p>
+            <p><b>主要欄位</b>: 會計年度;月份;款;項;目;節;預算年度;預算科目編號;預算科目名稱;細目編號;細目名稱;原預算數;追加減數;截至本月止累計分配數_1;本月實現數;截至本月止累計實現數_2;應收收入數_3;分配數預算餘額_4;分支計畫編號;分支計畫名稱;用途別編號;用途別名稱;第一預備金;第二預備金;經費流用數;預算調整數;應付數;已分配尚未執行數;備註_預暫付數;以前年度轉入數;應收數;保留數;減免;截至本月止累計實現數;調整數;尚未執行數;業務計畫或工作計畫;經資門;執行數;會計分類;項目;收入實現數;減項_收入待納庫數;加項_以前年度待納庫繳庫數;加項_以前年度撥款於本年度繳還數_材料;加項_以前年度撥款於本年度繳還數_存出保證金;加項_以前年度撥款於本年度繳還數_其他應收款;加項_預收款;加項_剔除經費;繳付公庫數;一級用途別編號;一級用途別名稱;支出實現數;加項_預付款;加項_材料;加項_存出保證金;加項_零用金;加項_退還收入預收款;加項_其他應收款;減項_以前年度撥款於本年度實現數;公庫撥入數;公庫分配數餘額;基金別;使用機關別;科目分類;會計科目編號;會計科目名稱;金額;金額_本月數;金額_累計數;科目名稱;取得成本;以前年度累計折舊_長期投資評價;本年度資本資產成本變動_增加數;本年度資本資產成本變動_減少數;本年度累計折舊_長期投資評價變動數;期末帳面金額;備註;預算項目;預算執行數;會計收支;會計科目</p>
+            <ul>
+                <li><b>關鍵字</b>: 政府支出</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 政府支出</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155673</guid>
+        </item>
+        <item>
+            <title>未成年子女權利義務行使負擔人數按性別、原因及歸屬分-按登記</title>
+            <link>https://data.gov.tw/dataset/155674</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 統計年、按照別、區域別代碼、區域別、性別、原因、歸屬、未成年子女人數&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 戶政司&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: statistic_yyy;according;district_code;site_id;sex;origin;belong;children_count&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 性別統計, 人口統計, 政府統計&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府統計&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 13 Jun 2022 11:06:17 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>未成年子女權利義務行使負擔人數按性別、原因及歸屬分-按登記</h1>
+            <p><b>資料集說明</b>: 統計年、按照別、區域別代碼、區域別、性別、原因、歸屬、未成年子女人數</p>
+            <p><b>發佈機關</b>: 戶政司</p>
+            <p><b>主要欄位</b>: statistic_yyy;according;district_code;site_id;sex;origin;belong;children_count</p>
+            <ul>
+                <li><b>關鍵字</b>: 性別統計, 人口統計, 政府統計</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 政府統計</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155674</guid>
+        </item>
+        <item>
+            <title>未成年子女權利義務行使負擔人數按性別、原因及歸屬分-按發生</title>
+            <link>https://data.gov.tw/dataset/155675</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 統計年、按照別、區域別代碼、區域別、性別、原因、歸屬、未成年子女人數&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 戶政司&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: statistic_yyy;according;district_code;site_id;sex;origin;belong;children_count&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 性別統計, 人口統計, 政府統計&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府統計&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 13 Jun 2022 11:13:14 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>未成年子女權利義務行使負擔人數按性別、原因及歸屬分-按發生</h1>
+            <p><b>資料集說明</b>: 統計年、按照別、區域別代碼、區域別、性別、原因、歸屬、未成年子女人數</p>
+            <p><b>發佈機關</b>: 戶政司</p>
+            <p><b>主要欄位</b>: statistic_yyy;according;district_code;site_id;sex;origin;belong;children_count</p>
+            <ul>
+                <li><b>關鍵字</b>: 性別統計, 人口統計, 政府統計</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 政府統計</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155675</guid>
+        </item>
+        <item>
+            <title>臺灣澎湖地方法院111年5月會計月報</title>
+            <link>https://data.gov.tw/dataset/155676</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 111年5月會計月報(XML檔)&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 臺灣澎湖地方法院&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 111年5月會計月報&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府支出&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府支出&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Mon, 13 Jun 2022 11:16:01 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>臺灣澎湖地方法院111年5月會計月報</h1>
+            <p><b>資料集說明</b>: 111年5月會計月報(XML檔)</p>
+            <p><b>發佈機關</b>: 臺灣澎湖地方法院</p>
+            <p><b>主要欄位</b>: 111年5月會計月報</p>
+            <ul>
+                <li><b>關鍵字</b>: 政府支出</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 政府支出</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155676</guid>
+        </item>
+        <item>
+            <title>111年3月人口與戶籍動態登記</title>
+            <link>https://data.gov.tw/dataset/155666</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 桃園市各區里鄰戶數、人口數與戶籍動態登記數按性別、登記項目&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府民政局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 區域別;村里數現有門牌;村里數戶籍登記;鄰數現有門牌;鄰數戶籍登記;戶數;性別;人口數;遷入人數自國外;遷入人數自他省市新北市;遷入人數自他省市臺北市;遷入人數自他省市桃園市;遷入人數自他省市臺中市;遷入人數自他省市臺南市;遷入人數自他省市高雄市;遷入人數自他省市臺灣省;遷入人數自他省市福建省;遷入人數自他省市其他省市;遷入人數自本省他縣市;遷入人數自本縣市他鄉鎮市區;遷入人數初設戶籍;遷入人數其他;遷出人數往國外;遷出人數往他省市新北市;遷出人數往他省市臺北市;遷出人數往他省市桃園市;遷出人數往他省市臺中市;遷出人數往他省市臺南市;遷出人數往他省市高雄市;遷出人數往他省市臺灣省;遷出人數往他省市福建省;遷出人數往他省市其他省市;遷出人數往本省他縣市;遷出人數往本縣市他鄉鎮市區;遷出人數廢止戶籍;遷出人數其他;住址變更人數入;住址變更人數出;行政區域調整人數增;行政區域調整人數減;嬰兒出生總數婚生;嬰兒出生總數非婚生已認領;嬰兒出生總數非婚生未認領;嬰兒出生總數無依兒童;生母原屬國籍大陸港澳地區;生母原屬國籍外國籍;生父原屬國籍大陸港澳地區;生父原屬國籍外國籍;遺腹子;雙胞胎;三胞胎以上;死亡人數;認領人數;收養人數;終止收養人數;監護人數;輔助人數;未成年子女權利義務行使負擔人數;結婚對數_不同性別;結婚對數_相同性別;離婚／終止結婚對數_不同性別;離婚／終止結婚對數_相同性別&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 人口數&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Sun, 12 Jun 2022 00:49:56 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>111年3月人口與戶籍動態登記</h1>
+            <p><b>資料集說明</b>: 桃園市各區里鄰戶數、人口數與戶籍動態登記數按性別、登記項目</p>
+            <p><b>發佈機關</b>: 桃園市政府民政局</p>
+            <p><b>主要欄位</b>: 區域別;村里數現有門牌;村里數戶籍登記;鄰數現有門牌;鄰數戶籍登記;戶數;性別;人口數;遷入人數自國外;遷入人數自他省市新北市;遷入人數自他省市臺北市;遷入人數自他省市桃園市;遷入人數自他省市臺中市;遷入人數自他省市臺南市;遷入人數自他省市高雄市;遷入人數自他省市臺灣省;遷入人數自他省市福建省;遷入人數自他省市其他省市;遷入人數自本省他縣市;遷入人數自本縣市他鄉鎮市區;遷入人數初設戶籍;遷入人數其他;遷出人數往國外;遷出人數往他省市新北市;遷出人數往他省市臺北市;遷出人數往他省市桃園市;遷出人數往他省市臺中市;遷出人數往他省市臺南市;遷出人數往他省市高雄市;遷出人數往他省市臺灣省;遷出人數往他省市福建省;遷出人數往他省市其他省市;遷出人數往本省他縣市;遷出人數往本縣市他鄉鎮市區;遷出人數廢止戶籍;遷出人數其他;住址變更人數入;住址變更人數出;行政區域調整人數增;行政區域調整人數減;嬰兒出生總數婚生;嬰兒出生總數非婚生已認領;嬰兒出生總數非婚生未認領;嬰兒出生總數無依兒童;生母原屬國籍大陸港澳地區;生母原屬國籍外國籍;生父原屬國籍大陸港澳地區;生父原屬國籍外國籍;遺腹子;雙胞胎;三胞胎以上;死亡人數;認領人數;收養人數;終止收養人數;監護人數;輔助人數;未成年子女權利義務行使負擔人數;結婚對數_不同性別;結婚對數_相同性別;離婚／終止結婚對數_不同性別;離婚／終止結婚對數_相同性別</p>
+            <ul>
+                <li><b>關鍵字</b>: 人口數</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155666</guid>
+        </item>
         <item>
             <title>桃園地院111年會計月報</title>
             <link>https://data.gov.tw/dataset/155649</link>
