@@ -8,9 +8,217 @@
         <link>https://www.opendata.tw/rss</link>
         <description>Feed of Datasets added to daat.gov.tw</description>
         <language>zh-TW</language>
-        <lastBuildDate>Mon, 13 Jun 2022 17:50:08 +0800</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 10:55:03 +0800</lastBuildDate>
         <generator>rfeed v1.1.1</generator>
         <docs>https://github.com/svpino/rfeed/blob/master/README.md</docs>
+        <item>
+            <title>107年桃園市大園區土地公告現值及公告地價</title>
+            <link>https://data.gov.tw/dataset/155714</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 107年桃園大園區土地公告現值及公告地價&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府地政局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 行政區;段別;地號;公告現值;公告地價&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 大園區, 公告現值, 公告地價&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 購屋及遷徙&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 14 Jun 2022 00:43:45 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>107年桃園市大園區土地公告現值及公告地價</h1>
+            <p><b>資料集說明</b>: 107年桃園大園區土地公告現值及公告地價</p>
+            <p><b>發佈機關</b>: 桃園市政府地政局</p>
+            <p><b>主要欄位</b>: 行政區;段別;地號;公告現值;公告地價</p>
+            <ul>
+                <li><b>關鍵字</b>: 大園區, 公告現值, 公告地價</li>
+                <li><b>分類</b>: 購屋及遷徙</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155714</guid>
+        </item>
+        <item>
+            <title>桃園市消防安全設備查察處理10808.csv</title>
+            <link>https://data.gov.tw/dataset/155715</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 提供桃園市各行政區針對消防安全設備檢查家數，合格與不合格家數，及其他裁罰相關資訊&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府消防局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 區域別;期底列管家數;檢查件次;檢查合格件次;檢查不合格件次;複查件次;複查不合格件次;違規處理_限期改善件次;違規處理_舉發;違規處理_停業或停止使用;違規處理_處罰鍰件次;違規處理_處罰鍰金額_元;罰鍰收繳件次;罰鍰收繳金額_元;強制執行件次&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 安檢, 消防設備查察, 消防&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 生活安全及品質&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 14 Jun 2022 00:48:58 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>桃園市消防安全設備查察處理10808.csv</h1>
+            <p><b>資料集說明</b>: 提供桃園市各行政區針對消防安全設備檢查家數，合格與不合格家數，及其他裁罰相關資訊</p>
+            <p><b>發佈機關</b>: 桃園市政府消防局</p>
+            <p><b>主要欄位</b>: 區域別;期底列管家數;檢查件次;檢查合格件次;檢查不合格件次;複查件次;複查不合格件次;違規處理_限期改善件次;違規處理_舉發;違規處理_停業或停止使用;違規處理_處罰鍰件次;違規處理_處罰鍰金額_元;罰鍰收繳件次;罰鍰收繳金額_元;強制執行件次</p>
+            <ul>
+                <li><b>關鍵字</b>: 安檢, 消防設備查察, 消防</li>
+                <li><b>分類</b>: 生活安全及品質</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155715</guid>
+        </item>
+        <item>
+            <title>違反發展觀光條例經裁罰之非法旅宿名單(至111年05月31日止)</title>
+            <link>https://data.gov.tw/dataset/155716</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 違反發展觀光條例經裁罰之非法旅宿名單(至111年5月31日)&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 桃園市政府觀光旅遊局&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 序號;旅館名稱;違規項目;旅館地址&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 最新非法營業旅宿名單&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 休閒旅遊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 14 Jun 2022 00:51:24 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>違反發展觀光條例經裁罰之非法旅宿名單(至111年05月31日止)</h1>
+            <p><b>資料集說明</b>: 違反發展觀光條例經裁罰之非法旅宿名單(至111年5月31日)</p>
+            <p><b>發佈機關</b>: 桃園市政府觀光旅遊局</p>
+            <p><b>主要欄位</b>: 序號;旅館名稱;違規項目;旅館地址</p>
+            <ul>
+                <li><b>關鍵字</b>: 最新非法營業旅宿名單</li>
+                <li><b>分類</b>: 休閒旅遊</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155716</guid>
+        </item>
+        <item>
+            <title>臺灣臺南地方法院111年度5月會計月報</title>
+            <link>https://data.gov.tw/dataset/155717</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 111年度5月會計月報&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 臺灣臺南地方法院&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 臺灣臺南地方法院111年度5月會計月報&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府支出&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府支出&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 14 Jun 2022 08:31:49 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>臺灣臺南地方法院111年度5月會計月報</h1>
+            <p><b>資料集說明</b>: 111年度5月會計月報</p>
+            <p><b>發佈機關</b>: 臺灣臺南地方法院</p>
+            <p><b>主要欄位</b>: 臺灣臺南地方法院111年度5月會計月報</p>
+            <ul>
+                <li><b>關鍵字</b>: 政府支出</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 政府支出</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155717</guid>
+        </item>
+        <item>
+            <title>111年度5月新竹縣縣統籌分配稅款累計表</title>
+            <link>https://data.gov.tw/dataset/155718</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 111年度5月新竹縣縣統籌分配稅款累計&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 財政處&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 稅目;111年5月納庫數;截至111年5月底止累計納庫數&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: &lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 其他&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 14 Jun 2022 10:11:58 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>111年度5月新竹縣縣統籌分配稅款累計表</h1>
+            <p><b>資料集說明</b>: 111年度5月新竹縣縣統籌分配稅款累計</p>
+            <p><b>發佈機關</b>: 財政處</p>
+            <p><b>主要欄位</b>: 稅目;111年5月納庫數;截至111年5月底止累計納庫數</p>
+            <ul>
+                <li><b>關鍵字</b>: </li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 其他</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155718</guid>
+        </item>
+        <item>
+            <title>立法院111年5月會計月報</title>
+            <link>https://data.gov.tw/dataset/155719</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 立法院111年5月會計月報XML檔&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 立法院&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 會計年度;月份;款;項;目;節;預算年度;預算科目編號;預算科目名稱;細目編號;細目名稱;原預算數;追加減數;截至本月止累計分配數_1;本月實現數;截至本月止累計實現數_2;應收收入數_3;分配數預算餘額_4;分支計畫編號;分支計畫名稱;用途別編號;用途別名稱;第一預備金;第二預備金;經費流用數;預算調整數;應付數;已分配尚未執行數;備註_預暫付數;以前年度轉入數;保留數;減免;截至本月止累計實現數;調整數;尚未執行數;用途別科目;支付累計數;會計分類;項目;經資門;收入實現數;減項_收入待納庫數;加項_以前年度待納庫繳庫數;加項_以前年度撥款於本年度繳還數_材料;加項_以前年度撥款於本年度繳還數_存出保證金;加項_以前年度撥款於本年度繳還數_其他應收款;加項_預收款;加項_剔除經費;繳付公庫數;一級用途別編號;一級用途別名稱;支出實現數;加項_預付款;加項_材料;加項_存出保證金;加項_零用金;加項_退還收入預收款;加項_其他應收款;減項_以前年度撥款於本年度實現數;公庫撥入數;公庫分配數餘額;基金別;使用機關別;科目分類;會計科目編號;會計科目名稱;金額;金額_本月數;金額_累計數;科目名稱;取得成本;以前年度累計折舊_長期投資評價;本年度資本資產成本變動_增加數;本年度資本資產成本變動_減少數;本年度累計折舊_長期投資評價變動數;期末帳面金額;備註;預算項目;預算執行數;會計收支;會計科目&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府支出&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府支出&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 14 Jun 2022 10:28:01 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>立法院111年5月會計月報</h1>
+            <p><b>資料集說明</b>: 立法院111年5月會計月報XML檔</p>
+            <p><b>發佈機關</b>: 立法院</p>
+            <p><b>主要欄位</b>: 會計年度;月份;款;項;目;節;預算年度;預算科目編號;預算科目名稱;細目編號;細目名稱;原預算數;追加減數;截至本月止累計分配數_1;本月實現數;截至本月止累計實現數_2;應收收入數_3;分配數預算餘額_4;分支計畫編號;分支計畫名稱;用途別編號;用途別名稱;第一預備金;第二預備金;經費流用數;預算調整數;應付數;已分配尚未執行數;備註_預暫付數;以前年度轉入數;保留數;減免;截至本月止累計實現數;調整數;尚未執行數;用途別科目;支付累計數;會計分類;項目;經資門;收入實現數;減項_收入待納庫數;加項_以前年度待納庫繳庫數;加項_以前年度撥款於本年度繳還數_材料;加項_以前年度撥款於本年度繳還數_存出保證金;加項_以前年度撥款於本年度繳還數_其他應收款;加項_預收款;加項_剔除經費;繳付公庫數;一級用途別編號;一級用途別名稱;支出實現數;加項_預付款;加項_材料;加項_存出保證金;加項_零用金;加項_退還收入預收款;加項_其他應收款;減項_以前年度撥款於本年度實現數;公庫撥入數;公庫分配數餘額;基金別;使用機關別;科目分類;會計科目編號;會計科目名稱;金額;金額_本月數;金額_累計數;科目名稱;取得成本;以前年度累計折舊_長期投資評價;本年度資本資產成本變動_增加數;本年度資本資產成本變動_減少數;本年度累計折舊_長期投資評價變動數;期末帳面金額;備註;預算項目;預算執行數;會計收支;會計科目</p>
+            <ul>
+                <li><b>關鍵字</b>: 政府支出</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 政府支出</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155719</guid>
+        </item>
+        <item>
+            <title>臺灣高等法院111年度會計報告</title>
+            <link>https://data.gov.tw/dataset/155720</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 臺灣高等法院111年度1-12月會計月報&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 臺灣高等法院&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 111年2月會計月報&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 政府支出&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府支出&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 14 Jun 2022 10:26:02 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>臺灣高等法院111年度會計報告</h1>
+            <p><b>資料集說明</b>: 臺灣高等法院111年度1-12月會計月報</p>
+            <p><b>發佈機關</b>: 臺灣高等法院</p>
+            <p><b>主要欄位</b>: 111年2月會計月報</p>
+            <ul>
+                <li><b>關鍵字</b>: 政府支出</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 政府支出</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155720</guid>
+        </item>
+        <item>
+            <title>臺中市政府人事處111年度辦理公告金額以上採購案件預定招標時程表</title>
+            <link>https://data.gov.tw/dataset/155721</link>
+            <description>&lt;p&gt;&lt;b&gt;資料集說明&lt;/b&gt;: 臺中市政府人事處各年度辦理公告金額以上採購案件預定招標時程表，因各招標案件可能因政策、預算或其他因素造成本表相關資訊異動，故本表資訊僅供參考。&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;發佈機關&lt;/b&gt;: 臺中市政府人事處&lt;/p&gt;
+            &lt;p&gt;&lt;b&gt;主要欄位&lt;/b&gt;: 編號;採購案名稱;預算金額(新臺幣);標的屬性;年度;1月;2月;3月;4月;5月;6月;7月;8月;9月;10月;11月;12月&lt;/p&gt;
+            &lt;ul&gt;
+                &lt;li&gt;&lt;b&gt;關鍵字&lt;/b&gt;: 採購, 公告金額, 政府統計&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;分類&lt;/b&gt;: 公共資訊&lt;/li&gt;
+                &lt;li&gt;&lt;b&gt;主題&lt;/b&gt;: 政府統計&lt;/li&gt;
+            &lt;/ul&gt;
+            &lt;div&gt;&lt;img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/&gt;&lt;/div&gt;</description>
+            <author>whisky@opendata.tw (whisky)</author>
+            <pubDate>Tue, 14 Jun 2022 10:50:49 +0800</pubDate>
+            <content:encoded><![CDATA[<h1>臺中市政府人事處111年度辦理公告金額以上採購案件預定招標時程表</h1>
+            <p><b>資料集說明</b>: 臺中市政府人事處各年度辦理公告金額以上採購案件預定招標時程表，因各招標案件可能因政策、預算或其他因素造成本表相關資訊異動，故本表資訊僅供參考。</p>
+            <p><b>發佈機關</b>: 臺中市政府人事處</p>
+            <p><b>主要欄位</b>: 編號;採購案名稱;預算金額(新臺幣);標的屬性;年度;1月;2月;3月;4月;5月;6月;7月;8月;9月;10月;11月;12月</p>
+            <ul>
+                <li><b>關鍵字</b>: 採購, 公告金額, 政府統計</li>
+                <li><b>分類</b>: 公共資訊</li>
+                <li><b>主題</b>: 政府統計</li>
+            </ul>
+            <div><img src="https://data.gov.tw/_nuxt/img/logo.4fd0012.svg" width="400"/></div>]]></content:encoded>
+            <guid isPermaLink="true">https://data.gov.tw/dataset/155721</guid>
+        </item>
         <item>
             <title>公務人員保障暨培訓委員會111年5月會計月報</title>
             <link>https://data.gov.tw/dataset/155660</link>
